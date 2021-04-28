@@ -1,0 +1,130 @@
+---
+title: ribo-depletion in RNA-seq
+---
+
+## [[RNA-Seq]] can detect novel coding and non-coding genes, splice [[isoforms]], single nucleotide variants and gene fusions. Its broader dynamic range also enables sensitive detection of low abundance transcripts.
+
+## A major limitation encountered in [[RNA-Seq]] however is the massive abundance of [ribosomal RNA (rRNA) that can occupy up to 90% of RNA-Seq reads](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/0471142727.mb0419s103).  This necessitates additional steps for ribo-depletion or rRNA depletion to economize an RNA-Seq experiment.
+
+## **info** found this [blog](https://www.rna-seqblog.com/ribo-depletion-in-rna-seq-which-ribosomal-rna-depletion-method-works-best/)
+
+## **Table of contents**:
+### ((487c0752-62e4-4ed1-b4f8-c99c4a73bd3a))
+
+### ((d3ee3692-7f61-4973-ad2e-b05d4ba1d190))
+
+### ((15787e86-11ac-49d9-87ee-48a73ef63f19))
+
+### ((c3efa8e4-3403-4915-b334-0ff20a5864cd))
+
+## 
+
+## 
+
+## Ribo-Depletion Methods
+### **1) Poly-A selection**
+:PROPERTIES:
+:ID:487c0752-62e4-4ed1-b4f8-c99c4a73bd3a
+:END:
+#### The most common method of rRNA depletion is poly-A selection, which relies on the use of oligo (dT) primers attached to a solid support (e.g. magnetic beads) to isolate protein-coding polyadenylated RNA transcripts. 
+
+#### The ^^main disadvantage^^ though is one ^^misses out on non-polyadenylated transcripts^^ which include microRNAs, small nucleolar RNAs (snoRNAs), some long non-coding RNAs (lncRNA), and even some protein-coding RNAs (histones) which lack polyA tails. 
+
+#### As a result, one fails to capture biologically relevant insights on these RNAs which make up a substantial proportion of the transcriptome.
+
+#### {{[[table]]}}
+##### Advanatges
+###### Disadvanatges
+
+##### Lower sequencing depth needed
+###### Does not detect non-polyA transcripts including miRNA, snoRNAs, and some lncRNAs
+
+##### Greater exonic coverage
+###### Less information on immature transcripts
+
+##### 
+###### Performs poorly for degraded RNA or FFPE samples
+
+##### 
+###### Bias towards 3' end of transcripts
+
+##### 
+###### cannot be used for prokaryotes
+
+#### polyadenylated transcripts are more abundant in eukaryotes as opposed to prokaryotes
+
+#### Hence, polyA selection cannot be applied for sequencing of bacteria and archaebacteria, excluding its use in metagenomic RNA-Seq.
+
+#### Poly-A selection also relies on transcripts being largely intact and tend to over-represent 3′ regions of transcripts. Studies comparing physical rRNA depletion methods and polyA selection show polyA selection did not work well for **degraded RNA samples**. A lower number of reads were also obtained with [formalin-fixed paraffin-embedded (FFPE) tissues though analysis of fresh frozen tissues was not compromised.](https://dx.doi.org/10.1186/s12864-018-4761-3)
+
+## 
+### **2) Physical Ribosomal RNA (rRNA) removal**
+:PROPERTIES:
+:ID:d3ee3692-7f61-4973-ad2e-b05d4ba1d190
+:END:
+#### Ribosomal rRNA can also be removed by hybridization to complementary biotinylated oligo probes, followed by extraction with streptavidin-coated magnetic beads. [riboPOOLs developed by siTOOLs Biotech](https://www.sitoolsbiotech.com/ribopools.php) efficiently removes rRNA through this route, with a workflow similar to Ribo-Zero from Illumina.
+
+#### ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FfJreoLWnJs.png?alt=media&token=7c979256-43f4-480a-a652-4f58dacc6b6c)
+
+#### Compared to polyA selection methods, rRNA removal enables detection of non-polyadenylated transcripts and small RNAs.  Comparisons between differential gene expression detected with both methods were typically well-correlated. [The rRNA removal method however could detect both long and short transcripts showing less of a 3′ bias than polyA selection](https://www.sciencedirect.com/science/article/pii/S0888754310001746?via%3Dihub).
+##### Physical rRNA removal also performs better for degraded and FFPE samples, and can also be applied for metagenomic samples that contain microbes. The[ Pan-Prokaryote riboPOOL by siTOOLs](https://www.sitoolsbiotech.com/pdf/PanProriboPOOL_190516.pdf) for example, functions effectively to remove rRNA from a diverse range of prokaryotic species, and can be used in combination with human and mouse/rat riboPOOLs to deplete rRNA from complex samples containing multiple species.
+
+##### {{[[table]]}}
+###### Advantages
+####### Disadvantages
+
+###### Able to detect small and non-polyadenylated RNAs
+####### Greater [[intronic]] reads
+
+###### Detects long and short transcripts (no 3' bias)
+####### Greater sequencing depth required
+
+###### Better performance on degraded RNA or FFPE samples
+
+###### Applicable for prokaryotes
+
+###### Can be applied towards other abundant RNA
+
+##### By using targeted probes, one can also flexibly deplete abundant RNAs that take up expensive RNA-Seq reads. For example, globin, found in high amounts in RNA isolated from blood samples, can be efficiently depleted by globin mRNA-specific probes.
+
+##### Ribosomal RNA can also be removed by selective degradation where enzyme RNase H is used to specifically degrade DNA-RNA hybrids formed between DNA probes and complementary rRNA (e.g. NEBNext rRNA depletion kit by New England Biolabs). This method was reported to produce consistent results, working as well on degraded samples though there was [a bias against detecting transcripts of shorter length compared to Ribo-Zero.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4585-1)
+
+## 
+### **3) Targeted amplification**
+:PROPERTIES:
+:ID:15787e86-11ac-49d9-87ee-48a73ef63f19
+:END:
+#### An alternative method to deplete rRNA involves the use of  “not so random” hexamer/heptamer primers with a decreased affinity for rRNA during first strand cDNA synthesis. This is employed by the Ovation RNA-Seq kits from NuGen. Though the kit can be  used to detect non-polyA RNAs and can be applied to prokaryotes, the additional incorporation of oligo(dT) still contributes to [a bias towards detecting 3′ regions](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5066-2).
+
+#### [A recent ribosome profiling study](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5066-2) comparing library preparation methods reported fewer reads obtained and greater [[intronic]] reads for Nugen kits compared to polyA-selection methods. As Nugen also incorporated an RNase-mediated degradation of unwanted transcripts during final library construction steps, this indicates targeted amplification alone cannot totally remove rRNA. The method does however work with low input amounts and degraded samples.
+
+#### {{[[table]]}}
+##### Advantages
+###### Disadvantages
+
+##### Able to detect small and non-polyadenylated RNAs
+###### Bias towards 3' end of transcripts
+
+##### Better performance on degraded RNA or FFPE samples
+###### Greater sequencing depth required
+
+##### Applicable for prokaryotes
+###### Greater [[intronic]] reads
+
+##### Suitable for low input RNA
+
+## 
+### **So which ribo-depletion method works best?**
+:PROPERTIES:
+:ID:c3efa8e4-3403-4915-b334-0ff20a5864cd
+:END:
+#### And the answer as always? It depends. Depending on the ribo-depletion method chosen in RNA-Seq library preparation, some differences in genes detected and their expression levels will certainly be observed.
+
+#### Poly-A selection might be the most efficient method when only focussed on protein-coding genes, but one loses significant information on non-polyadenylated RNAs and immature transcripts. In instances such as microbial sequencing or in sequencing degraded or FFPE samples, poly-A selection cannot even be applied or may perform poorly.
+
+#### Physical rRNA removal offers the advantage of retrieving more transcriptomic information but comes at a cost of greater [[intronic]]/intergenic reads that necessitates a greater sequencing depth. However, it offers greater flexibility and better performance in sequencing of challenging sample types.
+
+#### Targeted amplification with “not so random” primers though effective for low input material, comes also at a cost of greater sequencing depth required.
+
+#### All methods are subject to some extent of non-specificity and detection bias. Further variability can also arise from different methods of sequence alignment in RNA-Seq data analysis. It is therefore always advisable to validate sequencing data obtained by 
+real-time quantitative PCR (rtqPCR) or other methods.

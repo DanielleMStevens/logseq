@@ -1,0 +1,72 @@
+---
+title: Papers to Read
+---
+
+## https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:d0102dd7-55d6-4826-862e-4cd36ed54aec
+
+## http://www.plantphysiol.org/content/plantphysiol/150/4/1623.full.pdf
+
+## https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:0940595d-dead-4e5f-847d-23311612c4c4
+
+## https://mmbr.asm.org/content/mmbr/80/3/891.full.pdf
+
+## https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:e65176a4-9aa5-4830-8423-f9d1859a6e39
+
+## Genomics/Computational Biology:
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:17c1e0ae-5faa-47b9-8003-ae057de9cd8a
+
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:f5aef2e2-ac64-4396-be48-6a4527ee3132
+
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:030c9610-e009-400b-8271-d7d406f9f686
+
+### https://www.annualreviews.org/doi/pdf/10.1146/annurev-genet-112414-055018
+
+## Transposons
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:78ecdf67-e073-4c86-97c0-b920800af6e0
+
+## Plant Immunity:
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:a6022aca-04bb-43c1-a7c1-24aac5616c47
+
+### [[Plant Immunity: Danger Perception and Signaling]]
+
+## Pop. Gen:
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:774e3336-7ef4-4a60-b72b-dff39149d1e9
+
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:0a602d8e-33ca-42bb-945a-0d21b576738b
+
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:af662ebd-6422-4cca-841c-1d094a737b33
+
+## Project related/tools:
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:827d0b43-6888-4c08-b615-7cb5a4228f11
+
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:739c0f37-aa93-4f6e-84dc-a27665fa91ce
+
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:e527e3f6-3441-4cf5-a828-63809f7028cd
+
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:ab75e59f-0c1b-4484-9d55-40e6a1cf5037
+
+## HGT:
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:6ec9bd3a-1fd4-4a00-bd37-a454b46272eb
+
+## https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:0c47c289-ddb6-4248-baaa-046f1d381154
+
+## 
+
+## Future Papers to Read:
+### https://www.sciencedirect.com/science/article/abs/pii/S0169743901001010
+
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:17bae68f-4175-470f-a437-8e7fff7e98e8
+
+### https://apsjournals.apsnet.org/doi/pdf/10.1094/MPMI.2001.14.11.1312
+
+### https://www.sciencedirect.com/science/article/abs/pii/S156713481100267X
+
+### https://www.biorxiv.org/content/10.1101/2020.05.31.126763v1.full.pdf
+
+### https://www.annualreviews.org/doi/pdf/10.1146/annurev-micro-090817-062702
+
+### https://www.jbc.org/content/293/5/1515.full.pdf+html
+
+### https://www.sciencedirect.com/science/article/abs/pii/S0003269701954442?via%3Dihub
+
+### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:245df492-9884-40dc-9997-930b431a154d

@@ -1,0 +1,30 @@
+---
+title: Secretion Systems
+---
+
+## **Sec**
+### Sec export system main route of protein export across all of life
+
+## **Tat**
+### specialized system exports proteins and protein complexes that must be folded or assembled in the cytoplasm
+#### G+: TatAC
+
+#### G-: TatABC
+
+#### requires energy for exportation via proton motor force
+
+### in plant pathogens, TatC mutants have attenuated virulence + show pleiotropic effects
+#### Pseudomonas syringae, Xanthamonas oryzae, Ralstonia, Agrobacterium
+
+## **T1SS**
+### G+: rely on ABC transport machinery and membrane-fusion-proteins (MFPs)
+
+### G-: also has an outermembrane protein
+
+### ATP binding leads to conformational changes in transmembrane domain to be able to push unfolded peptides out
+
+## **T2SS**
+### Found in G- bacteria, many times necessary for pathogenesis
+#### secretes CAZymes
+
+#### cargo must be folded to enter and get pushed out by the psuedopillus

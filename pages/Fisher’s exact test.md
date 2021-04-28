@@ -1,0 +1,11 @@
+---
+title: Fisher’s exact test
+---
+
+## What is Fisher’s Exact Test of Independence?
+
+## Fisher’s Exact Test of Independence is a statistical test used when you have two nominal variables and want to find out if **proportions **for one nominal variable are different among values of the other nominal variable. For experiments with small numbers of participants (under around 1,000), Fisher’s is more accurate than the [chi-square](https://www.statisticshowto.com/probability-and-statistics/chi-square/) test or G-test.
+
+## Unlike other statistical tests, there isn’t a formula for Fisher’s. To get a result for this test, calculate the probability of getting the observed data using the null hypothesis that the proportions are the same for both sets.
+
+## **Fisher’s Exact Test of Independence example situation:** You are studying if certain treatments for skin cancer lead to good outcomes. The first nominal variable is the treatment: some patients are given drug X and others are given drug Y. The second nominal variable is the outcome: patients are cured of cancer, or they are not. When you complete the study of 50 patients, you find that the percentage of patients who were cured and took drug X is much higher than patients who took drug Y. Fisher’s Exact Test of Independence will tell you if your results are [statistically significant](https://www.statisticshowto.com/what-is-statistical-significance/).

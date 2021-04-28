@@ -1,0 +1,66 @@
+---
+title: Induction of disease resistance by the plant activator, acibenzolar-S-methyl (ASM), against bacterial canker (Clavibacter michiagnensis subsp. michiganensis) in tomato seedlings
+---
+
+## **Authors**: [[Soner Soylu]], [[Omur Baysal]], and [[E. Mine Soylu]]
+
+## **Journal**: [[Plant Science]]
+
+## **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:1806ee18-f339-4937-a4c6-edbf5fc9dd77
+
+## **Tags**: #[[plant immunity]] #clavibacter #[[Clavibacter michiganensis]] #[[SA Induction]]
+
+## **Abstract**:
+### Pre-treatment of plants with [[ASM]] reduced the severity of the disease as well as the growth of the bacteria in planta
+
+### In plants treated with ASM, activities of [[peroxidase]] (POX) and 
+[[glutathione peroxidase]] (GPX) were determined as markers of resistance
+
+### expressed earlier and with a much higher magnitude when ASM-treated seedlings were challenged with the pathogen
+
+## **Introduction**:
+### [[SAR]] is characterized by a reduction in the number and severity of lesions following challenge inoculation with a normally virulent pathogen
+
+### The development of SAR is associated with various cellular defense 
+responses include:
+#### - synthesis of pathogenesis-related (PR) proteins
+- phytoalexins
+- accumulation of reactive oxygen species ([[ROS]])
+- rapid alterations in cell walls
+- enhanced activity of various defence-related enzymes
+
+### [[ROS]], produced via an oxidative burst, are under the control of enzymes such as [[NADPH oxidase]] and peroxidases
+
+### POXs have been implicated in the crosslinking reactions of cell wall associated proteins such as hydroxyproline-rich or glycine-rich glycoproteins
+
+### As a result of oxidative cross-linking reactions, cell walls may be strengthened
+
+## **Results**:
+### resistance induced by the [[ASM]] treatment was already evident 4 dpi and lasted for the entire experimental period (until 14 dpi)
+
+### disease index was reduced by 75% in [[ASM]]-treated seedlings 7 dpi, and this was maintained at the same level until 14 dpi
+
+### ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FSRVPc3AGIR.png?alt=media&token=4674ea6d-1a0f-4c3a-9f21-c5dd37c907e8)
+
+### The growth of Cmm was markedly reduced in ASM-treated seedlings compared with the water-treated control
+
+### bacterial population was reduced by 62.8, 68.2 and 60.5% by ASM
+
+### ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FfAZbwPaCZ7.png?alt=media&token=c8402cf8-674f-452e-9e70-26a678b9058c)
+
+### In tomato plants treated with ASM, the expression of induced resistance was associated with enhanced POX activity
+
+### POX activity increased with time and reached the highest level 5 dpi
+
+### Treatment of seedlings with ASM followed by inoculation with Cmm also resulted in a marked increase in GPX activity
+
+### The activity observed by 5 days was significantly higher than that of control plants
+
+### ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FLCVbCjHPha.png?alt=media&token=8fe8d783-240d-4eb1-920e-a22e53255aad)
+
+## **Discussion**:
+### Similar enhanced disease resistance induced by [[ASM]] was shown in tomato plants against fungal, bacterial and viral disease agents
+
+### In tomato, bacterial growth of [[Pseudomonas syringae]] pv. tomato was not significantly inhibited by ASM in vitro
+
+### suggesting that the protection of tomato seedlings against pathogens is due to activation of the plant defense mechanisms.

@@ -1,0 +1,57 @@
+---
+title: Clavibacter: a new genus containing some phytopathogenic coryneform bacteria, including Clavibacter xyli subsp. xyli sp. nov., subsp. nov., and clavibacter xyli subsp. cynodontis subsp. nov., Pathogens that cause ratoon stunting disease of sugarcane and bermudagrass stunting disease
+---
+
+## **Authors:** [[Michael J. Davis]], [[A, Graves Gillaspie, Jr.]], [[Anne K. Vidaver]], and [[Russell W. Harris]]
+
+## **Journal**: [[International Journal of Systematic Bacteriology]]
+
+## **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:1bfc8f6c-92b6-46e8-9e2d-d41b25132f66
+
+## **Tags**: #Coryneform #clavibacter #Leifstonia
+
+## **Abstract**:
+### 23 strains of coryneform bacteria: 17 cause ratoon stunting disease of sugarcane & 6 cause bermudagrass stunting disease 
+
+### cell wall composition analysis: contains 2,4-diaminobutyric acid with rhamnose and fucose
+
+### polysaccharide gel analysis shows similar patterns to Corynebacterium Clavibacter michiganensis
+
+## **Introduction**:
+### Disease originally thought to be due to virus; microscopy of healthy and sick sugarcane showed otherwise
+
+### two diseases are pathologically distinct: including symptoms in its natural hosts but not in the natural host of the other bacterium; both bacteria are capable of multiplying in xylem vessel of both hosts
+
+### ratoon stunting agent is transmissible to several graminaceous host, which remain symptomless
+
+### all are gram-positive, non-spore forming, non-acid fast
+
+## **Results**:
+### neither strain was flagellated, nor was motility observed in agar or broth
+
+### optimal growth temperature: 23-30C
+
+### G+C content: ratoon stunting strains L1A & B1B ~ 66%
+
+### diaminobutyric acid, glutamic acid, alanine, and glycine present in the cell wall
+
+## **Discussion**:
+### Saprophytic coryneform bacteria with similar cell wall composition: Clavibacter genus
+#### Corynebacterium michiganensis subsp. michiganensis: Smith 1910
+
+#### Corynebacterium michiganensis subsp. nebraskensis: Schuster 1973
+
+#### Corynebacterium michiganensis subsp. insidiosus: McCulloch 1925
+
+#### Corynebacterium michiganensis subsp. sepedonicus: Spieckermann and Kotthoff 1914
+
+#### Corynebacterium michiganensis subsp. tessellarius Carlson and Vidaver 1982
+
+### gram-positive, non-acid fast, pleomorphic rods which are often arranged in 'v'
+
+### endospores do not form, non-motile, obligately aerobic
+
+### major amounts of rhamnnose but not arabinose found in the cell wall
+#### does not have mycolic acids
+
+### non-hydroxylated fatty acids consist of mostly anteiso- and iso-methyl branched chains; minor amounts of straight-chained saturated acids

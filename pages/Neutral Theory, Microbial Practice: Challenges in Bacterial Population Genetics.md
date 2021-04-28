@@ -1,0 +1,57 @@
+---
+title: Neutral Theory, Microbial Practice: Challenges in Bacterial Population Genetics
+---
+
+## **Authors**: [[Eduardo P.C. Rocha]]
+
+## **Journal**: [[Molecular Biology and Evolution]]
+
+## **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:2dd44f46-df67-4247-b927-40d0a9d62cea
+
+## **Tags**: #[[Population Genetics]] #[[Bacterial Population Genetics]] #[[Neutral Theory]]
+
+## **Abstract**:
+### 4 major problems for bacterial population genetics
+#### 1. lack of neutral polymorphisms
+
+#### 2. modeling of promiscuous genetic exchange
+
+#### 3. genetics of 'ill-defined' populations
+
+#### 4. difficulty with untangling selection and demography
+
+### Other issues with non-random sampling, how to account for pervasive selection and strong genetic linkage
+
+### 
+
+## **Are There Neutral Polymorphisms in Prokaryotes?**:
+### ^^Neutral Mutation-Random Drift Hypothesis^^: at the molecular level most evolutionary change and variability within a species are not caused by [[Darwinian Selection]] but by [[genetic drift]] of mutant alleles that are selectively neutral or nearly neutral
+
+### mutant alleles are not necessarily neutral but their fate is largely random (i.e. genetic drift)
+
+### [[2nd Principle of Molecular evolution]]: states that “functionally less important molecules or parts of a molecule evolve faster than more important ones” [(Kimura and Ohta, 1974)]([[On Some Principles Governing Molecular Evolution]]).
+
+### nonsynonymous mutations are much more numerous and have stronger fitness effects than synonymous mutations
+
+### fitness effects are usually negative: mutations are gradually purged from populations by natural selection
+
+### In the absence of strong genetic linkage (an unwise assumption for bacteria, see below), mutations behave neutrally when $$|Ne*s| << 1$$ [(Kimura 1968)](https://www.nature.com/articles/217624a0), where $$Ne$$ is the effective population size and $$s$$ the selection coefficient. 
+#### large load of deleterious mutations is not necessarily evidence against 
+the neutral theory if they are quickly purged from populations
+
+### For more divergent genomes, the ratio rapidly decreases to low values, suggesting that many nonsynonymous mutations have weak negative effects in fitness and remain in populations for a long period of time before being purged by natural selection
+
+### Obligatory endosymbiotic bacteria endure sexual isolation and frequent population bottlenecks, lowering the efficiency of which natural selection can remove deleterious alleles and as a result, many genes become lost
+
+### [[Purifying Selection]] leads to low ratois o
+
+### 
+
+## **Results**:
+
+## **Discussion**:
+
+## Other Notes
+### Ka/Ks is a good indicator of selective pressure at the sequence level, evolutionary change can take place in regulatory regions of a gene, which can affect level, timing, location of gene expression
+
+### synonymous substitutions can be affected by natural selection (i.e. [[codon usage]] bias), with most mutations being deleterious in bacteria

@@ -1,0 +1,68 @@
+---
+title: Class Notes + 
+General Knowledge
+---
+
+## [[Phylogenetics 290]]
+
+## [[Core Genetic Topics:]]
+### ((0c3e1aa1-797b-4a9a-8b13-6c7855dd7887))
+
+### ((f76e011f-a081-48a2-8a8f-b0b226248c14))
+
+### ((9f63935d-8407-46c0-813d-116fc18c14ef))
+
+### [[GGG201D Class Notes]]
+
+## **Statistics**:
+### [[Fisher’s exact test]]
+
+### [[Benjamini–Hochberg correction]]
+
+## 
+
+## **Plant Biology Topics:**
+### [[plant immunity]]
+
+## 
+
+## **Microbiology Topics:**
+### [[Secretion in Gram-positive Bacteria]]
+
+### [[Secretion Systems]]
+
+## 
+
+## **Molecular/Cell Biology Topics:**
+### [[Cell Cycle]]
+
+### [[Mitosis]]
+
+### [[Transposable Elements]]
+
+### 
+
+## **Molecular Plant-Micobe Interactions:**
+### [[Fundamental Concepts and Questions in MPMI]]
+
+## 
+
+## **PLP228 - Bacteriology**
+### [[PLP228 - Huanglongbing - Citrus Greening]]
+
+### [[PLP228 - Coconut Lethal Yellowing Diseases]]
+
+## 
+
+## **Course Work Notes**
+### [[Understanding Genetic Variation]]
+
+### [[History of Genetics Seminar - GGG291]]
+
+### [[Genomics - GGG201B]]
+
+### 
+
+## [[Evolution and Ecology of CRISPR]]
+
+## [[Phylogenetics Seminar]]

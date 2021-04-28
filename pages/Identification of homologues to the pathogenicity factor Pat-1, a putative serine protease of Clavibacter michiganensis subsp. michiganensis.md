@@ -1,0 +1,76 @@
+---
+title: Identification of homologues to the pathogenicity factor Pat-1, a putative serine protease of Clavibacter michiganensis subsp. michiganensis
+---
+
+## **Authors**: [[Annette Burger]], [[Ines Grafen]], [[Jutta Engemann]], [[Erik Niermann]], [[Martina Pieper]], [[Oliver Kirchner]], [[K.-H. Gartmann]], and [[R. Eichenlaub]]
+
+## **Journal**: [[Microbiological Research]]
+
+## **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:abe36232-5f7c-4158-b70a-13659fd035dd
+
+## **Tags**: #clavibacter #[[Clavibacter michiganensis]] #effectors
+
+## **Abstract**:
+### Hybridization of [[Clavibacter michiganensis]] total DNA against the pathogenicity gene pat-1 indicated the presence of pat-1 homologous nucleotide sequences on the chromosome and on plasmid pCM2
+
+### three [[pat-1]] homologous genes: [[chpA]] (chromosome) and [[phpA]] and [[phpB]] (plasmid pCM2)
+
+### a signal sequence for Sec-dependent secretion, a serine protease motif, and six cysteine residues at conserved positions.
+
+### cloning of the plasmid encoded homologs [[phpA]] and [[phpB]] into the avirulent plasmid free Cmm strain [[Cmm100]] did not result in a virulent phenotype
+
+### no proteolytic activity could be demonstrated for [[pat-1]], however, site specific mutagenesis of pat-1 showed that the serine residue in the motif GDSGG is required for the virulent phenotype of pat-1 and thus Pat-1 could be a functional protease.
+
+## **Introduction**:
+### While the plasmid-free strain [[Cmm100]] does not induce wilting of infected tomato plants, introduction of either of the two pathogenicity genes, [[celA]] or [[pat-1]], on a cloning vector restores virulence of cmm100 and results in wilting of the plants (Meletzus et al., 1993).
+
+### The introduction of a frameshift mutation into the [[pat-1]] coding region leading to a complete loss of the pathogenic phenotype confirmed that the Pat-1 protein represents a pathogenicity factor (Dreier et al., 1997).
+
+### When using the labeled pat-1 gene as a probe in hybridizations against total DNA of strain [[NCPPB  382]], additional signals appear indicating sequences that have homology to the pat-1 probe.
+
+## **Results**:
+### **Cloning and characterization of pat-1 homologous genes**:
+#### after isolation of the cosmid and hybridization of PstI digested cosmid DNA against this pat-1 probe, the hybridizing chpA sequence was mapped to a 3.1 kb PstI fragment
+
+#### pat-1 homologous genes, phpA and phpB, orientated in opposite directions to each other.
+
+#### BglII fragment carrying phpA and phpB was cloned into the E.coli–Clavibacter shuttle-vector pDM302 and introduced into the plasmid free, avirulent strain [[Cmm100]]
+
+#### cloned B7-fragment induced wilting in 50% of infected plants after 12 days, ^^even four weeks after infection neither wilting symptoms nor a reduction of biomass^^ of the infected plants compared to plants infected ^^with CMM100(pDM302:B9) was observe^^
+
+#### ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FGAaKxz1eOi.png?alt=media&token=9e2af3f4-97fa-4897-b45b-0bf1a19232a4)
+
+#### N-terminal signal peptide with a putative processing site [AQA|V]([[AXA motif]]) and thus may comprise secreted protein
+
+#### they all possess the serine protease motif GDSGG near the C-terminus and also (with slight variation) the second protease motif (LIVM)-(ST)-A-(STAG)-H-C around a conserved histidine, which is typical for [[serine proteases]] of the trypsin family (Brenner, 1988).
+
+#### One feature distinguishes the pathogenicity determinant [[pat-1]] from the other members of the Pat-1 family: starting at aa position 251 there is the motif LPGSG, which may comprise a sortase signal characteristic for proteins anchored to the bacterial cell wall of Gram-positive bacteria
+
+### **Codon-usage and GC-content of pat-1 homologous genes**:
+#### several codons were found to be extremely rare: UUU (Phe), UUA and CUU (Leu), AUU and AUA (Ile), ACU (Thr), UAU (Tyr), CAA (Gln), AAA (Lys), GAA (Glu), UGU (Cys), and AGU (Ser) are used in less than 1% of the codons for the corresponding amino acid
+
+#### Together these 12 codons make up only 0.9% of the 12,986 codons analysed in Clavibacter (Table 2).
+
+### **Site-specific mutagenesis of pat-1**:
+#### Most of the [[serine proteases]] of the trypsine family have two typical domains adjacent to a conserved histidine and flanking a conserved serine residue. These residues are part of a catalytic triad acting as a charge relay system for the nucleophilic attack on amide or ester bonds and are essential for the postulated function of Pat-1 as a serine protease
+
+#### Wilting symptoms were observed in the positive control in which plants were infected with CMM100(pJD1572) (wilting index of 12 d) and for the plants infected with CMM100(pEN202) (‘cleavage site’) with a slightly reduced virulence as reflected by a wilting index of 14 days. Plants infected with CMM100(pEN201), CMM100(pEN203) and CMM100(pDM302) ^^did not induce any disease symptoms in infected plants.^^
+
+#### A colonization titer of $$10^9$$ bacteria per gram plant tissue as typical for virulent strains was reached in all infected plants which were examined.
+
+#### The mutation in the putative processing site of [[pat-1]], however, did not lead to a pronounced effect on pathogenicity but only slightly reduced virulence.
+
+## **Discussion**:
+### These data imply that pat-1 and the homologous genes might be acquired from a different organism perhaps by [[Horizontal Gene Transfer]]
+
+### In [[Ralstonia solanacearum]] the hrp genes are located within a [[pathogenicity island]] carried by a megaplasmid whereas they are located on the chromosome in Erwinia, Pseudomonas, and [[Xanthomonas]]
+
+### Neither did we find a proteolytical activity in the culture supernatant from [[Clavibacter michiganensis]] although different protease substrates were used (casein, azocasein, azocoll, chromogenic oligopeptides).
+
+### Otherwise [[pat-1]] might have a specific substrate which is only present in the interaction with the host plant.
+
+### The importance of an intact start codon demonstrates that translation of pat-1 is necessary and that Pat-1 acts as a protein and not as a regulatory RNA.
+
+### proteases serve a nutritional function by providing amino acids from protein degradation.
+
+## Other Notes

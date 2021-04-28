@@ -1,0 +1,54 @@
+---
+title: Plant E3 ligases SNIPER1 and SNIPER2 broadly regulate the homeostasis of sensor NLR immune receptors
+---
+
+## **Authors**: [[Zhongshou Wu]], [[Meixuezi Tong]], [[Lei Tian]], [[Chipan Zhu]], [[Xueru Liu]], [[Yuelin Zhang]], and [[Zin Li]]
+
+## **Journal**: [[EMBO Journal]]
+
+## **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:a5e3853b-bb5b-4ad2-9254-cc0bbad0185f
+
+## **Tags**:
+
+## **Abstract**:
+### identified two novel E3ligases, SNIPER1and its homolog SNIPER2
+
+### Protein levels of sensor NLRs (sNLRs) are inversely correlated with SNIPER1amount and the interactions between SNIPER1and sNLRs seem to be through the common nucleotide-binding (NB) domains of sNLRs.
+
+### SNIPER1 can ubiquitinate the NB domains of multiple sNLRs in vitro
+
+## **Introduction**:
+### distinct Arabidopsis RPP1(Recognition of Peronospora Parasitica 1) alleles can specifically recognize differential ATR1
+
+### Proper control of NLR homeostasis is critical, as over-accumulation or aberrant activation of NLR can lead to autoimmunity and growth defects, whereas insufficient NLR accumulation may result in susceptibility to pathogens
+
+### snc1, a gain-of-function allele of TNL SNC1(Suppressor of npr1-1, Constitutive 1), constitutively activates defense responses and exhibits dwarfism due to increased SNC1 accumulation
+
+### the exact mechanisms of how the homeostasis of NLRs is broadly controlled under different conditions are largely unclear.
+
+### Ub ligase (E3) recruits the ubiquitin recipient and facilitates the transfer of ubiquitin from Ub conjugating enzyme (E2) to the targeted substrate
+
+### identification of two novel E3 ligases, SNIPER1 and its homolog SNIPER2, which globally control the protein levels of sNLRs
+
+### levels of all tested sNLRs are reduced, resulting in enhanced disease susceptibility to pathogens
+
+### sNLRs accumulation and enhanced disease resistance were observed when the function of the SNIPERs is attenuate
+
+## **Results**:
+### **SNIPER1 is a complete suppressor of snc1**:
+#### E3 overexpression snc1-influencing plant E3 ligase reverse (SNIPER) genetic screen was performed in the autoimmune NLR mutant snc1 background
+
+#### SNIPER1 was identified as the only complete snc1 suppress or without any morphological defects (Figure 1A and E)
+
+#### Overexpression of SNIPER1 (SNIPER1 OE) (Fig 1B) fully suppresses snc1-mediated dwarfism (Fig 1A)
+
+#### enhanced disease resistance to the oomycete pathogen H.a.Noco2 (Fig 1C) and bacterial pathogen Pseudomonas syringae pv.maculicola (P.s.m.) ES4326 (Fig 1D) in snc1 were consistently suppressed upon SNIPER1overexpression
+
+#### SNIPER1 plays a general negative regulatory role on basal defense. no observable growth or developmental
+
+#### lines (Fig 1A and E), suggesting that its effects are strictly immunity-related.
+
+### **Overexpression of SNIPER1suppresses NLR-type autoimmune mutants, but not an RLP autoimmune mutant**:
+#### SNIPER1 was overexpressed in three other gain-of-function TNL mutants exhibiting the chilling sensitive (CHS) autoimmune phenotypes
+
+## **Discussion**:
