@@ -8,3 +8,4 @@ title: Oligomerization of NLR immune receptor RPP7 triggered by atypical resista
 ## **Abstract**:
 ## **Introduction**:
 ## **Results**:
+## **Discussion**:
