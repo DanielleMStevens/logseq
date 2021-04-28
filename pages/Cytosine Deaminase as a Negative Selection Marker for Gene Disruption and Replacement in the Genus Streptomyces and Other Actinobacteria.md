@@ -14,8 +14,7 @@ Jacques,2 Nancy Clermont,1 Carole Beaulieu,1 and Ryszard Brzezinski
 ## **Abstract**:
 
 ## **Introduction**:
-### cytosine deaminase catalyzes the deamination of cytosine to uracil as a part of the pyrimidine salvage pathway
-
+### [[cytosine deaminase]] catalyzes the deamination of cytosine to uracil as a part of the pyrimidine salvage pathway
 ### Counterselection markers are valuable tools facilitating gene disruption based on homologous recombination
 
 ### The rpsL gene (encoding the ribosomal protein S12) confers a dominant 
