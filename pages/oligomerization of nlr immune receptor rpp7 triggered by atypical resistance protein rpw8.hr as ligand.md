@@ -10,5 +10,7 @@ title: Oligomerization of NLR immune receptor RPP7 triggered by atypical resista
 ### RPP7bLerik1-3 forms a higher-order complex only in the presence of HR4Fei-0 but not HR4Col-0.
 ### amyloid-like aggregates, which in turn can directly kill cells in an RPP7bLerik1-3-independent
 ## **Introduction**:
+### Two different interfaces in the TIR domains of SNC1 and RPP1 can support self-association, potentially enabling TNLs to assemble higherorder complexes
+### several CNL full-length receptors, such as MLA, Sr33, Sr50, RPS5 and Rx, can self-associate
 ## **Results**:
 ## **Discussion**:
