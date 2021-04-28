@@ -8,6 +8,7 @@ title: Oligomerization of NLR immune receptor RPP7 triggered by atypical resista
 ## **Abstract**:
 ### HR4Fei-0 but not the closely related HR4Col-0 protein directly disrupts intramolecular association of RPP7bLerik1-3, which in turn initiates P-loop dependent NLR signaling.
 ### RPP7bLerik1-3 forms a higher-order complex only in the presence of HR4Fei-0 but not HR4Col-0.
+### amyloid-like aggregates, which in turn can directly kill cells in an RPP7bLerik1-3-independent
 ## **Introduction**:
 ## **Results**:
 ## **Discussion**:
