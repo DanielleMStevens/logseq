@@ -78,4 +78,4 @@ title: Bacterial medium-chain 3-hydroxy fatty acid metabolites trigger immunity 
 #### 
 
 ## **Discussion**:
-### As this includes samples from different sources, including commercial suppliers,or isolated by different multistep procedures(table S3), mc-3-OH-FAs appear to copurify withlipopolysaccharide and lipid A. Detergent-based repurification depleted unbound mc-3-OH-FAs from lipopolysaccharide samples (table S3 and figs. S10 and S11). mc-3-OH-FA–depleted lipopolysaccharide samples did not activate immunesignaling, whereas typical responses were inducedby subsequent application of synthetic 3-OH-C10:0 or the peptide MAMP flg22
+### As this includes samples from different sources, including commercial suppliers, or isolated by different multistep procedures(table S3), mc-3-OH-FAs appear to copurify with lipopolysaccharide and lipid A. Detergent-based repurification depleted unbound mc-3-OH-FAs from lipopolysaccharide samples (table S3 and figs. S10 and S11). mc-3-OH-FA–depleted lipopolysaccharide samples did not activate immunesignaling, whereas typical responses were induced by subsequent application of synthetic 3-OH-C10:0 or the peptide MAMP [[flg22]]
