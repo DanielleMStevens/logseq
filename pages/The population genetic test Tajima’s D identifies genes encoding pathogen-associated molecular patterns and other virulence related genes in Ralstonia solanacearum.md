@@ -30,8 +30,7 @@ title: The population genetic test Tajima’s D identifies genes encoding pathog
 
 ### genes with a [[Tajima's D]] value above +2 have an excess of common alleles suggestive of balancing selection
 
-### [[Pseudomonas syringae]] fliC gene, which encodes the two flagellin PAMPs flg22 and flgII-28 (Cai et al., 2011), has a Tajima’s D value of 2.269 in a group of Pseudomonas syringae pv. tomato relatives (Monteil et al., 2013)
-
+### [[Pseudomonas syringae]] fliC gene, which encodes the two flagellin PAMPs [[flg22]] and flgII-28 (Cai et al., 2011), has a Tajima’s D value of 2.269 in a group of Pseudomonas syringae pv. tomato relatives (Monteil et al., 2013)
 ### 
 
 ## **Results**:
