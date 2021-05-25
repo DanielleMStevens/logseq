@@ -9,8 +9,7 @@ Responses in Plants
 
 ## **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:8d70f777-054a-4859-a774-4af804171ed4
 
-## **Tags**:
-
+## **Tags**: #[[plant immunity]] #MAMPs
 ## **Abstract**:
 ### Citrus huanglongbing (HLB), caused by phloem-limited ‘Candidatus Liberibacter’ bacteria, is a destructive disease threatening the worldwide citrus industry
 
