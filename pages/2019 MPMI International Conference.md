@@ -2,53 +2,34 @@
 title: 2019 MPMI International Conference
 ---
 
-## **G+ Satellite Meeting**:
-### overall positive, got to meet other researchers in the Clavibacter community
-
-### [[Jeff H. Chang]] - gave a nice overview of why genomics is important/useful
-
-### [[Alexandra J. Weisberg]] - wasn't present but had a presentation on tools use for genomes
-#### can find [here](https://github.com/osuchanglab/MPMIworkshop)
-
-### **From Clavibacter group**:
-#### [[Clavibacter capsici]]
-##### found a small portion of the chp/tomA pathogenicity island integrated into both plasmids
-###### reported in [this paper]([[Multiple plasmid-borne virulence genes of Clavibacter michiganensis ssp. capsici critical for disease development in pepper]])
-
-###### collected a wide variety of isolates from Korea (much of listed in [this paper]([[Plasmid composition and the chpG gene determine the virulence level of Clavibacter capsici natural isolates in pepper]]))
-
-#### [[Clavibacter michiganensis]]
-##### [[celA]] typically has 3 domains: catalytic domain, cellulose binding domain, expansion domain 
-
-##### [[F. Christopher Peritore-Galve]] - [[Christine D. Smart]] lab
-###### able to do microscopy - colonization of [[Clavibacter michiganensis]] can go both down and up the xylem and eventually envade nearby cells
-
-###### found in the protoxyelm (not metaxylem until systemic infection) - eventually infects nearby parenchymal cells
-
-#### [[Clavibacter nebraskensis]] isolates lack the catalytic domain of [[celA]]
-##### [[Frank White]] developed a high throughput disease assay - clip, dip, and seee symptoms ~5 days
-
-##### Assymptom isolates do exist; can be very closely related to pathogens
-
-##### Tried to use pop. gen. 
-###### assess SNPs between pathogens and nonpathogens
-
-###### found geneM? - unknown function but SNP change key to relationship with host (pathogen vs. nonpathogen)
-
-### [[Kenichi Tsuda]] - [[Actinobacteria]] can elicit an up regulation in defense gene expression
-
-## [[Shang Yang He]]
-### How temperature impacts defense responses? (22/24 -> 28C)
-
-### during elevated temp, SA pathway is down and JA + ABA are upregulated 
-
-### they asked whether cbp60g (key to SA production) overexpression can induce SA levels at elevated temp.
-
-## [[Ryan Melnyk]] - talk based on his recently publish work presented in [this paper]([[Convergent gain and loss of genomic islands drive lifestyle changes in plant-associated Pseudomonas]])
-### beneficial symbiotic and pathogens are closely related 
-
-### large quorum sensing (LPQ) island not present in beneficial strains
-
-### gene flow controls relationship with plant host
-
-### able to provide phylogenetic evidence for independent island gain/loss evens 
+- **G+ Satellite Meeting**:
+	- overall positive, got to meet other researchers in the Clavibacter community
+	- [[Jeff H. Chang]] - gave a nice overview of why genomics is important/useful
+	- [[Alexandra J. Weisberg]] - wasn't present but had a presentation on tools use for genomes
+		- can find [here](https://github.com/osuchanglab/MPMIworkshop)
+	- **From Clavibacter group**:
+		- [[Clavibacter capsici]]
+			- found a small portion of the chp/tomA pathogenicity island integrated into both plasmids
+				- reported in [this paper]([[Multiple plasmid-borne virulence genes of Clavibacter michiganensis ssp. capsici critical for disease development in pepper]])
+				- collected a wide variety of isolates from Korea (much of listed in [this paper]([[Plasmid composition and the chpG gene determine the virulence level of Clavibacter capsici natural isolates in pepper]]))
+		- [[Clavibacter michiganensis]]
+			- [[celA]] typically has 3 domains: catalytic domain, cellulose binding domain, expansion domain
+			- [[F. Christopher Peritore-Galve]] - [[Christine D. Smart]] lab
+				- able to do microscopy - colonization of [[Clavibacter michiganensis]] can go both down and up the xylem and eventually envade nearby cells
+				- found in the protoxyelm (not metaxylem until systemic infection) - eventually infects nearby parenchymal cells
+		- [[Clavibacter nebraskensis]] isolates lack the catalytic domain of [[celA]]
+			- [[Frank White]] developed a high throughput disease assay - clip, dip, and seee symptoms ~5 days
+			- Assymptom isolates do exist; can be very closely related to pathogens
+			- Tried to use pop. gen.
+				- assess SNPs between pathogens and nonpathogens
+				- found geneM? - unknown function but SNP change key to relationship with host (pathogen vs. nonpathogen)
+	- [[Kenichi Tsuda]] - [[Actinobacteria]] can elicit an up regulation in defense gene expression
+- [[Shang Yang He]]
+	- How temperature impacts defense responses? (22/24 -> 28C)
+	- during elevated temp, SA pathway is down and JA + ABA are upregulated
+	- they asked whether cbp60g (key to SA production) overexpression can induce SA levels at elevated temp.
+- [[Ryan Melnyk]] - talk based on his recently publish work presented in [this paper]([[Convergent gain and loss of genomic islands drive lifestyle changes in plant-associated Pseudomonas]])
+	- beneficial symbiotic and pathogens are closely related
+	- large quorum sensing (LPQ) island not present in beneficial strains
+	- gene flow controls relationship with plant host
+	- able to provide phylogenetic evidence for independent island gain/loss evens

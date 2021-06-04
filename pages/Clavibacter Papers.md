@@ -2,151 +2,87 @@
 title: Clavibacter Papers
 ---
 
-## **Species focused papers:**
-### Clavibacter michiganensis:
-#### [[Clonal populations of Clavibacter michiganensis subsp. michiganensis are responsible for the outbreaks of bacterial canker in greenhouse tomatos in Italy]]
-
-#### [[Differential contribution of Clavibacter michiganensis ssp. michiganensis virulence factors to systemic and local infection in tomato]]
-
-#### [[Clavibacter michiganensis subsp. michiganensis Vatr1 and Vatr2 Transcriptional Regulators Are Required for Virulence in Tomato]]
-
-#### [[Tomato Transcriptional Changes in Response to Clavibacter michiganensis subsp. michiganensis Reveal a Role for Ethylene in Disease Development]]
-
-#### [[A family of serine proteases of Clavibacter michiganensis subsp. michiganensis: chpC plays a role in colonization of the host plant tomato]]
-
-#### [[Functional Characterization of Two Cellulase Genes in the Gram-Positive Pathogenic Bacterium Clavibacter michiganensis for Wilting in Tomato]]
-
-#### [[Plant-like bacterial expansins play contrasting roles in two tomato vascular pathogens]]
-
-#### [[Characterization of a Clavibacter michiganensis subsp. michiganensis population in Israel]]
-
-#### [[Clavibacter michiganensis subsp. michiganensis: first steps in the understanding of virulence of a Gram-positive phytopathogenic bacterium]]
-
-#### [[Comparative genomics of Clavibacter michiganensis subspecies, pathogens of important agricultural crops]]
-
-#### 
-
-#### https://apsjournals.apsnet.org/doi/pdf/10.1094/MPMI.2004.17.9.1019
-
-#### 
-
-#### 
-
-### Clavibacter capsici:
-#### [[Comparative genomics of Clavibacter michiganensis subspecies, pathogens of important agricultural crops]]
-
-#### [[Multiple plasmid-borne virulence genes of Clavibacter michiganensis ssp. capsici critical for disease development in pepper]]
-
-#### [[Plasmid composition and the chpG gene determine the virulence level of Clavibacter capsici natural isolates in pepper]]
-
-#### [[Clavibacter michiagnensis subsp. capsici subsp. nov., causing bacterial canker disease in pepper]]
-
-#### [[Functional Characterization of Two Cellulase Genes in the Gram-Positive Pathogenic Bacterium Clavibacter michiganensis for Wilting in Tomato]]
-
-#### [[Characterization of phenotypic variants of Clavibacter michiganensis subsp. michiganensis isolated from Capsicum annuum]]
-
-### Clavibacter sepedonicus:
-#### [[Expression of putative virulence factors in the potato pathogen Clavibacter michiganensis subsp. sepedonicus during infection]]
-
-#### [[Genome of the Actinomycete Plant Pathogen Clavibacter michiganensis subsp. sepedonicus Suggests Recent Niche Adaptation]]
-
-#### [[An Effect of Weather and Soil Conditions and Their Interaction on Infection of Leaves and Tubers of Potato with Bacteria Clavibacter michiganensis subsp. sepedonicus]]
-
-#### [[Linear Plasmid in the Genome of Clavibacter michiganensis subsp. sepedonicus]]
-
-#### [[Fate of Clavibacter michiganensis ssp. sepedonicus, the Causal Organism of Bacterial Ring Rot of Potato, in Weeds and Field Crops]] 
-
-#### [[Pest categorisation of Clavibacter sepedonicus]]
-
-#### [[Functional Characterization of Two Cellulase Genes in the Gram-Positive Pathogenic Bacterium Clavibacter michiganensis for Wilting in Tomato]]
-
-#### [[Genomic Fingerprinting of Virulent and Avirulent Strains of Clavibacter michiganensis subspecies sepedonicus]]
-
-### Clavibacter insidiosus:
-#### [[Comparative Genomic Analyses of Clavibacter michiganensis subsp. insidiosus and Pathogenicity on Medicago truncatula]]
-
-### Clavibacter nebraskensis:
-#### [[Differential Effects of Lithium Chloride on In Vitro Growth of Clavibacter michiganensis subsp. nebraskensis Depending upon Innoculum Source]]
-
-#### [[Characterization and Composition of Clavibacter michiganensis subsp. nebraskensis Strains Recovered from Epiphytic and Symptomatic Infections of Maize in Iowa]]
-
-#### [[Genetic diversity and phylogeny of strains of Clavibacter nebraskensis associated with recent and historic Goss's wilt epidemics in the north Central USA]]
-
-#### [[Four Common Setaria Species are Alternative Hosts for Clavibacter michiganensis subsp. nebraskensis, Causal Agent of Goss’s Bacterial Wilt and Blight of Corn]]
-
-#### 
-
-### Clavibacter tessellarius:
-#### [[Bacterial Mosaic a New Corynebacterial Disease of Wheat]]
-
-### Clavibacter sp.:
-
-### [[Clavibacter Notes]]
-#### [[Clavibacter: a new genus containing some phytopathogenic coryneform bacteria, including Clavibacter xyli subsp. xyli sp. nov., subsp. nov., and clavibacter xyli subsp. cynodontis subsp. nov., Pathogens that cause ratoon stunting disease of sugarcane and bermudagrass stunting disease]]
-
-#### [[Comparative Genomics and Phylogenetic Analyses Suggest Several Novel Species within the Genus Clavibacter, Including Nonpathogenic Tomato-Associated Strains]]
-
-#### [[Comparative genome analysis of pathogenic and non-pathogenic Clavibacter strains reveals adaptations to their lifestyles]]
-
-#### [[Genetic diversity of non-pathogenic Clavibacter strains isolated from tomato seeds]] 
-
-#### 
-
-### 
-
-## [[First Report Papers]]
-
-## 
-
-## ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FmxqIcI6hDC.png?alt=media&token=9d64b9a7-a201-4f33-aff3-b01d9f3edbe6)
-
-## 
-
-## **Technique focused papers:**
-### Clavibacter comparative-genomic papers:
-#### [[Comparative genomics of Clavibacter michiganensis subspecies, pathogens of important agricultural crops]]
-
-#### [[Genome of the Actinomycete Plant Pathogen Clavibacter michiganensis subsp. sepedonicus Suggests Recent Niche Adaptation]]
-
-#### [[Comparative Genomic Analyses of Clavibacter michiganensis subsp. insidiosus and Pathogenicity on Medicago truncatula]]
-
-### Clavibacter transcriptomic-focused papers:
-#### [[Clavibacter michiganensis subsp. michiganensis Vatr1 and Vatr2 Transcriptional Regulators Are Required for Virulence in Tomato]]
-
-### Clavibacter proteomic-focused papers:
-#### [[The Clavibacter michiganensis subsp. michiganensis-Tomato Interactome Reveals the Perception of Pathogen by the Host and Suggests Mechanisms of Infection]]
-
-#### 
-
-### 
-
-## **Papers which look at host specificity/host range/lifestyle changes**:
-### Other systems:
-#### [[Repeated gain and loss of a single gene modulates the evolution of vascular pathogen lifestyles]]
-
-### Clavibacter focused papers:
-#### [[Functional Characterization of Two Cellulase Genes in the Gram-Positive Pathogenic Bacterium Clavibacter michiganensis for Wilting in Tomato]]
-
-## 
-
-## **Papers that focus on plant immunity/resistance:**
-### General plant immunity:
-#### [[Function, Discovery, and Exploitation of Plant Pattern Recognition Receptors for Broad-Spectrum Disease Resistance]]
-
-#### [[Beyond pathogens: microbiota interactions with the plant immune system]]
-
-### Clavibacter plant immunity:
-#### [[Tomato Transcriptional Changes in Response to Clavibacter michiganensis subsp. michiganensis Reveal a Role for Ethylene in Disease Development]]
-
-#### [[Silencing of Host Basal Defense Response-Related Gene Expression Increases Susceptibility of Nicotiana benthamiana to Clavibacter michiganensis subsp. michiganensis]]
-
-#### 
-
-#### 
-
-## 
-
-## **Important Dissertations**
-### https://conservancy.umn.edu/bitstream/handle/11299/120039/Syverson_umn_0130E_12496.pdf?sequence=1
-
-## 
+- **Species focused papers:**
+	- Clavibacter michiganensis:
+		- [[Clonal populations of Clavibacter michiganensis subsp. michiganensis are responsible for the outbreaks of bacterial canker in greenhouse tomatos in Italy]]
+		- [[Differential contribution of Clavibacter michiganensis ssp. michiganensis virulence factors to systemic and local infection in tomato]]
+		- [[Clavibacter michiganensis subsp. michiganensis Vatr1 and Vatr2 Transcriptional Regulators Are Required for Virulence in Tomato]]
+		- [[Tomato Transcriptional Changes in Response to Clavibacter michiganensis subsp. michiganensis Reveal a Role for Ethylene in Disease Development]]
+		- [[A family of serine proteases of Clavibacter michiganensis subsp. michiganensis: chpC plays a role in colonization of the host plant tomato]]
+		- [[Functional Characterization of Two Cellulase Genes in the Gram-Positive Pathogenic Bacterium Clavibacter michiganensis for Wilting in Tomato]]
+		- [[Plant-like bacterial expansins play contrasting roles in two tomato vascular pathogens]]
+		- [[Characterization of a Clavibacter michiganensis subsp. michiganensis population in Israel]]
+		- [[Clavibacter michiganensis subsp. michiganensis: first steps in the understanding of virulence of a Gram-positive phytopathogenic bacterium]]
+		- [[Comparative genomics of Clavibacter michiganensis subspecies, pathogens of important agricultural crops]]
+		-
+		- https://apsjournals.apsnet.org/doi/pdf/10.1094/MPMI.2004.17.9.1019
+		-
+		-
+	- Clavibacter capsici:
+		- [[Comparative genomics of Clavibacter michiganensis subspecies, pathogens of important agricultural crops]]
+		- [[Multiple plasmid-borne virulence genes of Clavibacter michiganensis ssp. capsici critical for disease development in pepper]]
+		- [[Plasmid composition and the chpG gene determine the virulence level of Clavibacter capsici natural isolates in pepper]]
+		- [[Clavibacter michiagnensis subsp. capsici subsp. nov., causing bacterial canker disease in pepper]]
+		- [[Functional Characterization of Two Cellulase Genes in the Gram-Positive Pathogenic Bacterium Clavibacter michiganensis for Wilting in Tomato]]
+		- [[Characterization of phenotypic variants of Clavibacter michiganensis subsp. michiganensis isolated from Capsicum annuum]]
+	- Clavibacter sepedonicus:
+		- [[Expression of putative virulence factors in the potato pathogen Clavibacter michiganensis subsp. sepedonicus during infection]]
+		- [[Genome of the Actinomycete Plant Pathogen Clavibacter michiganensis subsp. sepedonicus Suggests Recent Niche Adaptation]]
+		- [[An Effect of Weather and Soil Conditions and Their Interaction on Infection of Leaves and Tubers of Potato with Bacteria Clavibacter michiganensis subsp. sepedonicus]]
+		- [[Linear Plasmid in the Genome of Clavibacter michiganensis subsp. sepedonicus]]
+		- [[Fate of Clavibacter michiganensis ssp. sepedonicus, the Causal Organism of Bacterial Ring Rot of Potato, in Weeds and Field Crops]]
+		- [[Pest categorisation of Clavibacter sepedonicus]]
+		- [[Functional Characterization of Two Cellulase Genes in the Gram-Positive Pathogenic Bacterium Clavibacter michiganensis for Wilting in Tomato]]
+		- [[Genomic Fingerprinting of Virulent and Avirulent Strains of Clavibacter michiganensis subspecies sepedonicus]]
+	- Clavibacter insidiosus:
+		- [[Comparative Genomic Analyses of Clavibacter michiganensis subsp. insidiosus and Pathogenicity on Medicago truncatula]]
+	- Clavibacter nebraskensis:
+		- [[Differential Effects of Lithium Chloride on In Vitro Growth of Clavibacter michiganensis subsp. nebraskensis Depending upon Innoculum Source]]
+		- [[Characterization and Composition of Clavibacter michiganensis subsp. nebraskensis Strains Recovered from Epiphytic and Symptomatic Infections of Maize in Iowa]]
+		- [[Genetic diversity and phylogeny of strains of Clavibacter nebraskensis associated with recent and historic Goss's wilt epidemics in the north Central USA]]
+		- [[Four Common Setaria Species are Alternative Hosts for Clavibacter michiganensis subsp. nebraskensis, Causal Agent of Goss’s Bacterial Wilt and Blight of Corn]]
+		-
+	- Clavibacter tessellarius:
+		- [[Bacterial Mosaic a New Corynebacterial Disease of Wheat]]
+	- Clavibacter sp.:
+	- [[Clavibacter Notes]]
+		- [[Clavibacter: a new genus containing some phytopathogenic coryneform bacteria, including Clavibacter xyli subsp. xyli sp. nov., subsp. nov., and clavibacter xyli subsp. cynodontis subsp. nov., Pathogens that cause ratoon stunting disease of sugarcane and bermudagrass stunting disease]]
+		- [[Comparative Genomics and Phylogenetic Analyses Suggest Several Novel Species within the Genus Clavibacter, Including Nonpathogenic Tomato-Associated Strains]]
+		- [[Comparative genome analysis of pathogenic and non-pathogenic Clavibacter strains reveals adaptations to their lifestyles]]
+		- [[Genetic diversity of non-pathogenic Clavibacter strains isolated from tomato seeds]]
+		-
+	-
+- [[First Report Papers]]
+-
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FmxqIcI6hDC.png?alt=media&token=9d64b9a7-a201-4f33-aff3-b01d9f3edbe6)
+-
+- **Technique focused papers:**
+	- Clavibacter comparative-genomic papers:
+		- [[Comparative genomics of Clavibacter michiganensis subspecies, pathogens of important agricultural crops]]
+		- [[Genome of the Actinomycete Plant Pathogen Clavibacter michiganensis subsp. sepedonicus Suggests Recent Niche Adaptation]]
+		- [[Comparative Genomic Analyses of Clavibacter michiganensis subsp. insidiosus and Pathogenicity on Medicago truncatula]]
+	- Clavibacter transcriptomic-focused papers:
+		- [[Clavibacter michiganensis subsp. michiganensis Vatr1 and Vatr2 Transcriptional Regulators Are Required for Virulence in Tomato]]
+	- Clavibacter proteomic-focused papers:
+		- [[The Clavibacter michiganensis subsp. michiganensis-Tomato Interactome Reveals the Perception of Pathogen by the Host and Suggests Mechanisms of Infection]]
+		-
+	-
+- **Papers which look at host specificity/host range/lifestyle changes**:
+	- Other systems:
+		- [[Repeated gain and loss of a single gene modulates the evolution of vascular pathogen lifestyles]]
+	- Clavibacter focused papers:
+		- [[Functional Characterization of Two Cellulase Genes in the Gram-Positive Pathogenic Bacterium Clavibacter michiganensis for Wilting in Tomato]]
+-
+- **Papers that focus on plant immunity/resistance:**
+	- General plant immunity:
+		- [[Function, Discovery, and Exploitation of Plant Pattern Recognition Receptors for Broad-Spectrum Disease Resistance]]
+		- [[Beyond pathogens: microbiota interactions with the plant immune system]]
+	- Clavibacter plant immunity:
+		- [[Tomato Transcriptional Changes in Response to Clavibacter michiganensis subsp. michiganensis Reveal a Role for Ethylene in Disease Development]]
+		- [[Silencing of Host Basal Defense Response-Related Gene Expression Increases Susceptibility of Nicotiana benthamiana to Clavibacter michiganensis subsp. michiganensis]]
+		-
+		-
+-
+- **Important Dissertations**
+	- https://conservancy.umn.edu/bitstream/handle/11299/120039/Syverson_umn_0130E_12496.pdf?sequence=1
+-

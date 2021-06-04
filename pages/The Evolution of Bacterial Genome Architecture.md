@@ -2,65 +2,39 @@
 title: The Evolution of Bacterial Genome Architecture
 ---
 
-## **Authors**: [[Louis-Marie Bobay]] and [[Howard Ochman]]
-
-## **Journal**: [[Frontiers in Genetics]]
-
-## **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:02be09e1-74be-453d-86d7-43b70acd2024
-
-## **Tags**:
-
-## **Abstract**:
-### bacteria exhibit a mutational bias that deletes superfluous sequences, whereas eukaryotes are biased toward large insertions
-
-### Expansion of eukaryotic genomes occurs through the addition of non-functional sequences, such as repetitive sequences and transposable elements, whereas variation in bacterial genome size is largely due to the acquisition and loss of functional accessory genes.
-
-### particularly those of species that undergo bottlenecks due to recent association with hosts, accumulate pseudogenes and mobile elements, conferring them a low gene content relative to their genome size
-
-### non-functional sequences are gradually eroded and eliminated after long-term association with hosts, with the result that obligate symbionts have the smallest genomes
-
-### for most bacterial species, genome size is governed by a non-adaptive process, i.e., genetic drift coupled with a mutational bias toward deletions.
-
-## **Introduction**:
-### genome architecture could be altered by insertions, duplications, inversions, and translocations, fostered, in part, by mobile elements
-
-### eukaryotic genomes, which are often partitioned into multiple linear chromosomes and are generally much larger due both to increases in gene number and to the proliferation of non-coding and repetitive DNA.
-
-## **Microevolutionary Processes Drive Genome Architecture**:
-### bacterial genomes rely on selection and [[genetic drift]], whose relative contributions are dictated by the effective population size (Ne) and the selection coefficient (s) associated with that trait
-#### if |2xNexs| < 1 --> evolution driven by stochastic process ([[genetic drift]])
-
-#### if |2xNexs| > 1 --> evolution driven by selection
-
-### Under [[Neutral Theory]] of evolution; although selection doesn't change the response to selection depends on the effective population size
-
-### the selection coefficient (s) is a variable parameter that only depends on the impact of a given gene variant on the fitness of the individual relative to others in a population
-
-### since smaller populations are more strongly affected by random sampling of genotype at each generation
-#### fate of most of the genome is dependent on selection and drift except essential genes (since disruption is lethal) or complete neural (disruption is inconsequential)
-
-### bacterial species with low (Ne) (ex. endosymbionts), typically have smallest, most compact genomes
-
-### whereas, largest populations exhibit expasnive genomes
-
-## **Defining Bacterial Species and Populations**:
-### Due to unicellularity, uniformality, lack of sexual reproduction, basic features of their population, remain obsucure, none difficult to evaluatite & quanitify microevolutionary process
-
-### estimate of Ne is difficult: hard to observe in bacteria and violate many assumptions of [[Wright-Fisher model]]
-
-### Ne is based on genome diversity at neutral sites, where θ = 2xNexμ and θ is the number of segregating sites
-
-### whether there are even neutral sights in bacteria is questionable: codon usage, nucleotide composition
-
-### estimate of θ is tricky due to clonality of bacteria, however, few bacteria are truly clonal a nd most engage in recombination, which helps with linkage effects and contracts the Hill-Robertson effects
-
-### covient, indirect measure of Ne is based on Ka/Ks ratios, represents the effectiveness of selection and scaled negatively with Ne
-#### small population size promotes fixation
-
-#### values fit natural history/lifestyles
-##### increased Ne = decreased Ka/Ks (environmental bacteria)
-decreased Ne = increased Ka/Ks (reduced genomes as a resut of association with a host)
-
-### Ne scales with genome size and thus doesn't follow the [[C-value paradox]]::, where there is little correlation of with genome size and gene content
-
-## **Discussion**:
+- **Authors**: [[Louis-Marie Bobay]] and [[Howard Ochman]]
+- **Journal**: [[Frontiers in Genetics]]
+- **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:02be09e1-74be-453d-86d7-43b70acd2024
+- **Tags**:
+- **Abstract**:
+	- bacteria exhibit a mutational bias that deletes superfluous sequences, whereas eukaryotes are biased toward large insertions
+	- Expansion of eukaryotic genomes occurs through the addition of non-functional sequences, such as repetitive sequences and transposable elements, whereas variation in bacterial genome size is largely due to the acquisition and loss of functional accessory genes.
+	- particularly those of species that undergo bottlenecks due to recent association with hosts, accumulate pseudogenes and mobile elements, conferring them a low gene content relative to their genome size
+	- non-functional sequences are gradually eroded and eliminated after long-term association with hosts, with the result that obligate symbionts have the smallest genomes
+	- for most bacterial species, genome size is governed by a non-adaptive process, i.e., genetic drift coupled with a mutational bias toward deletions.
+- **Introduction**:
+	- genome architecture could be altered by insertions, duplications, inversions, and translocations, fostered, in part, by mobile elements
+	- eukaryotic genomes, which are often partitioned into multiple linear chromosomes and are generally much larger due both to increases in gene number and to the proliferation of non-coding and repetitive DNA.
+- **Microevolutionary Processes Drive Genome Architecture**:
+	- bacterial genomes rely on selection and [[genetic drift]], whose relative contributions are dictated by the effective population size (Ne) and the selection coefficient (s) associated with that trait
+		- if |2xNexs| < 1 --> evolution driven by stochastic process ([[genetic drift]])
+		- if |2xNexs| > 1 --> evolution driven by selection
+	- Under [[Neutral Theory]] of evolution; although selection doesn't change the response to selection depends on the effective population size
+	- the selection coefficient (s) is a variable parameter that only depends on the impact of a given gene variant on the fitness of the individual relative to others in a population
+	- since smaller populations are more strongly affected by random sampling of genotype at each generation
+		- fate of most of the genome is dependent on selection and drift except essential genes (since disruption is lethal) or complete neural (disruption is inconsequential)
+	- bacterial species with low (Ne) (ex. endosymbionts), typically have smallest, most compact genomes
+	- whereas, largest populations exhibit expasnive genomes
+- **Defining Bacterial Species and Populations**:
+	- Due to unicellularity, uniformality, lack of sexual reproduction, basic features of their population, remain obsucure, none difficult to evaluatite & quanitify microevolutionary process
+	- estimate of Ne is difficult: hard to observe in bacteria and violate many assumptions of [[Wright-Fisher model]]
+	- Ne is based on genome diversity at neutral sites, where θ = 2xNexμ and θ is the number of segregating sites
+	- whether there are even neutral sights in bacteria is questionable: codon usage, nucleotide composition
+	- estimate of θ is tricky due to clonality of bacteria, however, few bacteria are truly clonal a nd most engage in recombination, which helps with linkage effects and contracts the Hill-Robertson effects
+	- covient, indirect measure of Ne is based on Ka/Ks ratios, represents the effectiveness of selection and scaled negatively with Ne
+		- small population size promotes fixation
+		- values fit natural history/lifestyles
+			- increased Ne = decreased Ka/Ks (environmental bacteria)
+			  decreased Ne = increased Ka/Ks (reduced genomes as a resut of association with a host)
+	- Ne scales with genome size and thus doesn't follow the [[C-value paradox]]::, where there is little correlation of with genome size and gene content
+- **Discussion**:

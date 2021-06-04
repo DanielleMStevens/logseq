@@ -2,32 +2,20 @@
 title: Lab Meeting Presentation - Dani - 8.10.2020
 ---
 
-## For [[Evolution and Diversity of Known MAMPs in plant-associated Actinobacteria]]
-### Other methods to potentially assess secretion of known MAMPs:
-#### Spray or vacuum infiltrate -> collect apoplast fluid -> western
-
-#### ABPP apoplast fluid -> detect proteases?
-
-## Green house problems - see this email [here](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXLkSkLxddWsKDZFSnFWCkNfl)
-### tomato ghouse decontamination
-#### Mon, Aug 10, 4:42 PM (4 days ago)
-
-#### Dani and Tanya,
-
-#### Here is a decent article on greenhouse decontamination and different ways to do it. It is important to not have water pooling, so use a flat with holes (but this is probably not your main issue – you have residual pathogens that are hiding out).
-
-#### https://ag.umass.edu/greenhouse-floriculture/fact-sheets/cleaning-disinfecting-greenhouse
-
-#### I have previously used quaternary ammonium chloride salts with good success (Green-Shield, Physan 20, or KleenGrow). All work the same.
-
-#### Hydrogen Dioxide doesn’t work against viruses, but is most effective for fungi/bacteria- but there are more precautions for use.
-
-#### My thoughts would be to order Green-Shield or similar (you can probably get some from Kevin, they must have it for near term use), dilute in a bucket, and scrub the heck out of the entire chamber, doors, walls, benches, etc. Tania can get some rubber gloves, and hand scrubber, scrubber with handle (something like this but I am sure we can get it cheaper/single use):
-
-#### https://www.globalindustrial.com/p/janitorial-maintenance/sweeping/brushes/libman-commercial-dual-surface-scrub-brush-handle?infoParam.campaignId=WR&msclkid=91bc061fc79815f835d9592e1db193f8&utm_source=bing&utm_medium=cpc&utm_campaign=%5BADL%5D%20%5BPLA%5D%20%5BJanitorial%5D%20%7BSweeping%7D%20(Neutral)%20-%20%5BNormal%20SKUs%5D&utm_term=4583382952570681&utm_content=Janitorial%20-%20Sweeping%20-%20(Neutral)&adlclid=ADL-f6536208-d2d2-4a8b-84c0-c3d16e408d6d
-
-#### https://www.globalindustrial.com/p/janitorial-maintenance/sweeping/brushes/libman-commercial-power-scrub-brush
-
-#### Then clean out quarterly as well as scrub benches between use. This should work and we should try to adopt this as an SOP for all the chambers.
-
-### Best, Gitta
+- For [[Evolution and Diversity of Known MAMPs in plant-associated Actinobacteria]]
+	- Other methods to potentially assess secretion of known MAMPs:
+		- Spray or vacuum infiltrate -> collect apoplast fluid -> western
+		- ABPP apoplast fluid -> detect proteases?
+- Green house problems - see this email [here](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXLkSkLxddWsKDZFSnFWCkNfl)
+	- tomato ghouse decontamination
+		- Mon, Aug 10, 4:42 PM (4 days ago)
+		- Dani and Tanya,
+		- Here is a decent article on greenhouse decontamination and different ways to do it. It is important to not have water pooling, so use a flat with holes (but this is probably not your main issue – you have residual pathogens that are hiding out).
+		- https://ag.umass.edu/greenhouse-floriculture/fact-sheets/cleaning-disinfecting-greenhouse
+		- I have previously used quaternary ammonium chloride salts with good success (Green-Shield, Physan 20, or KleenGrow). All work the same.
+		- Hydrogen Dioxide doesn’t work against viruses, but is most effective for fungi/bacteria- but there are more precautions for use.
+		- My thoughts would be to order Green-Shield or similar (you can probably get some from Kevin, they must have it for near term use), dilute in a bucket, and scrub the heck out of the entire chamber, doors, walls, benches, etc. Tania can get some rubber gloves, and hand scrubber, scrubber with handle (something like this but I am sure we can get it cheaper/single use):
+		- https://www.globalindustrial.com/p/janitorial-maintenance/sweeping/brushes/libman-commercial-dual-surface-scrub-brush-handle?infoParam.campaignId=WR&msclkid=91bc061fc79815f835d9592e1db193f8&utm_source=bing&utm_medium=cpc&utm_campaign=%5BADL%5D%20%5BPLA%5D%20%5BJanitorial%5D%20%7BSweeping%7D%20(Neutral)%20-%20%5BNormal%20SKUs%5D&utm_term=4583382952570681&utm_content=Janitorial%20-%20Sweeping%20-%20(Neutral)&adlclid=ADL-f6536208-d2d2-4a8b-84c0-c3d16e408d6d
+		- https://www.globalindustrial.com/p/janitorial-maintenance/sweeping/brushes/libman-commercial-power-scrub-brush
+		- Then clean out quarterly as well as scrub benches between use. This should work and we should try to adopt this as an SOP for all the chambers.
+	- Best, Gitta

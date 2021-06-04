@@ -2,69 +2,39 @@
 title: ROS Accumulation Variation Project
 ---
 
-## **Questions Related to Project**:
-### 1. What is the degree of variability for a given MAMP across diverse plant speices?
-
-### 2. Is this variability driven by plant genetics? Is it driven by the environment? Or both to some degree?
-
-### 3. Is ROS response correlated with disease suseptibilty?
-
-### 4. Is this unique to Citrus?
-
-### 
-
-## **To-Do:**
-### ~~Modify main heatmap to add asktricks to variable samples~~
-
-### ~~Make correlation plots instead of heatmaps (X axis -> increasing disease suseptibilty, Y- axis -> increaseing ROS burst)~~
-
-### update data with chandrikas info and assess differences in ROS response variability of field vs. greenhouse samples
-
-### ~~figure out the right statistical test (maybe?) to assess the correlation between ROS response and disease suseptibilty?~~
-
-### Gather and plot data from [this paper](https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:3f817bb1-bd8a-40cd-8c85-be5f490e3be9) to see if there is a difference in trends between Citrus and Tomato
-:PROPERTIES:
-:ID:e421514b-7ffe-4853-9026-c459d19ddda3
-:END:
-#### https://docs.google.com/spreadsheets/d/1AC3lxe1KICsQAP8do0UvDtKVMRDPGeKnWmn52kIW55g/edit#gid=1921175479 
-
-### update onenote
-
-### use Lavene's test to assess the homogeneity of variance
-
-## 
-
-## **Meeting Notes Assocated with project:**
-### [[Meeting with Chandrika Ramadugu - 5.8.2020]]
-
-### [[Follow up from Chandrika Ramaduga - 5.19.2020]]
-
-### Chandrika meeting 
-#### monobreantic (monemryonic), variaiton of hybrid progeny, UC riverside original tree (original tree), Davis is from seed (other polin).
-
-#### genetic sectoring, somatic mutations, branch differences, genetic identical
-
-#### frequency of somatic mutations
-
-#### for those that are +/- differences between ucr and ucd positive and negative results, 
-
-### link to details above: https://mail.google.com/mail/u/0/#search/chandrika/FMfcgxwHNMSjgWPjwpxVdGQFtzTCvZMQ
-
-### [[Citrus brainstorming notes - 10.5.2020]]
-
-## 
-
-## Need to read these papers
-### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:ec243c6b-5e9c-487f-8e45-3ecb38a20edb
-
-### https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:3f817bb1-bd8a-40cd-8c85-be5f490e3be9
-
-## 
-
-## ROS File: PAMP_results -> in Tania's box
-
-## 
-
-## https://www.stevejburr.com/post/scatter-plots-and-best-fit-lines/
-
-## https://www.statsandr.com/blog/correlation-coefficient-and-correlation-test-in-r/
+- **Questions Related to Project**:
+	- 1. What is the degree of variability for a given MAMP across diverse plant speices?
+	- 2. Is this variability driven by plant genetics? Is it driven by the environment? Or both to some degree?
+	- 3. Is ROS response correlated with disease suseptibilty?
+	- 4. Is this unique to Citrus?
+	-
+- **To-Do:**
+	- ~~Modify main heatmap to add asktricks to variable samples~~
+	- ~~Make correlation plots instead of heatmaps (X axis -> increasing disease suseptibilty, Y- axis -> increaseing ROS burst)~~
+	- update data with chandrikas info and assess differences in ROS response variability of field vs. greenhouse samples
+	- ~~figure out the right statistical test (maybe?) to assess the correlation between ROS response and disease suseptibilty?~~
+	- Gather and plot data from [this paper](https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:3f817bb1-bd8a-40cd-8c85-be5f490e3be9) to see if there is a difference in trends between Citrus and Tomato
+	  ID:: e421514b-7ffe-4853-9026-c459d19ddda3
+		- https://docs.google.com/spreadsheets/d/1AC3lxe1KICsQAP8do0UvDtKVMRDPGeKnWmn52kIW55g/edit#gid=1921175479
+	- update onenote
+	- use Lavene's test to assess the homogeneity of variance
+-
+- **Meeting Notes Assocated with project:**
+	- [[Meeting with Chandrika Ramadugu - 5.8.2020]]
+	- [[Follow up from Chandrika Ramaduga - 5.19.2020]]
+	- Chandrika meeting
+		- monobreantic (monemryonic), variaiton of hybrid progeny, UC riverside original tree (original tree), Davis is from seed (other polin).
+		- genetic sectoring, somatic mutations, branch differences, genetic identical
+		- frequency of somatic mutations
+		- for those that are +/- differences between ucr and ucd positive and negative results,
+	- link to details above: https://mail.google.com/mail/u/0/#search/chandrika/FMfcgxwHNMSjgWPjwpxVdGQFtzTCvZMQ
+	- [[Citrus brainstorming notes - 10.5.2020]]
+-
+- Need to read these papers
+	- https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:ec243c6b-5e9c-487f-8e45-3ecb38a20edb
+	- https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:3f817bb1-bd8a-40cd-8c85-be5f490e3be9
+-
+- ROS File: PAMP_results -> in Tania's box
+-
+- https://www.stevejburr.com/post/scatter-plots-and-best-fit-lines/
+- https://www.statsandr.com/blog/correlation-coefficient-and-correlation-test-in-r/

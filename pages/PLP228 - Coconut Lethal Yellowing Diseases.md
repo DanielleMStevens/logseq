@@ -2,112 +2,68 @@
 title: PLP228 - Coconut Lethal Yellowing Diseases
 ---
 
-## **LYD: A complex disease**
-### ^^Syndroms^^
-#### America: Coconut leathal yellowing, lethal yellowing, Yucatan coconut lethal decline, lethal yellowing disease, Texas Phoenix plam decline (TPPD), C. palata yellows, Sabal mexicana lethal declne
-
-#### Africa: Coconut lethal disease, Awka disease, Cape St. Paul wilt, Keta disease, Kaincope, Kribi disease, Cote d'Ivoire lethal yellowing
-
-#### Asia: Kerala wilt disease, root (wilt) disease, weligama coconut leaf wilt disease, coconut yellow decline, kalimantan wilt, natuna wilt
-
-#### Oceania: bogia coconut syndrome
-
-### Affects approximately 40 palm species
-#### Aracaeae and Pandanaceae
-
-## __Cadidatus__ Phytoplasma palmae
-### First reports in 1912
-#### Viruses
-
-#### Mineral deficiencies
-
-#### 'hartrot' - trypanosomatids
-
-#### 'red ring' - nematodes
-
-### MLO bodies 1972-1974
-
-### Phytoplasma 1993
-
-### Ca. P. palmaw and Ca. P. cocostanzaniae 2004
-
-### Ca. P. palmicola 2014
-
-## Coconut Lethal Disease: vector, bacteria, and plant
-### Transmitted by __Haplaxius crudus __ (Palm Cixiid)
-
-## Pathogenicity factors?
-### Nutdrop and Flower abscission
-
-### Biochemical and physiological abnormalities in roots
-#### Respiration
-
-#### Total Sugars
-
-#### Reducing sugars
-
-### Alteration in phloem flux rates
-
-### Changes in water relations 
-#### Irreversible suppresssion of leaf stomatal conductance
-
-### Reduction of photosyntheic capacity
-
-## Phloem-limited bacterial effectors
-### Phytoplasma effectors can move through the plant via plasmodesmata
-
-## Phytoplasma effectors can phenocopy disease 
-### Plants expressing Phytoplasma effectors phenocopy disease
-
-### SAP11 supress JA response in __N. bethamiana__ increasing susceptibility to insect vectors 
-
-### **Plant sterility**
-#### TENGU
-
-#### Downregulates jasmonic acid and auxin pathways 
-
-#### Auxin response factor ARF6/ARF8
-
-### **Leaf like flowers**
-#### Phyllogen
-
-#### Phylov and SAP54
-
-#### ABCE-class MADS domain transcription factors
-
-#### RAD23
-
-### **Vector attraction and plant immunity suspression**
-#### SAP54 SWP12 and SWP21 (TENGU-like)
-
-## Management
-### Black's approach
-#### On-farm quarentine 
-
-#### Weekly surveillence
-##### Plantation scale surveys
-
-##### Multispectral imaging
-
-#### Remove and burn symptomatic plants
-
-#### Replanting with reistant genotypes and hybrids
-##### Clonal propegation
-
-##### CRISPER
-
-#### Whole farm weed control
-##### Non-host cover crops
-
-#### Good fertilization
-
-### Restricit movement of plant material
-
-### Injection of tetracycline type
-#### Ornamental and valuable
-
-### Insecticide use
-
-### Intercropping
-
-## 
+- **LYD: A complex disease**
+	- ^^Syndroms^^
+		- America: Coconut leathal yellowing, lethal yellowing, Yucatan coconut lethal decline, lethal yellowing disease, Texas Phoenix plam decline (TPPD), C. palata yellows, Sabal mexicana lethal declne
+		- Africa: Coconut lethal disease, Awka disease, Cape St. Paul wilt, Keta disease, Kaincope, Kribi disease, Cote d'Ivoire lethal yellowing
+		- Asia: Kerala wilt disease, root (wilt) disease, weligama coconut leaf wilt disease, coconut yellow decline, kalimantan wilt, natuna wilt
+		- Oceania: bogia coconut syndrome
+	- Affects approximately 40 palm species
+		- Aracaeae and Pandanaceae
+- __Cadidatus__ Phytoplasma palmae
+	- First reports in 1912
+		- Viruses
+		- Mineral deficiencies
+		- 'hartrot' - trypanosomatids
+		- 'red ring' - nematodes
+	- MLO bodies 1972-1974
+	- Phytoplasma 1993
+	- Ca. P. palmaw and Ca. P. cocostanzaniae 2004
+	- Ca. P. palmicola 2014
+- Coconut Lethal Disease: vector, bacteria, and plant
+	- Transmitted by __Haplaxius crudus __ (Palm Cixiid)
+- Pathogenicity factors?
+	- Nutdrop and Flower abscission
+	- Biochemical and physiological abnormalities in roots
+		- Respiration
+		- Total Sugars
+		- Reducing sugars
+	- Alteration in phloem flux rates
+	- Changes in water relations
+		- Irreversible suppresssion of leaf stomatal conductance
+	- Reduction of photosyntheic capacity
+- Phloem-limited bacterial effectors
+	- Phytoplasma effectors can move through the plant via plasmodesmata
+- Phytoplasma effectors can phenocopy disease
+	- Plants expressing Phytoplasma effectors phenocopy disease
+	- SAP11 supress JA response in __N. bethamiana__ increasing susceptibility to insect vectors
+	- **Plant sterility**
+		- TENGU
+		- Downregulates jasmonic acid and auxin pathways
+		- Auxin response factor ARF6/ARF8
+	- **Leaf like flowers**
+		- Phyllogen
+		- Phylov and SAP54
+		- ABCE-class MADS domain transcription factors
+		- RAD23
+	- **Vector attraction and plant immunity suspression**
+		- SAP54 SWP12 and SWP21 (TENGU-like)
+- Management
+	- Black's approach
+		- On-farm quarentine
+		- Weekly surveillence
+			- Plantation scale surveys
+			- Multispectral imaging
+		- Remove and burn symptomatic plants
+		- Replanting with reistant genotypes and hybrids
+			- Clonal propegation
+			- CRISPER
+		- Whole farm weed control
+			- Non-host cover crops
+		- Good fertilization
+	- Restricit movement of plant material
+	- Injection of tetracycline type
+		- Ornamental and valuable
+	- Insecticide use
+	- Intercropping
+-

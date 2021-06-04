@@ -2,6 +2,5 @@
 title: Medium Articles
 ---
 
-## [[The Importance of Fit in Graduate School]]
-
-## 
+- [[The Importance of Fit in Graduate School]]
+-

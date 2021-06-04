@@ -2,72 +2,43 @@
 title: Lab meeting Presentation - Hennok - 6.8.2020
 ---
 
-## #[[Lab Meeting + Journal Club]]
-
-## Plant Parasitic Nematoeds
-### over 4,000 described
-
-### root-knot nematdes, wide host range
-
-### obligate biotophs
-
-### direct: yield loss, both in quantity and quality 
-
-### indirect: virus vectors, predospose plants to biotic and abiotic stress
-
-## Life style overview:
-### infective stage - J2
-
-### feeding site -> giant cells (abnormally enlarged, caused by mitosis with no cytokinesis)
-
-### short life cycle
-
-### See Siddique and Florian 2018
-
-## Effectors
-### secretion from pharyngeal glands play a vital role for parasitism
-#### eh. nematode secreted plant peptide minmic CLE (Clavata3/embryo surrounding region -like) - enhance feedling site
-
-## [[Xanthomonas]] RaxX minimics plant PSY peptide
-### PSY (peptide sulfated on tyrosine)
-
-### PSY1 sulfated by TyrosylProtein Sulfo Transferase (TPST1)
-
-### Mature RaxX peptide - similar biological function to plant peptide (At_PSY1)
-
-### See Pruitt et al., 2017
-
-## Predicted PSY-like peptides in PPNs 
-### Potential PSY mimics in RKNs of Meloidogyne incognita group (migPSY) root knot nematodes
-
-### 50 - 51 AA
-
-### PSY likke sequencign with a onserved aspartic acid- tyrosine residue
-
-### is predicted to endcode both MigPSY2 and MigPSY3
-
-## Aim of study:
-### To validate of nematode PSY (MigPSY)
-
-### Determine the role of MigPSY up on M. javanica-host interaction
-
-## Effectors are expressed early in infection by PCR amplification of cDNA from extracted RNA. (RT-PCR)
-
-## 2-step qPCR - no good amplification of sample 
-
-## 1-step qPCR - much better 
-
-## Synthetic MigPSY petides promote root growth in Arabidopsis
-### Arabidopsis __tpst-1__ mutants were growht on MS media containing 100 nM of peptides
-
-### Root length was measured at 9 days after germination
-
-## Evaluation of Xa21 rice line response to M. javanica
-### RaxX minicry and activation of XA21-mediated immunity in Arabidopsis and rice (Pruitt et al., 2017)
-
-## Xa21 rice plants show reduced level of nematide infection
-
-## Ongoing experiments
-### qRT-PCR analysis of MigPSy genes in local nematode infection site
-
-### Analyzing the role of plant TPST up on nematode infection
+- #[[Lab Meeting + Journal Club]]
+- Plant Parasitic Nematoeds
+	- over 4,000 described
+	- root-knot nematdes, wide host range
+	- obligate biotophs
+	- direct: yield loss, both in quantity and quality
+	- indirect: virus vectors, predospose plants to biotic and abiotic stress
+- Life style overview:
+	- infective stage - J2
+	- feeding site -> giant cells (abnormally enlarged, caused by mitosis with no cytokinesis)
+	- short life cycle
+	- See Siddique and Florian 2018
+- Effectors
+	- secretion from pharyngeal glands play a vital role for parasitism
+		- eh. nematode secreted plant peptide minmic CLE (Clavata3/embryo surrounding region -like) - enhance feedling site
+- [[Xanthomonas]] RaxX minimics plant PSY peptide
+	- PSY (peptide sulfated on tyrosine)
+	- PSY1 sulfated by TyrosylProtein Sulfo Transferase (TPST1)
+	- Mature RaxX peptide - similar biological function to plant peptide (At_PSY1)
+	- See Pruitt et al., 2017
+- Predicted PSY-like peptides in PPNs
+	- Potential PSY mimics in RKNs of Meloidogyne incognita group (migPSY) root knot nematodes
+	- 50 - 51 AA
+	- PSY likke sequencign with a onserved aspartic acid- tyrosine residue
+	- is predicted to endcode both MigPSY2 and MigPSY3
+- Aim of study:
+	- To validate of nematode PSY (MigPSY)
+	- Determine the role of MigPSY up on M. javanica-host interaction
+- Effectors are expressed early in infection by PCR amplification of cDNA from extracted RNA. (RT-PCR)
+- 2-step qPCR - no good amplification of sample
+- 1-step qPCR - much better
+- Synthetic MigPSY petides promote root growth in Arabidopsis
+	- Arabidopsis __tpst-1__ mutants were growht on MS media containing 100 nM of peptides
+	- Root length was measured at 9 days after germination
+- Evaluation of Xa21 rice line response to M. javanica
+	- RaxX minicry and activation of XA21-mediated immunity in Arabidopsis and rice (Pruitt et al., 2017)
+- Xa21 rice plants show reduced level of nematide infection
+- Ongoing experiments
+	- qRT-PCR analysis of MigPSy genes in local nematode infection site
+	- Analyzing the role of plant TPST up on nematode infection

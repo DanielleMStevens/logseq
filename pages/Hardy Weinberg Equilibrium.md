@@ -2,65 +2,38 @@
 title: Hardy Weinberg Equilibrium
 ---
 
-## Hardy-Weinberg Equilibrium (HWE): allele and genotype frequencies in a population will remain constant from generation to generation in the absence of other evolutionary forces
-
-## **5 Major assumptions to HWE**
-### 1. Random mating
-
-### 2. Infinite population size 
-#### No changes in the population generation to generation due to sampling (i.e. no genetic drift)
-
-### 3. No mutations
-
-### 4. No migration
-
-### 5. No natural selection
-
-## 
-
-## **Minor assumptions in HWE**
-### Same generations/matting events (non-overlapping generations)
-
-### Equal allele frequencies in sexes
-
-### Allele cannot be mitochondrial inherited
-
-### 
-
-## **Equations to model HWE**
-### Genotypic frequencies: $$p^2 + 2pq + q^2 = 1$$
-
-### Phenotypic frequencies: $$p + q = 1$$
-
-## 
-### ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2Fv2565q9s3m.png?alt=media&token=9bbd0e61-b61d-459d-a871-38ea80158cb0)
-
-## 
-
-## **Influences that violate HGE**
-### genetic drift
-
-### mate choice
-
-### natural selection
-
-### sexual selection
-
-### mutation
-
-### gene flow: genetic variaiton from on population to another
-
-### meiotic drive: 1+ loci affect meiotic process such that transmission of said alleles is high (> 50%)
-
-### genetic hitchhiking: loci near another gene undergoing selective sweeps
-
-### population bottlenecks: reduced population size due to external events 
-
-### founder effects: loss in genetic variation that occurs when new populations are established by  small number of individuals
-
-### inbreeding
-
-### 
-
-## **Addition notes:**
-### A good example of Hardy-Weinberg testing in a plant pathogen is for __Phytophthora infestans__ in- and outside of its putative center of origin [(Tooley et. al. 1985).](https://www.apsnet.org/edcenter/disimpactmngmnt/topc/PopGenetics/Pages/references.aspx#Tooley)
+- Hardy-Weinberg Equilibrium (HWE): allele and genotype frequencies in a population will remain constant from generation to generation in the absence of other evolutionary forces
+- **5 Major assumptions to HWE**
+	- 1. Random mating
+	- 2. Infinite population size
+		- No changes in the population generation to generation due to sampling (i.e. no genetic drift)
+	- 3. No mutations
+	- 4. No migration
+	- 5. No natural selection
+-
+- **Minor assumptions in HWE**
+	- Same generations/matting events (non-overlapping generations)
+	- Equal allele frequencies in sexes
+	- Allele cannot be mitochondrial inherited
+	-
+- **Equations to model HWE**
+	- Genotypic frequencies: $$p^2 + 2pq + q^2 = 1$$
+	- Phenotypic frequencies: $$p + q = 1$$
+-
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2Fv2565q9s3m.png?alt=media&token=9bbd0e61-b61d-459d-a871-38ea80158cb0)
+-
+- **Influences that violate HGE**
+	- genetic drift
+	- mate choice
+	- natural selection
+	- sexual selection
+	- mutation
+	- gene flow: genetic variaiton from on population to another
+	- meiotic drive: 1+ loci affect meiotic process such that transmission of said alleles is high (> 50%)
+	- genetic hitchhiking: loci near another gene undergoing selective sweeps
+	- population bottlenecks: reduced population size due to external events
+	- founder effects: loss in genetic variation that occurs when new populations are established by  small number of individuals
+	- inbreeding
+	-
+- **Addition notes:**
+	- A good example of Hardy-Weinberg testing in a plant pathogen is for __Phytophthora infestans__ in- and outside of its putative center of origin [(Tooley et. al. 1985).](https://www.apsnet.org/edcenter/disimpactmngmnt/topc/PopGenetics/Pages/references.aspx#Tooley)

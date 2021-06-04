@@ -2,36 +2,23 @@
 title: What topics do you typically want students to focus on?
 ---
 
-## Think about the methods/tools you want to use, what information can they gain you, what flaws they may have
-
-## Be willing to draw out a pipeline (for example assemble and/or annotation) and why I used the tools I do (i.e. Guppy over Albacore)
-### What are the strangths of Nanopore over Pacbio
-
-### Think about the questions that might be asked in the context of my project and how I could illustrate my answer
-
-## In the context of [[Transmission genetics]] 
-### understanding basic [[Mendelian genetics]]
-
-### understanding [[Hardy Weinberg Equilibrium]] and it's implication
-
-### Essentially understand at a BIS101 level.
-
-## In the context of my project:
-### understanding the functional roles of [[accessory genes]]
-
-### the role of [[Horizontal Gene Transfer]] and how to differentiate that from [[gene loss/gain]] events and how we can infer this from [[phylogenetics]]
-
-### how [[conjugative elements]] move
-
-### how [[phage]] can undergo [[quorum sensing ]]
-
-## Other topics:
-### How [[epistasis]] in [[sexual systems]] can lead to a distortion in expression
-#### If expression switches from cis to trans
-
-#### Think in the context of systems such as [[hybrid necrosis]] and [[R-gene incompatibility]]
-
-## Papers/systems to look into:
-### The marine bacterium clorococcus (not sure how to spell)
-
-### [[Alex Greenlon]]'s paper on Global-level [[population genomics]] in [[PNAS]]
+- Think about the methods/tools you want to use, what information can they gain you, what flaws they may have
+- Be willing to draw out a pipeline (for example assemble and/or annotation) and why I used the tools I do (i.e. Guppy over Albacore)
+	- What are the strangths of Nanopore over Pacbio
+	- Think about the questions that might be asked in the context of my project and how I could illustrate my answer
+- In the context of [[Transmission genetics]]
+	- understanding basic [[Mendelian genetics]]
+	- understanding [[Hardy Weinberg Equilibrium]] and it's implication
+	- Essentially understand at a BIS101 level.
+- In the context of my project:
+	- understanding the functional roles of [[accessory genes]]
+	- the role of [[Horizontal Gene Transfer]] and how to differentiate that from [[gene loss/gain]] events and how we can infer this from [[phylogenetics]]
+	- how [[conjugative elements]] move
+	- how [[phage]] can undergo [[quorum sensing ]]
+- Other topics:
+	- How [[epistasis]] in [[sexual systems]] can lead to a distortion in expression
+		- If expression switches from cis to trans
+		- Think in the context of systems such as [[hybrid necrosis]] and [[R-gene incompatibility]]
+- Papers/systems to look into:
+	- The marine bacterium clorococcus (not sure how to spell)
+	- [[Alex Greenlon]]'s paper on Global-level [[population genomics]] in [[PNAS]]

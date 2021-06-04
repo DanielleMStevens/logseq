@@ -2,78 +2,44 @@
 title: Cross-Microbial Protection via Priming a Conserved Immune Co-Receptor through Juxtamembrane Phosphorylation in Plants
 ---
 
-## **Authors**: [[Ben-Qiang Gong]], [[Jianhang Guo]], [[Nannan Zhang]], [[Xinran Yao]], [[Hong-Bin Wang]],  [[Jian-Feng Li]]
-
-## **Journal**: [[Cell Host & Microbe]]
-
-## **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:59fc68e3-b1b1-4226-bf1f-04db985f8da4
-
-## **Tags**:
-
-## **Abstract**:
-
-## **Introduction**:
-
-## **Results**:
-### **Bacterial Pathogens Can Promote Arabidopsis Immunity to Fungal Pathogens through CERK1**
-#### infection of Arabidopsis plants by the fungal pathogen Botrytis cinerea in the presence or absence of the bacterial pathogen Pseudomonas syringae pv. tomato (Pst) DC3000 hrcC, which cannot secrete effectors into plant cells to complicate plant-fungi interactions.
-
-#### investigated the effect of bacterial co-inoculation on fungal infection to minimize any general priming effect induced by bacterial pretreatment
-
-#### smaller lesion sizes on Arabidopsis leaves were caused by B. cinerea at 36 h post-inoculation (hpi) in the presence of Pst DC3000 hrcC
-
-#### reduced in a cerk1 null allele
-
-#### similar trends when Pst DC3000 hrcC was replaced with another bacterial pathogen, Ralstonia solanacearum
-
-#### suggesting that these bacterial pathogens promote Arabidopsis resistance to B. cinerea through a CERK1-mediated mechanism rather than through direct bacteria-fungi antagonism
-
-#### co-inoculation of Pst DC3000 hrcC could still enhance the induction of these genes by B. cinerea in wild-type but not in cerk1 null plants
-
-#### resistance was retained in PGN-insensitive lym1 lym3 mutant plants
-
-#### abolished in cerk1 lym1 lym3 mutant plants
-
-### **Both Bacterial Pathogens and flg22 Can Induce CERK1 Phosphorylation**
-#### To pinpoint the CERK1-mediated mechanism underlying bacteria-induced fungal resistance
-
-#### mobility shift of CERK1 in cerk1/pCERK1:CERK1-FLAG transgenic complementation
-
-#### CERK1 in noninfiltrated leaves showed no mobility shift
-
-#### flg22 could induce a similar mobility shift of CERK1 that could be abolished by l-phosphatase
-
-#### flg22 could induce a mobility shift of transiently expressed kinase-dead CERK1DRD
-
-#### flg22-induced mobility shift of CERK1DRD could also be abrogated by l-phosphatase
-
-#### anti-phosphoserine and anti-phosphothreonine (anti-pSer/Thr) antibodies
-
-#### flg22 as low as 1 nM was sufficient to induce CERK1 phosphorylation 
-
-#### flg22-induced CERK1 phosphorylation could persist for over 48 h in plants even when flg22 had been removed after 15 min of treatment
-
-### **flg22 Induces CERK1 Phosphorylation in the Juxtamembrane Region**
-#### cytoplasmic domain (CD) that can be further divided into a juxtamembrane region (JM), a kinase domain (KD), and a C-terminal tail (CT)
-
-#### Only CERK1DRD+DJM lost the flg22-induced mobility shift (Figure 3B), indicating that the flg22-induced phosphorylation occurs in the JM. Notably, CERK1DKD exhibited multiple forms after flg22 elicitation (Figure 3B), indicating that flg22 can induce phosphorylation at multiple JM residues.
-
-#### transiently expressed CERK1DRD proteins were enriched by immunoprecipitation (IP) from flg22-elicited cerk1 null protoplasts and assayed by mass spectrometry
-
-#### Three phosphorylation sites, namely Ser268, Ser282, and Thr283,were identified
-
-#### flg22-induced mobility shift of CERK1DRD derivatives with phosphodeficient mutations. Only S268A-S282A-T283A (referred to as 3A) mutations, but not any single mutation, abolished the flg22-induced mobility shift (Figures 3D andS2D).By contrast, CERK1DRD derivatives carrying phosphomimetic S268D-S282D-T283D or S268E-S282E-T283E
-
-#### mutations exhibited a constitutive mobility shift regardless of flg22 elicitation
-
-### **elf18 and pep1 Can Also Induce CERK1 JM Phosphorylation**
-#### bacterial elicitor elf18 might also induce CERK1 phosphorylation. Indeed, elf18 was able to trigger a similar mobility shift of CERK1 in protoplasts and in planta
-
-#### plant endogenous elicitors such as pep1, which can be induced by flg22 to amplify immunity (Bartels and Boller, 2015), may also induce CERK1 phosphorylation.
-
-#### Ser268, Ser282, Thr283,and Ser284 as elf18-induced phosphorylation sites and Ser282, Thr283, and Ser284 as pep1-induced phosphorylation sites (Figures S2A, right, and S2B).
-
-#### phosphodeficient S282A-T283A-S284A (referred to as 3A*) mutations.elf18 could still induce the mobility shift of CERK1DRD+3A* but not CERK1DRD+3A(Figure S2F), whereas both CERK1DRD+3A*and CERK1DRD+3A lost the pep1-induced mobility shift (Fig-ure S2G).
-
-## **Discussion**:
-### we report that plant perception of bacterial pathogens can transiently place CERK1 into a primed state through BAK1-mediated JM phosphorylation, which enables the host to respond to future fungal attacks in a more rapid and efficient manner.
+- **Authors**: [[Ben-Qiang Gong]], [[Jianhang Guo]], [[Nannan Zhang]], [[Xinran Yao]], [[Hong-Bin Wang]],  [[Jian-Feng Li]]
+- **Journal**: [[Cell Host & Microbe]]
+- **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:59fc68e3-b1b1-4226-bf1f-04db985f8da4
+- **Tags**:
+- **Abstract**:
+- **Introduction**:
+- **Results**:
+	- **Bacterial Pathogens Can Promote Arabidopsis Immunity to Fungal Pathogens through CERK1**
+		- infection of Arabidopsis plants by the fungal pathogen Botrytis cinerea in the presence or absence of the bacterial pathogen Pseudomonas syringae pv. tomato (Pst) DC3000 hrcC, which cannot secrete effectors into plant cells to complicate plant-fungi interactions.
+		- investigated the effect of bacterial co-inoculation on fungal infection to minimize any general priming effect induced by bacterial pretreatment
+		- smaller lesion sizes on Arabidopsis leaves were caused by B. cinerea at 36 h post-inoculation (hpi) in the presence of Pst DC3000 hrcC
+		- reduced in a cerk1 null allele
+		- similar trends when Pst DC3000 hrcC was replaced with another bacterial pathogen, Ralstonia solanacearum
+		- suggesting that these bacterial pathogens promote Arabidopsis resistance to B. cinerea through a CERK1-mediated mechanism rather than through direct bacteria-fungi antagonism
+		- co-inoculation of Pst DC3000 hrcC could still enhance the induction of these genes by B. cinerea in wild-type but not in cerk1 null plants
+		- resistance was retained in PGN-insensitive lym1 lym3 mutant plants
+		- abolished in cerk1 lym1 lym3 mutant plants
+	- **Both Bacterial Pathogens and flg22 Can Induce CERK1 Phosphorylation**
+		- To pinpoint the CERK1-mediated mechanism underlying bacteria-induced fungal resistance
+		- mobility shift of CERK1 in cerk1/pCERK1:CERK1-FLAG transgenic complementation
+		- CERK1 in noninfiltrated leaves showed no mobility shift
+		- flg22 could induce a similar mobility shift of CERK1 that could be abolished by l-phosphatase
+		- flg22 could induce a mobility shift of transiently expressed kinase-dead CERK1DRD
+		- flg22-induced mobility shift of CERK1DRD could also be abrogated by l-phosphatase
+		- anti-phosphoserine and anti-phosphothreonine (anti-pSer/Thr) antibodies
+		- flg22 as low as 1 nM was sufficient to induce CERK1 phosphorylation
+		- flg22-induced CERK1 phosphorylation could persist for over 48 h in plants even when flg22 had been removed after 15 min of treatment
+	- **flg22 Induces CERK1 Phosphorylation in the Juxtamembrane Region**
+		- cytoplasmic domain (CD) that can be further divided into a juxtamembrane region (JM), a kinase domain (KD), and a C-terminal tail (CT)
+		- Only CERK1DRD+DJM lost the flg22-induced mobility shift (Figure 3B), indicating that the flg22-induced phosphorylation occurs in the JM. Notably, CERK1DKD exhibited multiple forms after flg22 elicitation (Figure 3B), indicating that flg22 can induce phosphorylation at multiple JM residues.
+		- transiently expressed CERK1DRD proteins were enriched by immunoprecipitation (IP) from flg22-elicited cerk1 null protoplasts and assayed by mass spectrometry
+		- Three phosphorylation sites, namely Ser268, Ser282, and Thr283,were identified
+		- flg22-induced mobility shift of CERK1DRD derivatives with phosphodeficient mutations. Only S268A-S282A-T283A (referred to as 3A) mutations, but not any single mutation, abolished the flg22-induced mobility shift (Figures 3D andS2D).By contrast, CERK1DRD derivatives carrying phosphomimetic S268D-S282D-T283D or S268E-S282E-T283E
+		- mutations exhibited a constitutive mobility shift regardless of flg22 elicitation
+	- **elf18 and pep1 Can Also Induce CERK1 JM Phosphorylation**
+		- bacterial elicitor elf18 might also induce CERK1 phosphorylation. Indeed, elf18 was able to trigger a similar mobility shift of CERK1 in protoplasts and in planta
+		- plant endogenous elicitors such as pep1, which can be induced by flg22 to amplify immunity (Bartels and Boller, 2015), may also induce CERK1 phosphorylation.
+		- Ser268, Ser282, Thr283,and Ser284 as elf18-induced phosphorylation sites and Ser282, Thr283, and Ser284 as pep1-induced phosphorylation sites (Figures S2A, right, and S2B).
+		- phosphodeficient S282A-T283A-S284A (referred to as 3A*) mutations.elf18 could still induce the mobility shift of CERK1DRD+3A* but not CERK1DRD+3A(Figure S2F), whereas both CERK1DRD+3A*and CERK1DRD+3A lost the pep1-induced mobility shift (Fig-ure S2G).
+- **Discussion**:
+	- we report that plant perception of bacterial pathogens can transiently place CERK1 into a primed state through BAK1-mediated JM phosphorylation, which enables the host to respond to future fungal attacks in a more rapid and efficient manner.

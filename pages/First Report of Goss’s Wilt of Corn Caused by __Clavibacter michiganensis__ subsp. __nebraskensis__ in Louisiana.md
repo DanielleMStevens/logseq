@@ -2,36 +2,21 @@
 title: First Report of Goss’s Wilt of Corn Caused by __Clavibacter michiganensis__ subsp. __nebraskensis__ in Louisiana
 ---
 
-## https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN
-
-## Goss’s wilt, a bacterial disease caused by __Clavibacter michiganensis__ subsp. __nebraskensis__, was confirmed in Louisiana for the first time during the 2013 corn growing season. Field symptoms were found in mid-June in East Carroll, Madison, Tensas, and West Carroll parishes in the northeastern area of the state. Typical foliar and stalk symptoms were observed with the greatest damage occurring in the center of 50 to 75 ft. (15 to 23 m) diameter circles, while less severe symptoms and, therefore, less damage occurred at the circles’ edges. Symptoms included large, light tan colored, water-soaked, discrete lesions on both surfaces of the leaves and the stalks. The lesions were present in the center and margins of the leaf blades. Black freckles were scattered throughout the lesions, but were highly concentrated on the expanding edges. Bacteria were isolated from symptomatic tissue on CNS selective agar media ([Gross and Vidaver 1979](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#b1)). Symptomatic tissues (1 cm2) were surface sterilized with 0.6% NaOCl solution and then chopped into small pieces in sterile distilled water. The tissue macerate was streaked onto CNS plates and incubated at 25°C. Dark orange, mucoid, round colonies typical of __C__. __michiganensis__ subsp. __nebraskensis__ appeared after 5 days. Furthermore, DNA from a single colony culture of strain PDC13261 was amplified and sequenced with __C__. __michiganensis__ subsp. __nebraskensis__ specific primers PSA-7 and PSA-R ([Pastrik and Rainey 1999](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#b2)). The BLASTn analysis of amplified PCR product (374 bp) resulted in 100% homology with __C__. __michiganensis__ subsp. __nebraskensis__ strain KACC20788 (GenBank Accession No. JN613835). The sequence of strain PDC13261 was submitted to the NCBI database (KM199283). Pathogenicity assays were performed in a greenhouse on 10 potted corn plants at the V4 growth stage of DKC66-96 hybrid corn variety. Each plant was sprayed with 20 ml of a 108 cfu/ml bacterial suspension and 10 control plants were sprayed with sterile distilled water. All 10 inoculated plants produced similar symptoms as originally described 10 days after inoculation and the control plants remained symptomless. __C. michiganensis__ subsp. __nebraskensis__ was reisolated from inoculated plants and confirmed with PCR using species-specific primers. In the field, Goss’s wilt affected only three corn hybrids out of dozens of susceptible hybrids grown in the area, indicating seed as the probable initial inoculum source. Incidence of Goss’s wilt in the affected parishes was estimated at less than one percent while the severity within the affected circles ranged from 45 to 100%. Yield losses in the affected areas ranged from 50 to 100%. The overall area of affected fields totaled approximately 1,000 acres. Increases in area during the next few years will make Goss’s wilt a major corn disease with potential for severe losses. Through educational efforts, growers responded to the new disease by burying crop residues. Plans for the 2014 growing season included rotating with a non-host (soybeans) in affected fields.[["[****Details](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#pane-pcw-details)"] ["[Figures](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#pane-pcw-figures)"] ["[Literature Cited](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#pane-pcw-references)"] ["[Related](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#pane-pcw-related)"]]
-### [![journal cover](https://apsjournals.apsnet.org/na101/home/literatum/publisher/aps/journals/content/pdis/2015/pdis.2015.99.issue-9/pdis.2015.99.issue-9/20150827/pdis.2015.99.issue-9.cover.jpg)](https://apsjournals.apsnet.org/toc/pdis/99/9)
-
-### [Vol. 99, No. 9](https://apsjournals.apsnet.org/toc/pdis/99/9)
-
-### September 2015
-
-### [Subscribe](https://www.apsnet.org/apsstore/subscribe/)
-
-### **ISSN:**0191-2917
-
-### **e-ISSN:**1943-7692
-
-### MetricsDownloaded 590 times
-
-### [10![10 total citations on Dimensions.](https://badge.dimensions.ai/badge?count=10)**10** Total citations**6** Recent citations**1.85** Field Citation Ratio**n/a** Relative Citation Ratio](https://badge.dimensions.ai/details/doi/10.1094/PDIS-08-14-0807-PDN?domain=https://apsjournals.apsnet.org)
-
-### Article History
-#### **Issue Date: **27 Aug 2015
-
-#### **Published: **8 Jul 2015
-
-#### **Accepted: **25 Feb 2015
-
-### Pages: 1268-1268
-
-### **Information**
-
-### © 2015 The American Phytopathological Society
-
-## [back](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#)
+- https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN
+- Goss’s wilt, a bacterial disease caused by __Clavibacter michiganensis__ subsp. __nebraskensis__, was confirmed in Louisiana for the first time during the 2013 corn growing season. Field symptoms were found in mid-June in East Carroll, Madison, Tensas, and West Carroll parishes in the northeastern area of the state. Typical foliar and stalk symptoms were observed with the greatest damage occurring in the center of 50 to 75 ft. (15 to 23 m) diameter circles, while less severe symptoms and, therefore, less damage occurred at the circles’ edges. Symptoms included large, light tan colored, water-soaked, discrete lesions on both surfaces of the leaves and the stalks. The lesions were present in the center and margins of the leaf blades. Black freckles were scattered throughout the lesions, but were highly concentrated on the expanding edges. Bacteria were isolated from symptomatic tissue on CNS selective agar media ([Gross and Vidaver 1979](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#b1)). Symptomatic tissues (1 cm2) were surface sterilized with 0.6% NaOCl solution and then chopped into small pieces in sterile distilled water. The tissue macerate was streaked onto CNS plates and incubated at 25°C. Dark orange, mucoid, round colonies typical of __C__. __michiganensis__ subsp. __nebraskensis__ appeared after 5 days. Furthermore, DNA from a single colony culture of strain PDC13261 was amplified and sequenced with __C__. __michiganensis__ subsp. __nebraskensis__ specific primers PSA-7 and PSA-R ([Pastrik and Rainey 1999](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#b2)). The BLASTn analysis of amplified PCR product (374 bp) resulted in 100% homology with __C__. __michiganensis__ subsp. __nebraskensis__ strain KACC20788 (GenBank Accession No. JN613835). The sequence of strain PDC13261 was submitted to the NCBI database (KM199283). Pathogenicity assays were performed in a greenhouse on 10 potted corn plants at the V4 growth stage of DKC66-96 hybrid corn variety. Each plant was sprayed with 20 ml of a 108 cfu/ml bacterial suspension and 10 control plants were sprayed with sterile distilled water. All 10 inoculated plants produced similar symptoms as originally described 10 days after inoculation and the control plants remained symptomless. __C. michiganensis__ subsp. __nebraskensis__ was reisolated from inoculated plants and confirmed with PCR using species-specific primers. In the field, Goss’s wilt affected only three corn hybrids out of dozens of susceptible hybrids grown in the area, indicating seed as the probable initial inoculum source. Incidence of Goss’s wilt in the affected parishes was estimated at less than one percent while the severity within the affected circles ranged from 45 to 100%. Yield losses in the affected areas ranged from 50 to 100%. The overall area of affected fields totaled approximately 1,000 acres. Increases in area during the next few years will make Goss’s wilt a major corn disease with potential for severe losses. Through educational efforts, growers responded to the new disease by burying crop residues. Plans for the 2014 growing season included rotating with a non-host (soybeans) in affected fields.[["[****Details](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#pane-pcw-details)"] ["[Figures](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#pane-pcw-figures)"] ["[Literature Cited](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#pane-pcw-references)"] ["[Related](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#pane-pcw-related)"]]
+	- [![journal cover](https://apsjournals.apsnet.org/na101/home/literatum/publisher/aps/journals/content/pdis/2015/pdis.2015.99.issue-9/pdis.2015.99.issue-9/20150827/pdis.2015.99.issue-9.cover.jpg)](https://apsjournals.apsnet.org/toc/pdis/99/9)
+	- [Vol. 99, No. 9](https://apsjournals.apsnet.org/toc/pdis/99/9)
+	- September 2015
+	- [Subscribe](https://www.apsnet.org/apsstore/subscribe/)
+	- **ISSN:**0191-2917
+	- **e-ISSN:**1943-7692
+	- MetricsDownloaded 590 times
+	- [10![10 total citations on Dimensions.](https://badge.dimensions.ai/badge?count=10)**10** Total citations**6** Recent citations**1.85** Field Citation Ratio**n/a** Relative Citation Ratio](https://badge.dimensions.ai/details/doi/10.1094/PDIS-08-14-0807-PDN?domain=https://apsjournals.apsnet.org)
+	- Article History
+		- **Issue Date: **27 Aug 2015
+		- **Published: **8 Jul 2015
+		- **Accepted: **25 Feb 2015
+	- Pages: 1268-1268
+	- **Information**
+	- © 2015 The American Phytopathological Society
+- [back](https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-14-0807-PDN#)

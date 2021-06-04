@@ -2,113 +2,63 @@
 title: USDA NIFA Predoctural Fellowship
 ---
 
-## **Due Date:** [[August 12th, 2020]]
-
-## contact budget three weeks before
-### Dates for indirect, costs (max out), start date
-
-## spinered programs - draft of the narative 
-
-## **To-Do**:
-### {DONE}} SF 424 R&R Cover Sheet
-
-### {DONE}} SF 424 R&R Project/Performance Site Location(s)
-
-### {DONE}} R&R Other Project Information Form
-
-### {DONE}} [[Field 7. Project Summary/Abstract]]
-
-### {DONE}} [[Field 8. Project Narrative]]
-
-### {DONE}} [[Field 9. Bibliography & References Cited]]
-
-### DONE[[ Field 10. Facilities & Other Resources]]
-
-### DONE [[Field 11. Equipment]]
-
-### {DONE}} Field 12. Other Attachments
-#### {DONE}} [[Key Personnel Roles]]
-
-#### {DONE}} [[Mentor Letter]] - from Gitta
-
-#### {DONE}} [[Reference Letters]]
-##### {DONE}} Letter from [[Jeff H. Chang]]
-
-##### {DONE}} Letter from [[Jeff Anderson]]
-
-##### DONE Letter from [[Dan Kliebenstein]]
-
-#### {DONE}} [[Documentation of Collaboration]]
-##### {DONE}} [[Chang-Sik Oh]]
-
-##### {DONE}} [[Carol A. Ishimaru]]
-
-##### {DONE}} [[Deborah A. Samac]]
-
-##### {DONE}} [[Christine D. Smart]]
-
-#### DONE  ^^Academic Standing^^ For predoctoral applications, documentation from the graduate advisor, graduate committee or the institution indicating that the applicant has advanced to candidacy, as per institutional requirements.
-
-#### {DONE}} [[Logic Model]]
-
-#### {DONE}} [[Management Plan]]
-
-#### DONE [[Data Management Plan (DMP)]]
-
-#### {DONE}} [[Minority-Serving Institution Documentation]] 
-
-### DONE Attach [[Biographical Sketch Field]]
-
-### {DONE}} [[Current and Pending Support Field]]
-#### {DONE}} Gitta's
-
-#### {DONE}} Mine
-
-### {DONE}} R&R Personal Data
-
-### {DONE}} [[R&R Budget]]
-
-### {DONE}} [[Conflict of Interest List]]
-
-## **RFA can be found** [here](https://nifa.usda.gov/sites/default/files/rfa/FY2020-ARFI-EWD-RFA.pdf)
-
-## **Application details can be found** [here](https://nifa.usda.gov/sites/default/files/resource/EWD-RFA-Addl-Info-Part-IVC.pdf)
-
-## **From the RFA:**
-### Program Area Priority Additional Information:
-#### See Part IV, C of this RFA for the REQUIRED Project Summary and Project Narrative format. Proposals that do not comply with these instructions may be excluded from review and consideration of funding. 
-
-#### The ^^predoctoral candidate must be the sole PD listed on the Key Personnel form ^^of the application. The mentor should not be listed as a Co-PD. Select “Graduate Student” for the Predoctoral Fellowship applicant and “Other (Specify)” for the corresponding scientific mentor(s).
-
-#### As part of the Fellows’ professional development, ^^attendance at scientific or professional meetings^^ and experiences in industry or at field locations ^^aimed at the development of skills in the applied sciences are encouraged.^^
-
-#### At the time of the award and release of funds from NIFA to sponsoring institution, Fellows are required to carry out their projects on a full-time basis (i.e., 100% effort), as specified by the sponsoring institution in accordance with its own policies. 
-
-#### We highly recommend that applications be submitted through the mentor's institution with the mentor institution listed as the applicant.
-
-#### The applicant must identify the functional focus of the fellowship (^^Research^^, Education, Extension, or Integrated) leading to a doctoral degree.
-
-#### The selection of disciplines to address an issue is to be determined by the prospective applicant in consultation with appropriate mentors. 
-
-#### Evidence of scholastic achievement should be demonstrated through current doctoral transcript, program of study, and/or other academic successes. 
-
-#### Priority will be given to applications that show a novel and innovative approach that will advance knowledge in targeted discipline(s). 
-
-#### Multidisciplinary, transdisciplinary, and applied approaches are encouraged. 
-
-#### Applications that involve industry participation are encouraged.
-
-#### Applications that involve ^^international experiences^^ (e.g., through collaborating mentors) ^^are encouraged^^.
-
-#### Fellows are expected to build the professional skills necessary for career agility; explore opportunities available in academia, industry, government and other career paths; and forge mentorships with professional and business leaders and faculty. 
-
-#### If organized by the program, the ^^PD will be required to attend one NIFA AFRI EWD PD meeting^^ during the performance period of the award. Reasonable travel expenses must be included as part of the project budget.
-
-#### This program area only accepts new and resubmitted applications. Renewal applications are disallowed. 
-
-#### Consistent with the program goal of fostering career independence, NIFA Predoctoral and Postdoctoral Fellowships can be converted to Standard Grants under certain circumstances (e.g., if the Fellow obtains a faculty position). One condition is that the Fellow substantively completes at least 50% of the fellowship performance period (e.g., 12 months for a 24-month award, 18 months for a 36-month award). Note that actual performance may occur prior to the official award start date and must be validated by the AR. The conversion process includes the following:
-##### A letter (PDF) from the Project Director indicating objectives completed, funds remaining, timeline involved, etc. Said letter must be signed by the AOR. 
-
-##### A letter (PDF) from the mentor attesting to the fellowship accomplishments that might be considered towards the substantive fellowship performance period requirements (i.e., commencement date of actual performance, time spent on career development and planning/training, mentoring, project planning, etc.). 
-
-#### Email both letters to the National Program Leader. If initially agreed upon by the National Program Leader, additional administrative processes take place (e.g., submission of an application, revised budget, etc.). NIFA reserves the right to approve or deny the conversion request. Note: Predoctoral Fellowships cannot be converted into Postdoctoral Fellowships.
+- **Due Date:** [[August 12th, 2020]]
+- contact budget three weeks before
+	- Dates for indirect, costs (max out), start date
+- spinered programs - draft of the narative
+- **To-Do**:
+	- {DONE}} SF 424 R&R Cover Sheet
+	- {DONE}} SF 424 R&R Project/Performance Site Location(s)
+	- {DONE}} R&R Other Project Information Form
+	- {DONE}} [[Field 7. Project Summary/Abstract]]
+	- {DONE}} [[Field 8. Project Narrative]]
+	- {DONE}} [[Field 9. Bibliography & References Cited]]
+	- DONE[[ Field 10. Facilities & Other Resources]]
+	- DONE [[Field 11. Equipment]]
+	- {DONE}} Field 12. Other Attachments
+		- {DONE}} [[Key Personnel Roles]]
+		- {DONE}} [[Mentor Letter]] - from Gitta
+		- {DONE}} [[Reference Letters]]
+			- {DONE}} Letter from [[Jeff H. Chang]]
+			- {DONE}} Letter from [[Jeff Anderson]]
+			- DONE Letter from [[Dan Kliebenstein]]
+		- {DONE}} [[Documentation of Collaboration]]
+			- {DONE}} [[Chang-Sik Oh]]
+			- {DONE}} [[Carol A. Ishimaru]]
+			- {DONE}} [[Deborah A. Samac]]
+			- {DONE}} [[Christine D. Smart]]
+		- DONE  ^^Academic Standing^^ For predoctoral applications, documentation from the graduate advisor, graduate committee or the institution indicating that the applicant has advanced to candidacy, as per institutional requirements.
+		- {DONE}} [[Logic Model]]
+		- {DONE}} [[Management Plan]]
+		- DONE [[Data Management Plan (DMP)]]
+		- {DONE}} [[Minority-Serving Institution Documentation]]
+	- DONE Attach [[Biographical Sketch Field]]
+	- {DONE}} [[Current and Pending Support Field]]
+		- {DONE}} Gitta's
+		- {DONE}} Mine
+	- {DONE}} R&R Personal Data
+	- {DONE}} [[R&R Budget]]
+	- {DONE}} [[Conflict of Interest List]]
+- **RFA can be found** [here](https://nifa.usda.gov/sites/default/files/rfa/FY2020-ARFI-EWD-RFA.pdf)
+- **Application details can be found** [here](https://nifa.usda.gov/sites/default/files/resource/EWD-RFA-Addl-Info-Part-IVC.pdf)
+- **From the RFA:**
+	- Program Area Priority Additional Information:
+		- See Part IV, C of this RFA for the REQUIRED Project Summary and Project Narrative format. Proposals that do not comply with these instructions may be excluded from review and consideration of funding.
+		- The ^^predoctoral candidate must be the sole PD listed on the Key Personnel form ^^of the application. The mentor should not be listed as a Co-PD. Select “Graduate Student” for the Predoctoral Fellowship applicant and “Other (Specify)” for the corresponding scientific mentor(s).
+		- As part of the Fellows’ professional development, ^^attendance at scientific or professional meetings^^ and experiences in industry or at field locations ^^aimed at the development of skills in the applied sciences are encouraged.^^
+		- At the time of the award and release of funds from NIFA to sponsoring institution, Fellows are required to carry out their projects on a full-time basis (i.e., 100% effort), as specified by the sponsoring institution in accordance with its own policies.
+		- We highly recommend that applications be submitted through the mentor's institution with the mentor institution listed as the applicant.
+		- The applicant must identify the functional focus of the fellowship (^^Research^^, Education, Extension, or Integrated) leading to a doctoral degree.
+		- The selection of disciplines to address an issue is to be determined by the prospective applicant in consultation with appropriate mentors.
+		- Evidence of scholastic achievement should be demonstrated through current doctoral transcript, program of study, and/or other academic successes.
+		- Priority will be given to applications that show a novel and innovative approach that will advance knowledge in targeted discipline(s).
+		- Multidisciplinary, transdisciplinary, and applied approaches are encouraged.
+		- Applications that involve industry participation are encouraged.
+		- Applications that involve ^^international experiences^^ (e.g., through collaborating mentors) ^^are encouraged^^.
+		- Fellows are expected to build the professional skills necessary for career agility; explore opportunities available in academia, industry, government and other career paths; and forge mentorships with professional and business leaders and faculty.
+		- If organized by the program, the ^^PD will be required to attend one NIFA AFRI EWD PD meeting^^ during the performance period of the award. Reasonable travel expenses must be included as part of the project budget.
+		- This program area only accepts new and resubmitted applications. Renewal applications are disallowed.
+		- Consistent with the program goal of fostering career independence, NIFA Predoctoral and Postdoctoral Fellowships can be converted to Standard Grants under certain circumstances (e.g., if the Fellow obtains a faculty position). One condition is that the Fellow substantively completes at least 50% of the fellowship performance period (e.g., 12 months for a 24-month award, 18 months for a 36-month award). Note that actual performance may occur prior to the official award start date and must be validated by the AR. The conversion process includes the following:
+			- A letter (PDF) from the Project Director indicating objectives completed, funds remaining, timeline involved, etc. Said letter must be signed by the AOR.
+			- A letter (PDF) from the mentor attesting to the fellowship accomplishments that might be considered towards the substantive fellowship performance period requirements (i.e., commencement date of actual performance, time spent on career development and planning/training, mentoring, project planning, etc.).
+		- Email both letters to the National Program Leader. If initially agreed upon by the National Program Leader, additional administrative processes take place (e.g., submission of an application, revised budget, etc.). NIFA reserves the right to approve or deny the conversion request. Note: Predoctoral Fellowships cannot be converted into Postdoctoral Fellowships.

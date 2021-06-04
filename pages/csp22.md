@@ -2,4 +2,4 @@
 title: csp22
 ---
 
-## Consensus: AVGTVKWFNAEKGFGFTITPDDG
+- Consensus: AVGTVKWFNAEKGFGFTITPDDG

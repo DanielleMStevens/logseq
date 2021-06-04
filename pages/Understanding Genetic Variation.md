@@ -2,29 +2,20 @@
 title: Understanding Genetic Variation
 ---
 
-## **Question**
-### Is there an association between DNA sequences variation and the disease phenotype?
-
-### How has natural selection shaped diversity in the gene?
-
-## **The AIMS of population genetics**
-### To understand the link between genetic variation and phenotypic variation
-#### Is variation at this gene associated with disease susceptibility?
-
-### To investigate the evolutionary history of a species
-#### How long have these population been separate?
-
-#### Which genes have experienced recent adaptive evolution?
-
-### To learn about fundamental biological process
-#### How does the recombination rate vary along the genome?
-
-### Different kinds of genetic variation exists
-#### SNPs, recombination, partially linked vs. unlinked markers, single gene, multigene, whole genome
-
-## **How do we make sense of data**
-### Nonparametric methods: don't rely on model (i.e. parsimony)
-
-### Parametric methods: explicitly state the model (i.e. likelihood)
-
-## **Pop. Gen. Interence**
+- **Question**
+	- Is there an association between DNA sequences variation and the disease phenotype?
+	- How has natural selection shaped diversity in the gene?
+- **The AIMS of population genetics**
+	- To understand the link between genetic variation and phenotypic variation
+		- Is variation at this gene associated with disease susceptibility?
+	- To investigate the evolutionary history of a species
+		- How long have these population been separate?
+		- Which genes have experienced recent adaptive evolution?
+	- To learn about fundamental biological process
+		- How does the recombination rate vary along the genome?
+	- Different kinds of genetic variation exists
+		- SNPs, recombination, partially linked vs. unlinked markers, single gene, multigene, whole genome
+- **How do we make sense of data**
+	- Nonparametric methods: don't rely on model (i.e. parsimony)
+	- Parametric methods: explicitly state the model (i.e. likelihood)
+- **Pop. Gen. Interence**

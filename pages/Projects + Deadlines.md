@@ -2,77 +2,48 @@
 title: Projects + Deadlines
 ---
 
-## **Deadlines**
-### [[December 30th, 2020]] [[AWS Research Credit Proposal Due]]
-
-### [[February 4th, 2021]] [[Phi Beta Kappa - Northern California Association Graduate Scholarship]]
-
-### [[March 8th, 2021]] [[2020-21 Neal Van Alfen and James MacDonald Graduate Student Support Fund]]
-
-### [[April 14th, 2021]] [[APS Pacific Division Annual Meeting Submission Date]]
-
-### [[April 30th, 2021]] [[Thermo Fisher Scientific Antibody Scholarship Program]]
-
-## 
-
-## 
-
-## **Projects**:
-### **My Projects**
-#### [[Evolution and Diversity of Known MAMPs in plant-associated Actinobacteria]]
-
-#### [[Plant Immune Response to G+ Plant Pathogens]]
-
-#### [[Clavibacter Genus Project]]
-
-#### [[pSelAct: An Unmarked Genetic Knockout System Optimized for Gram-positive bacteria of the Clavibacter genus]]
-
-### **Mentored Projects**
-#### [[Effector Expression in Clavibacter Species]]
-
-### **Collab. Projects:**
-#### [[ROS Accumulation Variation Project]]
-
-#### [[Assessing Sequence Similarity of NADPH Oxidase Homlologs]]
-
-#### [Assess Seed Inoculation Protocol](https://mail.google.com/mail/u/0/#search/is%3Aunread/FMfcgxwJWrbbVwbVdzMVCLHNDPsxhWQf)
-
-### **Other Ideas**
-#### [[Introduction into Data Intensive Research]]
-
-### 
-
-## **Fellowships/Money**
-### **GLC7D81** - Local 290 Money ~250 left
-#### https://mail.google.com/mail/u/1/#inbox/FMfcgxwKjTNZCWxZKhxnpPMkZnxbpkld
-
-### [[3-DMS3C97]] - Jasto money -^^ account closed^^
-#### https://mail.google.com/mail/u/0/#inbox/FMfcgxwKjwtzxLgdkrVMTLghplMJNfMN
-
-#### Money left: 
-##### {{embed  ((b9dda5bf-7b57-400f-9687-7b86433eacf0))}}
-
-#### 
-
-## **Future Fellowships**
-### Phi Beta Kappa - Northern California Association Graduate Scholarship: https://www.pbknca.org/scholarship/scholarship-info.phi.beta.kappa.pbk.php
-
-### **Cancelled 2020** - ASM Capstone Fellowship: 
-https://asm.org/Fellowships/Fellowship-2132
-
-### Thermo Fisher Scientific Antibody Scholarship Program:
-https://www.thermofisher.com/us/en/home/life-science/antibodies/thermo-fisher-scientific-antibody-scholarship-program.html
-
-### 
-
-### 
-
-## **Import Career Building Opportunites**
-### https://microbiologysociety.org/news/society-news/join-microbial-genomics-early-career-microbiologists-board-of-reviewers.html?utm_campaign=439391_September%202020%20Newsletter%20for%20web&utm_medium=email&utm_source=Trillium%20on%20Behalf%20of%20Microbiology%20Society&dm_i=5A9B,9F1B,1FXAEA,11T5A,1
-
-### Professors for the future - https://mail.google.com/mail/u/0/#inbox/FMfcgxwKjwwHkxRqstVqlHFzVMQGcZDv
-
-## 
-
-## **Small Side Projects**
-### Shiny App/Automated Script to plot pathogenicity Assay Data
+- **Deadlines**
+	- [[December 30th, 2020]] [[AWS Research Credit Proposal Due]]
+	- [[February 4th, 2021]] [[Phi Beta Kappa - Northern California Association Graduate Scholarship]]
+	- [[March 8th, 2021]] [[2020-21 Neal Van Alfen and James MacDonald Graduate Student Support Fund]]
+	- [[April 14th, 2021]] [[APS Pacific Division Annual Meeting Submission Date]]
+	- [[April 30th, 2021]] [[Thermo Fisher Scientific Antibody Scholarship Program]]
+-
+-
+- **Projects**:
+	- **My Projects**
+		- [[Evolution and Diversity of Known MAMPs in plant-associated Actinobacteria]]
+		- [[Plant Immune Response to G+ Plant Pathogens]]
+		- [[Clavibacter Genus Project]]
+		- [[pSelAct: An Unmarked Genetic Knockout System Optimized for Gram-positive bacteria of the Clavibacter genus]]
+	- **Mentored Projects**
+		- [[Effector Expression in Clavibacter Species]]
+	- **Collab. Projects:**
+		- [[ROS Accumulation Variation Project]]
+		- [[Assessing Sequence Similarity of NADPH Oxidase Homlologs]]
+		- [Assess Seed Inoculation Protocol](https://mail.google.com/mail/u/0/#search/is%3Aunread/FMfcgxwJWrbbVwbVdzMVCLHNDPsxhWQf)
+	- **Other Ideas**
+		- [[Introduction into Data Intensive Research]]
+	-
+- **Fellowships/Money**
+	- **GLC7D81** - Local 290 Money ~250 left
+		- https://mail.google.com/mail/u/1/#inbox/FMfcgxwKjTNZCWxZKhxnpPMkZnxbpkld
+	- [[3-DMS3C97]] - Jasto money -^^ account closed^^
+		- https://mail.google.com/mail/u/0/#inbox/FMfcgxwKjwtzxLgdkrVMTLghplMJNfMN
+		- Money left:
+			- {{embed  ((b9dda5bf-7b57-400f-9687-7b86433eacf0))}}
+		-
+- **Future Fellowships**
+	- Phi Beta Kappa - Northern California Association Graduate Scholarship: https://www.pbknca.org/scholarship/scholarship-info.phi.beta.kappa.pbk.php
+	- **Cancelled 2020** - ASM Capstone Fellowship: 
+	  https://asm.org/Fellowships/Fellowship-2132
+	- Thermo Fisher Scientific Antibody Scholarship Program:
+	  https://www.thermofisher.com/us/en/home/life-science/antibodies/thermo-fisher-scientific-antibody-scholarship-program.html
+	-
+	-
+- **Import Career Building Opportunites**
+	- https://microbiologysociety.org/news/society-news/join-microbial-genomics-early-career-microbiologists-board-of-reviewers.html?utm_campaign=439391_September%202020%20Newsletter%20for%20web&utm_medium=email&utm_source=Trillium%20on%20Behalf%20of%20Microbiology%20Society&dm_i=5A9B,9F1B,1FXAEA,11T5A,1
+	- Professors for the future - https://mail.google.com/mail/u/0/#inbox/FMfcgxwKjwwHkxRqstVqlHFzVMQGcZDv
+-
+- **Small Side Projects**
+	- Shiny App/Automated Script to plot pathogenicity Assay Data

@@ -3,49 +3,29 @@ title: Comparative Genomics Screen Identifies Microbe-Associated Molecular Patte
 Responses in Plants
 ---
 
-## **Authors**: [[Yuan Chen]], [[Claire Bendix]], and [[Jennifer D. Lewis]]
-
-## **Journal**: [[MPMI]]
-
-## **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:8d70f777-054a-4859-a774-4af804171ed4
-
-## **Tags**: #[[plant immunity]] #MAMPs
-## **Abstract**:
-### Citrus huanglongbing (HLB), caused by phloem-limited ‘Candidatus Liberibacter’ bacteria, is a destructive disease threatening the worldwide citrus industry
-
-### comparative genomics screen to identify candidate microbe associated molecular patterns (MAMPs)
-
-### searched for core genes with signatures of positive selection
-
-### high-throughput microtiter plate-based screening assay, particularly for citrus, that measured reactive oxygen species (ROS) production
-
-### We found that two peptides could elicit ROS production in Arabidopsis and Nicotiana benthamiana. One of these peptides elicited ROS production and defense gene expression in HLB-tolerant citrus genotypes, and induced MAMP-triggered immunity against the bacterial pathogen [[Pseudomonas syringae]].
-
-## **Introduction**:
-
-## **Results**:
-### **Computational identification of candidate MAMPs**:
-#### to identify core and accessory genes using Roary (Page et al. 2015). We used codeml and Bayes empirical Bayes estimates to identify core genes under positive selection
-
-#### prioritized 13 candidate MAMPs (Table 1) for further study because they contained multiple sites of positive selection, and an additional candidate peptide because it was associated with the flagella
-
-### **Candidate MAMPs elicit ROS production**:
-#### Apoplastic peroxidase (POX) is critical for generating ROS during pathogen invasion, as part of a concerted plant immune response 
-
-#### we carried out a colorimetric assay for POX activity
-
-#### plants may differ in their ability to detect MAMPs, as seen with the recognition of EF-Tu by the EFR receptor
-
-#### 20 µM, we saw statistically significantly increased absorbance for nuoD, which was more comparable with that induced by flg22
-
-#### Interestingly, 1 µM flg22 in PBS-A buffer showed decreased absorbance compared with 1 µM flg22 in water (Fig. 1B).
-
-#### Only nuoD had slightly increased absorbance when tested at 30 µM and nuoD showed consistently increased and statistically significant absorbance, comparable with that induced by flg22, while the other MAMP candidates showed only slightly increased absorbance (Fig. 1C).
-
-#### nuoD and pksG induced ROS responses, we carried out luminol-based ROS assay
-
-#### Only pksG elicited high levels of ROS production (approximately 200 relative light units [RLU])
-
-## **Discussion**:
-
-## Other Notes
+- **Authors**: [[Yuan Chen]], [[Claire Bendix]], and [[Jennifer D. Lewis]]
+- **Journal**: [[MPMI]]
+- **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:8d70f777-054a-4859-a774-4af804171ed4
+- **Tags**: #[[plant immunity]] #MAMPs
+- **Abstract**:
+	- Citrus huanglongbing (HLB), caused by phloem-limited ‘Candidatus Liberibacter’ bacteria, is a destructive disease threatening the worldwide citrus industry
+	- comparative genomics screen to identify candidate microbe associated molecular patterns (MAMPs)
+	- searched for core genes with signatures of positive selection
+	- high-throughput microtiter plate-based screening assay, particularly for citrus, that measured reactive oxygen species (ROS) production
+	- We found that two peptides could elicit ROS production in Arabidopsis and Nicotiana benthamiana. One of these peptides elicited ROS production and defense gene expression in HLB-tolerant citrus genotypes, and induced MAMP-triggered immunity against the bacterial pathogen [[Pseudomonas syringae]].
+- **Introduction**:
+- **Results**:
+	- **Computational identification of candidate MAMPs**:
+		- to identify core and accessory genes using Roary (Page et al. 2015). We used codeml and Bayes empirical Bayes estimates to identify core genes under positive selection
+		- prioritized 13 candidate MAMPs (Table 1) for further study because they contained multiple sites of positive selection, and an additional candidate peptide because it was associated with the flagella
+	- **Candidate MAMPs elicit ROS production**:
+		- Apoplastic peroxidase (POX) is critical for generating ROS during pathogen invasion, as part of a concerted plant immune response
+		- we carried out a colorimetric assay for POX activity
+		- plants may differ in their ability to detect MAMPs, as seen with the recognition of EF-Tu by the EFR receptor
+		- 20 µM, we saw statistically significantly increased absorbance for nuoD, which was more comparable with that induced by flg22
+		- Interestingly, 1 µM flg22 in PBS-A buffer showed decreased absorbance compared with 1 µM flg22 in water (Fig. 1B).
+		- Only nuoD had slightly increased absorbance when tested at 30 µM and nuoD showed consistently increased and statistically significant absorbance, comparable with that induced by flg22, while the other MAMP candidates showed only slightly increased absorbance (Fig. 1C).
+		- nuoD and pksG induced ROS responses, we carried out luminol-based ROS assay
+		- Only pksG elicited high levels of ROS production (approximately 200 relative light units [RLU])
+- **Discussion**:
+- Other Notes

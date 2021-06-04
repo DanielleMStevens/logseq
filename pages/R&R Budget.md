@@ -2,50 +2,35 @@
 title: R&R Budget
 ---
 
-## Detailed Information related to the questions on this form is available in Part V, 7 of the NIFA Grants.gov Application Guide.
-### **Matching Funds.**
-#### If you conclude that matching funds are not required as specified under Part III, C., Cost Sharing or Matching, you must include an explanation for your conclusion in the Budget Justification. We will consider this justification when determining final matching requirements or if required matching can be waived. NIFA retains the right to make final determinations regarding matching requirements.
-
-#### For grants that require matching funds as specified under Part III, C, the Budget Justification must list matching sources along with the identification of the entity(ies) providing the match as well as the total dollar amount being pledged. NIFA is no longer requiring written verification of commitments of matching support (a pledge agreement). However, you are still subject to documentation, valuing and reporting requirements, etc. as specified in 2 CFR Part 200, “Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (the Uniform Guidance),” 7 CFR 3430, “Competitive and Noncompetitive Non-Formula Federal Assistance Programs – General Award Administrative Provisions,” and program-specific regulations, as applicable. In instances where match is required, any resulting award will require the signature of an Authorized Representative. Only when NIFA receives the award signed by the AR will award funds be released and available for drawdown.
-
-#### For applied Research or integrated Projects with an applied research component, if a funded project is commodity-specific and not of national scope, the grant recipient is required to match the NIFA funds awarded on a dollar-for-dollar basis from non-federal sources with cash and/or in-kind contributions.
-
-#### The sources and the amount of all matching support from outside the applicant organization must be summarized on a separate page and placed in the application immediately following the Budget Justification. All pledge agreements must be placed in the application immediately following the summary of matching support.
-
-#### Establish the value of applicant contributions in accordance with applicable cost principles. Refer to 2 CFR Part 200, “Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards,” for further guidance and other requirements relating to matching and allowable costs
-
-### **Budget Periods.**
-#### Applications must contain a budget for each budget period for the entire duration of the proposed project. Annual and cumulative budgets are required.
-
-## 
-
-## If a Predoctoral fellowship grant application is funded, the Project Director will be required to attend one AFRI NIFA Fellows Project Directors’ meeting during the performance period of the award.
-
-## 
-
-## Reasonable travel expenses should be included as part of the project budget. As part of the fellows’ professional development, attendance to other scientific or professional meetings is encouraged, but the fellows must attend at least one Project Directors’ meeting during the time of support.
-
-## {{[[table]]}}
-### **Line Item**
-#### **Amount/Year**
-##### **Years**  
-
-### Publication Costs
-#### $2500
-##### 2,3 
-
-### Travel Allotment
-#### $2000
-##### 1,2,3
-
-### Chamber Space
-#### $1200
-##### 1,2,3
-
-### Supplies
-#### $10000
-##### 1,2,3
-
-### Computational Resources
-#### $1000
-##### 1,2,3
+- Detailed Information related to the questions on this form is available in Part V, 7 of the NIFA Grants.gov Application Guide.
+	- **Matching Funds.**
+		- If you conclude that matching funds are not required as specified under Part III, C., Cost Sharing or Matching, you must include an explanation for your conclusion in the Budget Justification. We will consider this justification when determining final matching requirements or if required matching can be waived. NIFA retains the right to make final determinations regarding matching requirements.
+		- For grants that require matching funds as specified under Part III, C, the Budget Justification must list matching sources along with the identification of the entity(ies) providing the match as well as the total dollar amount being pledged. NIFA is no longer requiring written verification of commitments of matching support (a pledge agreement). However, you are still subject to documentation, valuing and reporting requirements, etc. as specified in 2 CFR Part 200, “Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (the Uniform Guidance),” 7 CFR 3430, “Competitive and Noncompetitive Non-Formula Federal Assistance Programs – General Award Administrative Provisions,” and program-specific regulations, as applicable. In instances where match is required, any resulting award will require the signature of an Authorized Representative. Only when NIFA receives the award signed by the AR will award funds be released and available for drawdown.
+		- For applied Research or integrated Projects with an applied research component, if a funded project is commodity-specific and not of national scope, the grant recipient is required to match the NIFA funds awarded on a dollar-for-dollar basis from non-federal sources with cash and/or in-kind contributions.
+		- The sources and the amount of all matching support from outside the applicant organization must be summarized on a separate page and placed in the application immediately following the Budget Justification. All pledge agreements must be placed in the application immediately following the summary of matching support.
+		- Establish the value of applicant contributions in accordance with applicable cost principles. Refer to 2 CFR Part 200, “Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards,” for further guidance and other requirements relating to matching and allowable costs
+	- **Budget Periods.**
+		- Applications must contain a budget for each budget period for the entire duration of the proposed project. Annual and cumulative budgets are required.
+-
+- If a Predoctoral fellowship grant application is funded, the Project Director will be required to attend one AFRI NIFA Fellows Project Directors’ meeting during the performance period of the award.
+-
+- Reasonable travel expenses should be included as part of the project budget. As part of the fellows’ professional development, attendance to other scientific or professional meetings is encouraged, but the fellows must attend at least one Project Directors’ meeting during the time of support.
+- {{[[table]]}}
+	- **Line Item**
+		- **Amount/Year**
+			- **Years**
+	- Publication Costs
+		- $2500
+			- 2,3
+	- Travel Allotment
+		- $2000
+			- 1,2,3
+	- Chamber Space
+		- $1200
+			- 1,2,3
+	- Supplies
+		- $10000
+			- 1,2,3
+	- Computational Resources
+		- $1000
+			- 1,2,3

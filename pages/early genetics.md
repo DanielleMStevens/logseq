@@ -2,65 +2,47 @@
 title: early genetics
 ---
 
-## **Lamarckism:** an organism can pass on to its offspring physical characteristics that the parent aquired though use or disuse during its lifetiem
-### By French biologist Jean-Baptiste Lemarck (~1850-1860s)
-
-## **Mendelian inheritance** (2 main laws)
-### 1. [[Law of Segregation]]: during gamete formation, the alleles for each gene segregate from each other so that each gamete carries only one allele for each gene
-#### molecular proof was by the observation of meiosis
-
-### 2. [[Law of Independent Assortment]]: genes of different traits can segregate independently from one another during the formation of gametes 
-
-### 3. Law of dominance: an organism with at least one dominant alleles will display the effect of the dominant allele
-
-## 
-
-## **What is a Mendelian trait?**
-### one that is controlled by a single locus in an inhertiance pattern
-#### dominant disease manifest in heterzygous individuals
-
-## 
-
-## **Non-Mendelian Inheritance**:
-### 1. [[Incomplete dominance]]: occurs when the phenotype of a heterozygous genotype is distant from and often intermediate to phenotype of homozygous genotypes
-#### ex. snapdragons
-
-### 2. [[Co-dominance]]: occurs when the phenotype of a heterozygous genotype is a visible contribution of both alleles 
-#### ex. camellia flower, blood types
-
-### 3. [[Polygenic traits]]: traits that are controlled by more than one gene
-#### - alleles of each gene have a minor additive effect on the phenotype
-
-### 4. [[Pleiotropic traits]]: genes that affect more than one phenotypic trait
-#### ex. __vg__ gene in flies, controls wing development: 
-flies homozygous recessive for the __vg__ locus develop short wings = cannot fly; 
-indirectly __vg__ gene changes the number of egg strings in the fly's ovaries, thus decreasing lifespan of fly
-
-### 5. [[epistasis]]: 2 or more loci contribute to a single phenotype and their effects are not additive with an allele at one locus typically masking or modifying the effects of other loci involved
-#### - genes involved in an [[epistasis]] interaction may still show independent assortment at the genotypic level, however, phenotypic ratio would deviate
-
-#### examples of [[epistasis]] ratios
-##### {{[[table]]}}
-###### ratio
-####### name
-######## description
-
-###### 9:4:3
-####### recessive epistasis
-######## complete dominance at both gene pairs; however, when one gene is ^^homozygous recessive^^, it hides the ^^phenotype^^ of the other gene
-
-###### 9:7
-####### duplicate recessive epistasis
-######## complete dominance at both gene pairs; however, when one gene is ^^homozygous recessive^^, it hides the ^^effect^^ of the other gene
-
-###### 12:3:1
-####### dominant epistasis
-######## complete dominance at both gene pairs; however, when one gene is ^^homozygous dominant^^, it hides the ^^phenotype^^ of the other gene
-
-###### 15:1
-####### duplicate dominant epistasis
-######## complete dominance at both gene pairs; however, when one gene is ^^homozygous dominant^^, it hides the ^^effect^^ of the other gene
-
-### 6. [[gene dosage]]
-
-### 
+- **Lamarckism:** an organism can pass on to its offspring physical characteristics that the parent aquired though use or disuse during its lifetiem
+	- By French biologist Jean-Baptiste Lemarck (~1850-1860s)
+- **Mendelian inheritance** (2 main laws)
+	- 1. [[Law of Segregation]]: during gamete formation, the alleles for each gene segregate from each other so that each gamete carries only one allele for each gene
+		- molecular proof was by the observation of meiosis
+	- 2. [[Law of Independent Assortment]]: genes of different traits can segregate independently from one another during the formation of gametes
+	- 3. Law of dominance: an organism with at least one dominant alleles will display the effect of the dominant allele
+-
+- **What is a Mendelian trait?**
+	- one that is controlled by a single locus in an inhertiance pattern
+		- dominant disease manifest in heterzygous individuals
+-
+- **Non-Mendelian Inheritance**:
+	- 1. [[Incomplete dominance]]: occurs when the phenotype of a heterozygous genotype is distant from and often intermediate to phenotype of homozygous genotypes
+		- ex. snapdragons
+	- 2. [[Co-dominance]]: occurs when the phenotype of a heterozygous genotype is a visible contribution of both alleles
+		- ex. camellia flower, blood types
+	- 3. [[Polygenic traits]]: traits that are controlled by more than one gene
+		- - alleles of each gene have a minor additive effect on the phenotype
+	- 4. [[Pleiotropic traits]]: genes that affect more than one phenotypic trait
+		- ex. __vg__ gene in flies, controls wing development: 
+		  flies homozygous recessive for the __vg__ locus develop short wings = cannot fly; 
+		  indirectly __vg__ gene changes the number of egg strings in the fly's ovaries, thus decreasing lifespan of fly
+	- 5. [[epistasis]]: 2 or more loci contribute to a single phenotype and their effects are not additive with an allele at one locus typically masking or modifying the effects of other loci involved
+		- - genes involved in an [[epistasis]] interaction may still show independent assortment at the genotypic level, however, phenotypic ratio would deviate
+		- examples of [[epistasis]] ratios
+			- {{[[table]]}}
+				- ratio
+					- name
+						- description
+				- 9:4:3
+					- recessive epistasis
+						- complete dominance at both gene pairs; however, when one gene is ^^homozygous recessive^^, it hides the ^^phenotype^^ of the other gene
+				- 9:7
+					- duplicate recessive epistasis
+						- complete dominance at both gene pairs; however, when one gene is ^^homozygous recessive^^, it hides the ^^effect^^ of the other gene
+				- 12:3:1
+					- dominant epistasis
+						- complete dominance at both gene pairs; however, when one gene is ^^homozygous dominant^^, it hides the ^^phenotype^^ of the other gene
+				- 15:1
+					- duplicate dominant epistasis
+						- complete dominance at both gene pairs; however, when one gene is ^^homozygous dominant^^, it hides the ^^effect^^ of the other gene
+	- 6. [[gene dosage]]
+	-

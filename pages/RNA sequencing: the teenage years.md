@@ -2,32 +2,20 @@
 title: RNA sequencing: the teenage years
 ---
 
-## **Authors**: [[Rory Stark]], [[Marta Grzelak]], and [[James Hadfield]]
-
-## **Journal**: [[Nature Genetic Reviews]]
-
-## **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:ab75e59f-0c1b-4484-9d55-40e6a1cf5037
-
-## **Tags**: 
-
-## **Abstract**:
-### transcriptome-wide analysis of [[differential gene expression]] and differential splicing of mRNAs
-
-### single-cell gene expression, translation (the translatome) and RNA structure (the structurome) and spatial transcriptomics (spatialomics)
-
-## **Introduction**:
-### RNA-seq is most often used for analyzing differential gene expression
-
-### ^^The standard workflow begins in the laboratory,^^ with RNA extraction, followed by mRNA enrichment or ribosomal RNA depletion, cDNA synthesis and preparation of an adaptor- ligated sequencing library
-
-### ^^The final steps are computational^^: aligning and/or assembling the sequencing reads to a transcriptome, quantifying reads that overlap transcripts, filtering and normalizing between samples, and statistical modelling of significant changes in the expression levels of individual genes and/or transcripts between sample groups
-
-### Broader applications of RNA-seq have shaped our understanding of many aspects of biology, such as by revealing the extent of mRNA splicing and the regulation of gene expression by non-coding RNAs and enhancer RNAs
-
-## **Advances in RNA- seq technologies**:
-### The Illumina short- read sequencing technology has been used to generate more than 95% of the published RNA-seq data available on the Short Read Archive (SRA)
-
-### **Short-read cDNA sequencing for [[differential gene expression]]**:
-#### 
-
-## **Discussion**:
+- **Authors**: [[Rory Stark]], [[Marta Grzelak]], and [[James Hadfield]]
+- **Journal**: [[Nature Genetic Reviews]]
+- **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:ab75e59f-0c1b-4484-9d55-40e6a1cf5037
+- **Tags**:
+- **Abstract**:
+	- transcriptome-wide analysis of [[differential gene expression]] and differential splicing of mRNAs
+	- single-cell gene expression, translation (the translatome) and RNA structure (the structurome) and spatial transcriptomics (spatialomics)
+- **Introduction**:
+	- RNA-seq is most often used for analyzing differential gene expression
+	- ^^The standard workflow begins in the laboratory,^^ with RNA extraction, followed by mRNA enrichment or ribosomal RNA depletion, cDNA synthesis and preparation of an adaptor- ligated sequencing library
+	- ^^The final steps are computational^^: aligning and/or assembling the sequencing reads to a transcriptome, quantifying reads that overlap transcripts, filtering and normalizing between samples, and statistical modelling of significant changes in the expression levels of individual genes and/or transcripts between sample groups
+	- Broader applications of RNA-seq have shaped our understanding of many aspects of biology, such as by revealing the extent of mRNA splicing and the regulation of gene expression by non-coding RNAs and enhancer RNAs
+- **Advances in RNA- seq technologies**:
+	- The Illumina short- read sequencing technology has been used to generate more than 95% of the published RNA-seq data available on the Short Read Archive (SRA)
+	- **Short-read cDNA sequencing for [[differential gene expression]]**:
+		-
+- **Discussion**:

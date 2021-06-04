@@ -2,8 +2,6 @@
 title: [[template]]/dailyTemplate
 ---
 
-## #[[LabWork]] 
-
-## #[[IGG Recruitment]]
-
-## #[[Other]]
+- #[[LabWork]]
+- #[[IGG Recruitment]]
+- #[[Other]]

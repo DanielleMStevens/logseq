@@ -2,49 +2,28 @@
 title: Meeting with Chandrika Ramadugu - 5.8.2020
 ---
 
-## Meeting 5-8-2020
-
-## Attendees: Chandrika Ramadugu, Erika, Gitta, Tania Toruno, Dani Stevens
-
-## Notes:
-
-## Discussed format of the current figures, additional genotypes to repeat and include, alterations to figures
-
-## **Chandrika’s group:**
-### 1. Use Tania’s excel file “tab 2” to fix any errors in genotype names, etc (highlight as yellow so we can track), add another column to note “non-host” for particular genotypes, add column for original genus and species name (in case of recent re-naming to help track). Include insect performance as a separate column.
-
-### 2. Send seed for balsamocitrinae that can set fruit (Afreagle paniculata, Balsamocitrus daweii, Aegle marmelos). Do I have these names correct?
-
-### 3. Work to help guide the selection of genotypes for future MAMP screening
-
-### 4. Repeat ROS assays as noted on Tania’s excel files.
-
-### 5. Include some additional genotypes, if available for other Rutaceae genotypes (double check sheet for what has been done, our goal is ~3 specis for each genera):
-
-## 
-
-## **Gitta’s Group:**
-### 1. Dani to check the code for disease severity to fix the errors in that figure.
-
-### 2. Remake the figures using Chandrika’s corrections for names. Use genus and species for most, use common name for cultivated varieties. Highlight variable responders
-
-### 3. Use chandrika’s data for insect performance to see if there is any correlation between chitin perception and insect performance. Consider generating correlation plots for particular features as opposed to heat maps?
-
-### 4. Come up with a plan to sequence a couple more genotypes to try and figure out why sweet orange does not perceive features: candidates could be – Wilking Mandarin (more closely related to Valencia can perceive 3 out of 4 features), one Balsamocitrinae (Afreagle paniculata, Balsamocitrus daweii, that can perceive 4 out of 4 features).
-
-## 
-
-## Thoughts on genotypes to include for new MAMP screening (please edit based on your expertise):
-### 1. Lisbon Lemon (good response, can perceive most features)
-
-### 2. Valencia (negative control, typically gives poor response)
-
-### 3. Balsamocitrinae - Afreagle paniculata
-
-### 4. Balsamocitrinae - Balsamocitrus daweii
-
-### 5. Microcitrus australasica – Chandrika to advise
-
-### 6. Microcitrus indora – Chandrika to advise
-
-### 7. Eremocitrus glauca
+- Meeting 5-8-2020
+- Attendees: Chandrika Ramadugu, Erika, Gitta, Tania Toruno, Dani Stevens
+- Notes:
+- Discussed format of the current figures, additional genotypes to repeat and include, alterations to figures
+- **Chandrika’s group:**
+	- 1. Use Tania’s excel file “tab 2” to fix any errors in genotype names, etc (highlight as yellow so we can track), add another column to note “non-host” for particular genotypes, add column for original genus and species name (in case of recent re-naming to help track). Include insect performance as a separate column.
+	- 2. Send seed for balsamocitrinae that can set fruit (Afreagle paniculata, Balsamocitrus daweii, Aegle marmelos). Do I have these names correct?
+	- 3. Work to help guide the selection of genotypes for future MAMP screening
+	- 4. Repeat ROS assays as noted on Tania’s excel files.
+	- 5. Include some additional genotypes, if available for other Rutaceae genotypes (double check sheet for what has been done, our goal is ~3 specis for each genera):
+-
+- **Gitta’s Group:**
+	- 1. Dani to check the code for disease severity to fix the errors in that figure.
+	- 2. Remake the figures using Chandrika’s corrections for names. Use genus and species for most, use common name for cultivated varieties. Highlight variable responders
+	- 3. Use chandrika’s data for insect performance to see if there is any correlation between chitin perception and insect performance. Consider generating correlation plots for particular features as opposed to heat maps?
+	- 4. Come up with a plan to sequence a couple more genotypes to try and figure out why sweet orange does not perceive features: candidates could be – Wilking Mandarin (more closely related to Valencia can perceive 3 out of 4 features), one Balsamocitrinae (Afreagle paniculata, Balsamocitrus daweii, that can perceive 4 out of 4 features).
+-
+- Thoughts on genotypes to include for new MAMP screening (please edit based on your expertise):
+	- 1. Lisbon Lemon (good response, can perceive most features)
+	- 2. Valencia (negative control, typically gives poor response)
+	- 3. Balsamocitrinae - Afreagle paniculata
+	- 4. Balsamocitrinae - Balsamocitrus daweii
+	- 5. Microcitrus australasica – Chandrika to advise
+	- 6. Microcitrus indora – Chandrika to advise
+	- 7. Eremocitrus glauca

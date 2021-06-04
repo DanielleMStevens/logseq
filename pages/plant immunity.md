@@ -2,5 +2,5 @@
 title: plant immunity
 ---
 
-## Reviews on plant immunity:
-### [[Plant Immunity: Danger Perception and Signaling]]
+- Reviews on plant immunity:
+	- [[Plant Immunity: Danger Perception and Signaling]]

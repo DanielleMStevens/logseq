@@ -2,72 +2,41 @@
 title: Characterization of a Clavibacter michiganensis subsp. michiganensis population in Israel
 ---
 
-## **Authors**: [[Frida Kleitman]], [[Isaac Barash]], [[Annette Burger]], [[Naim Iraki]], [[Yunis Falah]], [[Guido Sessa]], [[Dan Weinthal]], [[Laura Chalupowicz]], [[K.-H. Gartmann]], [[R. Eichenlaub]], and [[Shulamit Manulis-Sasson]]
-
-## **Journal**: [[European Journal of Plant Pathology]]
-
-## **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:8592d4e5-aa9f-406f-9f70-49b0115a05d1
-
-## **Tags**:
-
-## **Abstract**:
-### Cm strains, collected during the last decade from different locations in Israel, were analyzed by macrorestriction pulsed-field gel electrophoresis (PFGE)
-
-### The strains from Israel formed four distinct groups among which groups A (16 strains) and B (32 strains) constituted the major clusters
-
-### PCR with primers based on three genes – ppaA, chpC and tomA – that spanned [[chp/tomA]] produced the expected products with the tested pathogenic strains.
-
-### However all the strains, including five non-pathogenic ones, reacted positively in PCR with primers based on celA gene, which resides on the plasmid pCM1 of [[NCPPB  382]]
-
-### Southern hybridization of total DNA with a 3.2-kb BglII fragment of pCM1 containing the celA gene was positive when carried out with 31 strains, but the size of the reacting band was not always the same as that of pCM1, suggesting that the plasmids carrying [[celA]] may differ in size
-
-### that the primary inoculum originated each year from residual plants in the soil rather than from infested seeds, in spite of extensive control measures taken by the growers
-
-## **Introduction**:
-
-## **Results**:
-### **Virulence of Cmm strains**
-#### However, certain strains (29, 30, 33, 62 and 63) were non-pathogenic
-
-#### These strains were confirmed as Cmm by PCR with primers based on the 16S rRNA (Table 2), Gram staining and ELISA
-
-### **Genomic fingerprints of Cmm strains**
-#### Whereas the similarity among the strains within each group was 92 to 100%, the similarity between the two major Israeli groups, namely, A & B, was 58%.
-
-#### All the tested pathogenic strains generated PCR products of 587, 638 and 528 bp with [[ppaA]], [[chpC]], [[tomA]], respectively
-
-#### non-pathogenic strains generated a PCR product only with tomA, with the exception of strain 33, which reacted positively also with chpC primers
-
-#### Plasmid profiles of 14 representative strains revealed different patterns with one or two plasmids (Fig. 3)
-
-#### All strains tested, including the five non-pathogenic ones, were positive in PCR with celA primers
-
-#### However, the size of the hybridizing band was not always similar to that of pCM1 from strain NCPPB382, suggesting that the plasmids carrying the celA may differ
-
-#### PCR with primers based on repA of pCM1 produced the expected product of 562 bp with only nine of 21 pathogenic strains (Table 3) suggesting the possible presence of different replicons
-
-#### only two non-pathogenic strains (29 and 30) did not produce the expected product of 614 bp (Table 3)
-
-#### PCR with parA of pCM2 did not produce the expected 708-bp product with any of the tested strains, suggesting that pat-1 might reside either on other plasmids or on the chromosome.
-
-### **Colonization of tomato plants**:
-#### The results presented in Fig. 4 showed no significant differences between the colonization rates of these strains at various time points and at several different distances from the infection site
-
-## **Discussion**:
-### Strains from group A were first isolated in 1998 and since then were repeatedly found in three different sites of this region.
-
-### Strains from group B were first isolated in 2000 and since then have been repeatedly isolated from six different sites in the same region
-
-### Presumably they were transferred in infested plant residues
-
-### Tomatoes grown in greenhouses and under net are usually planted twice a year (autumn and spring) with transplants originated mainly from the same area
-
-### Although [[Clavibacter michiganensis]] does not survive well in the soil, it can survive on plant debris for several years (Fatmi and Schaad 2002; Gleason et al. 1993)
-
-### The source of inoculum in the Besor region might have originated from contaminated tomato seeds or seedlings.
-
-### In addition, the lack of crop rotation is most likely to be responsible for the accumulation of [[Clavibacter michiganensis]] inoculum in this region
-
-### The high heterogeneity among the Cmm strains, as determined by PFGE, contrasts with the relative homogeneity of strains of the related pathogen, [[Clavibacter sepedonicus]] [(Brown et al. 2002)]([[Genomic Fingerprinting of Virulent and Avirulent Strains of Clavibacter michiganensis subspecies sepedonicus]])
-
-## Other Notes
+- **Authors**: [[Frida Kleitman]], [[Isaac Barash]], [[Annette Burger]], [[Naim Iraki]], [[Yunis Falah]], [[Guido Sessa]], [[Dan Weinthal]], [[Laura Chalupowicz]], [[K.-H. Gartmann]], [[R. Eichenlaub]], and [[Shulamit Manulis-Sasson]]
+- **Journal**: [[European Journal of Plant Pathology]]
+- **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:8592d4e5-aa9f-406f-9f70-49b0115a05d1
+- **Tags**:
+- **Abstract**:
+	- Cm strains, collected during the last decade from different locations in Israel, were analyzed by macrorestriction pulsed-field gel electrophoresis (PFGE)
+	- The strains from Israel formed four distinct groups among which groups A (16 strains) and B (32 strains) constituted the major clusters
+	- PCR with primers based on three genes – ppaA, chpC and tomA – that spanned [[chp/tomA]] produced the expected products with the tested pathogenic strains.
+	- However all the strains, including five non-pathogenic ones, reacted positively in PCR with primers based on celA gene, which resides on the plasmid pCM1 of [[NCPPB  382]]
+	- Southern hybridization of total DNA with a 3.2-kb BglII fragment of pCM1 containing the celA gene was positive when carried out with 31 strains, but the size of the reacting band was not always the same as that of pCM1, suggesting that the plasmids carrying [[celA]] may differ in size
+	- that the primary inoculum originated each year from residual plants in the soil rather than from infested seeds, in spite of extensive control measures taken by the growers
+- **Introduction**:
+- **Results**:
+	- **Virulence of Cmm strains**
+		- However, certain strains (29, 30, 33, 62 and 63) were non-pathogenic
+		- These strains were confirmed as Cmm by PCR with primers based on the 16S rRNA (Table 2), Gram staining and ELISA
+	- **Genomic fingerprints of Cmm strains**
+		- Whereas the similarity among the strains within each group was 92 to 100%, the similarity between the two major Israeli groups, namely, A & B, was 58%.
+		- All the tested pathogenic strains generated PCR products of 587, 638 and 528 bp with [[ppaA]], [[chpC]], [[tomA]], respectively
+		- non-pathogenic strains generated a PCR product only with tomA, with the exception of strain 33, which reacted positively also with chpC primers
+		- Plasmid profiles of 14 representative strains revealed different patterns with one or two plasmids (Fig. 3)
+		- All strains tested, including the five non-pathogenic ones, were positive in PCR with celA primers
+		- However, the size of the hybridizing band was not always similar to that of pCM1 from strain NCPPB382, suggesting that the plasmids carrying the celA may differ
+		- PCR with primers based on repA of pCM1 produced the expected product of 562 bp with only nine of 21 pathogenic strains (Table 3) suggesting the possible presence of different replicons
+		- only two non-pathogenic strains (29 and 30) did not produce the expected product of 614 bp (Table 3)
+		- PCR with parA of pCM2 did not produce the expected 708-bp product with any of the tested strains, suggesting that pat-1 might reside either on other plasmids or on the chromosome.
+	- **Colonization of tomato plants**:
+		- The results presented in Fig. 4 showed no significant differences between the colonization rates of these strains at various time points and at several different distances from the infection site
+- **Discussion**:
+	- Strains from group A were first isolated in 1998 and since then were repeatedly found in three different sites of this region.
+	- Strains from group B were first isolated in 2000 and since then have been repeatedly isolated from six different sites in the same region
+	- Presumably they were transferred in infested plant residues
+	- Tomatoes grown in greenhouses and under net are usually planted twice a year (autumn and spring) with transplants originated mainly from the same area
+	- Although [[Clavibacter michiganensis]] does not survive well in the soil, it can survive on plant debris for several years (Fatmi and Schaad 2002; Gleason et al. 1993)
+	- The source of inoculum in the Besor region might have originated from contaminated tomato seeds or seedlings.
+	- In addition, the lack of crop rotation is most likely to be responsible for the accumulation of [[Clavibacter michiganensis]] inoculum in this region
+	- The high heterogeneity among the Cmm strains, as determined by PFGE, contrasts with the relative homogeneity of strains of the related pathogen, [[Clavibacter sepedonicus]] [(Brown et al. 2002)]([[Genomic Fingerprinting of Virulent and Avirulent Strains of Clavibacter michiganensis subspecies sepedonicus]])
+- Other Notes

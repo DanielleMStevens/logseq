@@ -2,88 +2,49 @@
 title: History of Genetics Seminar - GGG291
 ---
 
-## **Highly recommended readings**
-### Judson, HF. 1980. The eight day of creation. The makers of the revolution in biology. Touchstone, Simon and Schuster, NY.
-
-## **Gregor Mendel and his classic paper, and the Rediscovery of Mendel's work**
-### Sturtevart 1965. A history of genetics. Chapters 1-4.
-
-### Mendel 1965 Experiments in plant hybridization Verhandlungendes naturforschenden Vereines in Brunn, Bd. IV fur das Jahr 1865, Abhandlungen, 3-47.
-
-### Hartl and Orel 1992. What did Gregor Mendel think he discovered? Genetics 131:245-253.
-
-### Fairbanks and Rytting 2001. Mendelian controversies: a botanical and historical review. Amer J. Bot. 88:737-52.
-
-### Klein 2000 Johann Mendel's field of dreams Generics 156:1-6
-
-### Orel and Wood 1998 Empirical genetic laws published in Brno before Mendel was born. J. Heredity 89: 79-82.
-
-### Birchler 2015 Mendel, mechanism, models, marketing and more. Cell 163: 9-11.
-
-### Bateson 1900. Problems of heredity as a subject for horticultural investigation. J. of the Royal Hort. soc. 25: 54-61.
-
-### Correns 1900. G. Mendel's law concerning the behavior of progeny of varietal hybrids. Published in English as: Correns, C., 1950. G. Mendell's law concerning the behavior of progeny of varietal hybrids Genetics, 35(5, pt. 2): 33-41.
-
-### Novitski 2004. On Fisher's criticism of Mendel's results with the garden pea. Genetics 166: 1133-1136.
-
-## **Chromosome theory of inheritance**
-### Sturtrvant 1965. A history of genetics. Chatper 5.
-
-### Carothres 1917. The segregation and recombination of homologous chromosomes as found in two genera of Acrididae (Orthoptera). J. Morph 28: 445-456.
-
-### Crow and Crow 2002. 100 years ago: Sutton and the chromosome theory of inheritance. Genetics 160: 1-4.
-
-### Hegreness and Meselson 2007. What did Sutton see? Genetics 176: 1939-1944.
-
-### Sutton 1902. On the morphology of the chromosome group in Brachstola magna. Biol. Bulletin 4: 24-39.
-
-### Sutton 1903. The chromosome in heredity. Biol. Bulletin 4: 231-251.
-
-## **Mendelian interpretation of continuous variation**
-### Sturtevant 1965. A history of genetics. Chapter 9.
-
-### East 1910. A Mendelian interpretation of variation that is apparently continuous. Amer. Naturalist 44: 65-82.
-
-### East 1916. Studies on size inheritance in Nicotiana. Genetics 1: 164-176.
-
-### Crow 1998. 90 Years ago; beginning of hybrid maize. Genetics 148: 923-928.
-
-### Nelson 1993. A notable triumvirate of maize geneticists. Genetics 135: 937-941.
-
-### Coe 2001. The  origins of maize genetics. Nature Rev. Genet. 2: 898-906.
-
-### Duvick 2001. Biotechnology in the 1930s: the development of hybrid maize. Nature Rev. Genet. 2: 69-74.
-
-### Paterson, Lander, Hewitt, Peterson, Lincoln, and Tanksley 1988. Resolution of quantitative traits into Mendelian factors bu using a complete linkage map pf restriction fragment length polymorphism. Nature 335: 721-726.  
-
-## **Birth of population genetics (Hardy-Weinberg Equilibrium)**
-### Hardy 1908. Mendelian proportions in a mixed population. Science 28: 49-50.
-
-### Crow and Dove 1988. Eighty years ago: the beginnings of population genetics. Genetics 119: 473-476.
-
-### Crow 1999. Hardy, Weinberg and language impediments. Genetics 152:821-825.
-
-### Edwards 2008. G.H. Hardy (1908) and Hardy-Weinberg equilibirum. Genetics 179: 1143-1150.
-
-### Stern 1943. The Hardy-Weinberg law. Science 97: 137-138.
-
-### Haldane 1935. The rate of spontaneous mutation of a human gene. J. Genet. 31: 317-326.
-
-## **Morgan and the "fly room", sex-linked inheritance and nondisjunction**
-### Morgan 1910. Sex limited inheritance in Drosophila. Science 32: 63-66.
-
-### Bridges 1914. Direct proof through non-disjunction that the sex-limited genes of Drosophila are borne by the X-chromosome. Science 40: 107-109. For complete story read Bridges 1916 papers (Supplemental).
-
-### Sturtevant 1965. A history of genetics. Chapters 7 and 8.
-
-### Morgan 1907. Experimental zoology. Chapter I. The experimental method. p3-11
-
-### Bridges 1916. Non-disjunction as proof of the chromosome theory of heredity (part1). Genetics, B, 1: 1-52.
-
-### Bridges 1916. Non-disjunction as proof of the chromosome theory of heredity (part2). Genetics, B, 1: 107-163.
-
-### Green 1996. The "Genesis of the White-eyed mutant" in Drosophila melanogaster: a reappraisal. Genetics 142: 329-331.
-
-### Green 2010. 2010: A century of Drosophila genetics through the prism of the white gene. Genetics 184: 3-7.
-
-### Green 2002. It really is not a fruit fly. Genetics 162: 1-3.
+- **Highly recommended readings**
+	- Judson, HF. 1980. The eight day of creation. The makers of the revolution in biology. Touchstone, Simon and Schuster, NY.
+- **Gregor Mendel and his classic paper, and the Rediscovery of Mendel's work**
+	- Sturtevart 1965. A history of genetics. Chapters 1-4.
+	- Mendel 1965 Experiments in plant hybridization Verhandlungendes naturforschenden Vereines in Brunn, Bd. IV fur das Jahr 1865, Abhandlungen, 3-47.
+	- Hartl and Orel 1992. What did Gregor Mendel think he discovered? Genetics 131:245-253.
+	- Fairbanks and Rytting 2001. Mendelian controversies: a botanical and historical review. Amer J. Bot. 88:737-52.
+	- Klein 2000 Johann Mendel's field of dreams Generics 156:1-6
+	- Orel and Wood 1998 Empirical genetic laws published in Brno before Mendel was born. J. Heredity 89: 79-82.
+	- Birchler 2015 Mendel, mechanism, models, marketing and more. Cell 163: 9-11.
+	- Bateson 1900. Problems of heredity as a subject for horticultural investigation. J. of the Royal Hort. soc. 25: 54-61.
+	- Correns 1900. G. Mendel's law concerning the behavior of progeny of varietal hybrids. Published in English as: Correns, C., 1950. G. Mendell's law concerning the behavior of progeny of varietal hybrids Genetics, 35(5, pt. 2): 33-41.
+	- Novitski 2004. On Fisher's criticism of Mendel's results with the garden pea. Genetics 166: 1133-1136.
+- **Chromosome theory of inheritance**
+	- Sturtrvant 1965. A history of genetics. Chatper 5.
+	- Carothres 1917. The segregation and recombination of homologous chromosomes as found in two genera of Acrididae (Orthoptera). J. Morph 28: 445-456.
+	- Crow and Crow 2002. 100 years ago: Sutton and the chromosome theory of inheritance. Genetics 160: 1-4.
+	- Hegreness and Meselson 2007. What did Sutton see? Genetics 176: 1939-1944.
+	- Sutton 1902. On the morphology of the chromosome group in Brachstola magna. Biol. Bulletin 4: 24-39.
+	- Sutton 1903. The chromosome in heredity. Biol. Bulletin 4: 231-251.
+- **Mendelian interpretation of continuous variation**
+	- Sturtevant 1965. A history of genetics. Chapter 9.
+	- East 1910. A Mendelian interpretation of variation that is apparently continuous. Amer. Naturalist 44: 65-82.
+	- East 1916. Studies on size inheritance in Nicotiana. Genetics 1: 164-176.
+	- Crow 1998. 90 Years ago; beginning of hybrid maize. Genetics 148: 923-928.
+	- Nelson 1993. A notable triumvirate of maize geneticists. Genetics 135: 937-941.
+	- Coe 2001. The  origins of maize genetics. Nature Rev. Genet. 2: 898-906.
+	- Duvick 2001. Biotechnology in the 1930s: the development of hybrid maize. Nature Rev. Genet. 2: 69-74.
+	- Paterson, Lander, Hewitt, Peterson, Lincoln, and Tanksley 1988. Resolution of quantitative traits into Mendelian factors bu using a complete linkage map pf restriction fragment length polymorphism. Nature 335: 721-726.
+- **Birth of population genetics (Hardy-Weinberg Equilibrium)**
+	- Hardy 1908. Mendelian proportions in a mixed population. Science 28: 49-50.
+	- Crow and Dove 1988. Eighty years ago: the beginnings of population genetics. Genetics 119: 473-476.
+	- Crow 1999. Hardy, Weinberg and language impediments. Genetics 152:821-825.
+	- Edwards 2008. G.H. Hardy (1908) and Hardy-Weinberg equilibirum. Genetics 179: 1143-1150.
+	- Stern 1943. The Hardy-Weinberg law. Science 97: 137-138.
+	- Haldane 1935. The rate of spontaneous mutation of a human gene. J. Genet. 31: 317-326.
+- **Morgan and the "fly room", sex-linked inheritance and nondisjunction**
+	- Morgan 1910. Sex limited inheritance in Drosophila. Science 32: 63-66.
+	- Bridges 1914. Direct proof through non-disjunction that the sex-limited genes of Drosophila are borne by the X-chromosome. Science 40: 107-109. For complete story read Bridges 1916 papers (Supplemental).
+	- Sturtevant 1965. A history of genetics. Chapters 7 and 8.
+	- Morgan 1907. Experimental zoology. Chapter I. The experimental method. p3-11
+	- Bridges 1916. Non-disjunction as proof of the chromosome theory of heredity (part1). Genetics, B, 1: 1-52.
+	- Bridges 1916. Non-disjunction as proof of the chromosome theory of heredity (part2). Genetics, B, 1: 107-163.
+	- Green 1996. The "Genesis of the White-eyed mutant" in Drosophila melanogaster: a reappraisal. Genetics 142: 329-331.
+	- Green 2010. 2010: A century of Drosophila genetics through the prism of the white gene. Genetics 184: 3-7.
+	- Green 2002. It really is not a fruit fly. Genetics 162: 1-3.

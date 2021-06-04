@@ -2,44 +2,27 @@
 title: Clavibacter Genus Project
 ---
 
-## **Collaborators and Info about their strains**
-### Notes from [[You Lu]] (Carol Ishimaru Lab)
-#### 
-
-## [[Assess the genetic diversity and evolution of the Clavibacter genus]]:
-### TODO Calculate the percentage of conserved proteins (POCP) in an all-by-all manner
-
-### TODO Cross compare after adding actinobacteria genomes from other genera. 
-
-### DONE Calculate average nucleotide identity (ANI) in an all-by-all manner 
-
-### TODO create a core gene phylogeny
-
-### TODO calculate nucleotide diversity (π) for each species from single copy core homologous genes  
-
-## [[Predict effectors involved in pathogenicity and host range]]
-### TODO I will identify orthogroups and categorize core, variable, and unique effectors using Get_Homologs (for whole genomes and effectors only)
-
-### TODO To run Scoary, I need to assess pathogenicity on alternate hosts
-#### Host Range of Clavibacter... hmm  
-
-### TODO For all effectors, calculate percent in an ortholog-focused manner. 
-
-### TODO ka/ks test within and across species 
-
-### TODO Tajma’s D will be calculated and compared to neutrally evolving housekeeping genes
-
-### TODO phylogenetic gene trees for effector homologs
-
-### TODO Assess syntany of effectors, PAI, and IS elements
-
-## 
-
-## Other:
-### redudacy in CAZymes confers robustness to effectiveness of pathogen
-
-### endopectase lyases, cleave, polygalacturonate
-
-## 
-
-## https://community.nanoporetech.com/extraction_methods/gram_positive_bacteria
+- **Collaborators and Info about their strains**
+	- Notes from [[You Lu]] (Carol Ishimaru Lab)
+		-
+- [[Assess the genetic diversity and evolution of the Clavibacter genus]]:
+	- TODO Calculate the percentage of conserved proteins (POCP) in an all-by-all manner
+	- TODO Cross compare after adding actinobacteria genomes from other genera.
+	- DONE Calculate average nucleotide identity (ANI) in an all-by-all manner
+	- TODO create a core gene phylogeny
+	- TODO calculate nucleotide diversity (π) for each species from single copy core homologous genes
+- [[Predict effectors involved in pathogenicity and host range]]
+	- TODO I will identify orthogroups and categorize core, variable, and unique effectors using Get_Homologs (for whole genomes and effectors only)
+	- TODO To run Scoary, I need to assess pathogenicity on alternate hosts
+		- Host Range of Clavibacter... hmm
+	- TODO For all effectors, calculate percent in an ortholog-focused manner.
+	- TODO ka/ks test within and across species
+	- TODO Tajma’s D will be calculated and compared to neutrally evolving housekeeping genes
+	- TODO phylogenetic gene trees for effector homologs
+	- TODO Assess syntany of effectors, PAI, and IS elements
+-
+- Other:
+	- redudacy in CAZymes confers robustness to effectiveness of pathogen
+	- endopectase lyases, cleave, polygalacturonate
+-
+- https://community.nanoporetech.com/extraction_methods/gram_positive_bacteria

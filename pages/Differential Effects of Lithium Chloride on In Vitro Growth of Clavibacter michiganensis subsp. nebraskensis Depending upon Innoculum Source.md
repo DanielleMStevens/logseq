@@ -2,49 +2,33 @@
 title: Differential Effects of Lithium Chloride on In Vitro Growth of Clavibacter michiganensis subsp. nebraskensis Depending upon Innoculum Source
 ---
 
-## **Metadata**:
-### Authors: [[Mary L. Smidt]] and [[Anne K. Vidaver]]
-
-### Journal: [[Applied and Environmental Microbiology]]
-
-### Readcube: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:c5121cd2-0454-4e6f-82c2-76db76937156
-
-### Tags: #clavibacter #[[Clavibacter nebraskensis]] #[[Lithium Chloride]]
-
-## **Abstract**:
-### In broth culture: colony numbers was the same for NBY (rich medium) versus CNS (semi-selective medium)
-
-### Cells isolated from infected plant tissue: very few colonies recovered on CNS
-
-### With omission of lithium chloride, colony counts from CNS were nearly the same as NBY
-
-## **Introduction**:
-### All Clavibacter nebraskensis used was orginally isolated from infected corn grown in Nebraskia
-
-### Corn cultivars used:
-#### {{table}}
-##### Hybrid A619XA632
-###### Dent Corn
-####### Highly Suseptible
-
-##### Hybrid Mo17XB73
-###### Dent Corn
-####### Considered Resistent
-
-##### Golden Cross Bantam
-###### Sweet Corn
-####### Highly Suseptible
-
-### the addition of LiCl was probably for the purpose of inhibiting gram-negative bacterial growth without affecting [[Clavibacter nebraskensis]] growth
-
-### 
-
-## **Results**:
-### LiCi had strongest inhibitory effects against CN72-2 cells reisolated from corn
-
-### inhibition of organism on [[CNS]] was eliminated by omitting LiCl
-#### remaining inhibitory effect was likely due to polymyxin B sulfate & malidixic acid
-
-### conclusions on impact of recovery by LiCl comparable in artificial and natural infections
-
-## 
+- **Metadata**:
+	- Authors: [[Mary L. Smidt]] and [[Anne K. Vidaver]]
+	- Journal: [[Applied and Environmental Microbiology]]
+	- Readcube: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:c5121cd2-0454-4e6f-82c2-76db76937156
+	- Tags: #clavibacter #[[Clavibacter nebraskensis]] #[[Lithium Chloride]]
+- **Abstract**:
+	- In broth culture: colony numbers was the same for NBY (rich medium) versus CNS (semi-selective medium)
+	- Cells isolated from infected plant tissue: very few colonies recovered on CNS
+	- With omission of lithium chloride, colony counts from CNS were nearly the same as NBY
+- **Introduction**:
+	- All Clavibacter nebraskensis used was orginally isolated from infected corn grown in Nebraskia
+	- Corn cultivars used:
+		- {{table}}
+			- Hybrid A619XA632
+				- Dent Corn
+					- Highly Suseptible
+			- Hybrid Mo17XB73
+				- Dent Corn
+					- Considered Resistent
+			- Golden Cross Bantam
+				- Sweet Corn
+					- Highly Suseptible
+	- the addition of LiCl was probably for the purpose of inhibiting gram-negative bacterial growth without affecting [[Clavibacter nebraskensis]] growth
+	-
+- **Results**:
+	- LiCi had strongest inhibitory effects against CN72-2 cells reisolated from corn
+	- inhibition of organism on [[CNS]] was eliminated by omitting LiCl
+		- remaining inhibitory effect was likely due to polymyxin B sulfate & malidixic acid
+	- conclusions on impact of recovery by LiCl comparable in artificial and natural infections
+-
