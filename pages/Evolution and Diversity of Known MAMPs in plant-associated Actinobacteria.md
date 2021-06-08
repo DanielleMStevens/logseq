@@ -5,7 +5,7 @@ title: Evolution and Diversity of Known MAMPs in plant-associated Actinobacteria
 - **Deadlines Related:**
 - Fig1 sup. Use same color scheme throughout
 - Sup. Fig.2 Add membrane info
--
+- General Ideas:
 -
 - **To-Do:**
 	- MLSA Tree mining for known MAMPS
