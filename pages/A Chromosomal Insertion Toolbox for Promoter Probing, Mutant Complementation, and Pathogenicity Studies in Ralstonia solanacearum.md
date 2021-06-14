@@ -10,3 +10,4 @@
 - **Introduction:**
 	- the eps promoter (Pep) driving transcription of the operon for exopolysaccharide synthesis is controlled by a cell-density-dependent regulator
 	- Genome sequencing has revealed an enormous number of genes whose role is unknown.
+	- marked the start of genome-wide approaches to unravel its interaction, specificity, and adaptation toward the plant hos
