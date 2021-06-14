@@ -36,3 +36,6 @@
 		- First, we identified ORF RSc0178 in UW551 and cloned outside of the GMI1000 target regions two 1-kb-long fragments lying downstream of the gene.
 		- The resulting tetracycline-resistant transformants contained the GMI1000 homology sequences in the permissive site downstream of glmS and could now receive any DNA ele- ment for integration carried by pRC suicide plasmids.
 	- **Integration of insertion elements into the chromosome of R. solanacearum does not affect viability or pathogenicity.**
+		- We subsequently checked the effect on viability of the integrations using GMI1000 strains carrying two representative gentamicin-resistant elements with fusions of the strong eps promoter to the GFP or LacZ genes
+		- The GMI1000 strain or the strain containing a gentamicin-resistant integration element with the LacZ reporter gene
+		- gene insertion in the tar- get chromosomal region did not alter the viability or fitness of the bacterium in planta
