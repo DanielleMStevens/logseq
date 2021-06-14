@@ -24,7 +24,7 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 	- A recent study on pyrimidine salvage in Streptomyces species indicated a lack of CD activity but sensitivity towards 5-FU
 	- A method for the isolation of gene deletion mutants of R. equi by the double homologous recombination strategy was ﬁrst reported by Navas et al
 	- These methods, however, often involve screening and handling of large numbers of colonies to select for the rare second recombination event
-- **Results**:
+- **Results & Discussion**:
 	- **CD-UPRT mediated 5-fluorocytosine sensitivity of R. equi strain RE1**
 		- obvious prerequisite - conditionally lethal positive selection system is natural resistance of R. equi strain RE1 towards [[5-FC]]
 		- Next, we examined whether expression of the E. coli genes codA and upp in R. equi would confer sensitivity to [[5-FC]] and thus could act as a suicide marker
@@ -38,4 +38,3 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 	- **Actinobacteria are generally 5-FC resistant**
 		- the tested strains generally were resistant to high concentrations of [[5-FC]] (100 mg/ml), but highly sensitive to lower concentrations of 5-FU (20–50 mg/ml), indicating the feasibility of developing a 5-FC based positive selection system for other actinobacteria.
 		- ![2021_06_13_Screen Shot 2021-06-13 at 5.32.46 PM.png](https://cdn.logseq.com/%2Fc8c9845b-a7fd-4de7-86cd-c4be3d715694eeef9254-541a-427e-8080-f6929a5e98d32021_06_13_Screen%20Shot%202021-06-13%20at%205.32.46%20PM.png?Expires=4777230785&Signature=YMdO57ReavXXOj1WXZ45lGzN5cU~UrUaIqEyeHZKNv3OH9hMrdAWRBKx8XvbBd34aT1WAskffGrnlYOijSB78nREN-jDO42pQWBXQ18k3WewYZ7yHr~-8FrrMaBUFJ2XD7YZqSJsm2Ft1TY8aycsNaSMJuQwNimIRE72Ed4N6iZzAj63l15sVHAF5uhMbFslvPTNfnM8fSQJ6rjqNQOdFakfm~z2xTUnZIoHeFVq2g-edxHcMQKCL9dRjAsY4fx~1PMfMDu5xOG47mJnPtRJbQUtxE8w18uJ5L7kqcoi0Pvr9~eojLo-DpfwPbqny44izcaE4-NnxDvUPZ22PbVfRg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
-- **Discussion**:
