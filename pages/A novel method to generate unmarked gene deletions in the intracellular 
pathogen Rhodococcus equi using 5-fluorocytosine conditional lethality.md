@@ -8,7 +8,9 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 - **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:098f2da1-5204-4373-af0c-d5a1cbfb323e
 - **Tags**:
 - **Abstract**:
-	- hgenerate unmarked in-frame gene deletions in Rhodococcus equi was developed, exploiting the cytotoxic effect of 5-fluorocytosine (5-FC) by the action of cytosine deaminase (CD) and uracil phosphoribosyltransferase (UPRT) enzyme
+	- generate unmarked in-frame gene deletions in Rhodococcus equi was developed, exploiting the cytotoxic effect of 5-fluorocytosine (5-FC) by the action of cytosine deaminase (CD) and uracil phosphoribosyltransferase (UPRT) enzyme
+	- CD and UPRT conferred conditional lethality to R. equi cells incubated with 5-FC
+	- the CD-UPRT based 5-FC counter-selection may become a useful asset in the generation of unmarked in-frame gene deletions in other actinobacteria as well, as actinobacteria generally appear to be 5-FC resistant and 5-FU sensitive.
 - **Introduction**:
 - **Results**:
 - **Discussion**:
