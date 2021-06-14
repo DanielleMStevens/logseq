@@ -8,12 +8,6 @@ title: pSelAct: An Unmarked Genetic Knockout System Optimized for Gram-positive 
 	- DONE finish prepping gDNA (DMS92) for MIGS - seriously
 	- DONE MIC Curves for CASJ002 with apramycin
 	  ID:: 38685607-da3c-4450-94ef-fa60dbb074dc
-	- TODO decide genes to Knockout in CS, CN
-	  ID:: 8fcd7d2b-fc06-43db-bac1-d124be405c80
-	- TODO design primers for knockout in CS, CN
-	  ID:: 53972391-6f5f-4bb0-b820-116cae1fc864
-	- TODO MIC Curves for CS, CN with apramycin
-	  ID:: b4efe646-3a57-4d83-b41d-025e2c4400bb
 -
 - **Figures**
 	- DONE Figure 1: Diagram of Method
