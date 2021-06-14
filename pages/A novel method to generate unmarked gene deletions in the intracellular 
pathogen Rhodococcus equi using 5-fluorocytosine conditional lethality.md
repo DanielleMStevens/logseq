@@ -12,7 +12,8 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 	- CD and UPRT conferred conditional lethality to R. equi cells incubated with 5-FC
 	- the CD-UPRT based 5-FC counter-selection may become a useful asset in the generation of unmarked in-frame gene deletions in other actinobacteria as well, as actinobacteria generally appear to be 5-FC resistant and 5-FU sensitive.
 - **Introduction**:
-	- the sacB gene of Bacillus subtilis is one of the most widely used suicide genes, conferring sucrose sensitivity mostly in Gram-negative bacteria
+	- the [[sacB]] gene of Bacillus subtilis is one of the most widely used suicide genes, conferring sucrose sensitivity mostly in Gram-negative bacteria
 	- we have been unable to apply sacB as a counter-selectable marker in Rhodococcus equi, due to a lack of sucrose sensitivity. Similar observations have been reported for Streptomyces lividans
+	- sacB counter-selection system generally is not applicable to other Gram-positive bacteria, like B. subtilis
 - **Results**:
 - **Discussion**:
