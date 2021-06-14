@@ -11,12 +11,8 @@ title: Cytosine Deaminase as a Negative Selection Marker for Gene Disruption and
 - **Introduction**:
 	- [[cytosine deaminase]] catalyzes the deamination of cytosine to uracil as a part of the [[pyrimidine salvage pathway]]
 	- Counterselection markers are valuable tools facilitating gene disruption based on homologous recombination
-	- The rpsL gene (encoding the ribosomal protein S12) confers a dominant 
-	  streptomycin-sensitive phenotype in a streptomycin resistance 
-	  background, the latter being obtained by spontaneous mutations of the 
-	  rpsL gene
-	- most gene disruption procedures include a laborious colony replication 
-	  step to obtain isolates that have lost an antibiotic resistance marker.
+	- The rpsL gene (encoding the ribosomal protein S12) confers a dominant streptomycin-sensitive phenotype in a streptomycin resistance background, the latter being obtained by spontaneous mutations of the rpsL gene
+	- most gene disruption procedures include a laborious colony replication step to obtain isolates that have lost an antibiotic resistance marker.
 	- A previous study of pyrimidine salvage pathways in Streptomyces (15) noted the absence of [[cytosine deaminase]]
 	- no apparent [codA]([[cytosine deaminase]]) orthologs in genomic sequences of most actinobacteria
 - **Results**:
