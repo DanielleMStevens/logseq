@@ -19,5 +19,6 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 	- A major drawback of these markers, however, is that they only function in glkA, pyrF, upp or strA null mutants,
 	- This method, however, requires a laborious extra round of mutagenesis to remove the resistance marker integrated into the genome to generate unmarked mutant
 	- [[cytosine deaminase]] (CD, EC 3.5.4.5) and uracil phosphoribosyltransferase (UPRT, EC 2.4.2.9) are enzymes involved in the pyrimidine salvage pathway, converting cytosine via uracil into dUMP
+	- ytotoxicity is largely exerted following UPRT mediated conversion of 5-FU into 5-ﬂuoro-dUMP,
 - **Results**:
 - **Discussion**:
