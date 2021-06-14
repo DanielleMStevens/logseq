@@ -29,4 +29,4 @@
 		- Correct integration of constructs in the target region between ORF RSc0178 and RSc0179 was verified by polymerase chain reaction (PCR) amplification of genomic DNA with pairs of specific primers, one annealing to the inserted element and the other to a genomic region outside the recombination regions
 		- To verify the genetic stability of the insertions in the absence of antibiotic selection,
 		- Almost all bacteria recovered from wilting plants maintained the tetracycline resistance borne in the integration element, which was maintained without selective pressure. In contrast, the pLAFR3 plasmid was readily lost, as detected by the high proportion of tetracycline-sensitive bacteria recovered
-	- The pRC system can be used for gene integration in other R. solanacearum strains.
+	- **The pRC system can be used for gene integration in other R. solanacearum strains.**
