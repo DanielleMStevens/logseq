@@ -17,5 +17,6 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 	- [[sacB]] counter-selection system generally is not applicable to other Gram-positive bacteria, like B. subtilis
 	- In B. subtilis, mazF, encoding a toxin, has been used as a suicide marker to generate unmarked gene deletion mutant
 	- A major drawback of these markers, however, is that they only function in glkA, pyrF, upp or strA null mutants,
+	- This method, however, requires a laborious extra round of mutagenesis to remove the resistance marker integrated into the genome to generate unmarked mutant
 - **Results**:
 - **Discussion**:
