@@ -14,7 +14,8 @@ title: pSelAct: An Unmarked Genetic Knockout System Optimized for Gram-positive 
 -
 - **Import papers**
 	- [[Cytosine Deaminase as a Negative Selection Marker for Gene Disruption and Replacement in the Genus Streptomyces and Other Actinobacteria]]
-	- [[A novel method to generate unmarked gene deletions in the intracellular pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality]]
+	-
+	-
 	- [[Harnessing the catabolic diversity of rhodococci for environmental and biotechnological applications]]
 	-
 	- [[Transformation of the phytopathogenic bacterium Clavibacter michiganense subsp. michiganense by electroporation and development of a cloning vector]]
