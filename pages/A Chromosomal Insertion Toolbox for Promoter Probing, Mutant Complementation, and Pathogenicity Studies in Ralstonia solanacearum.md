@@ -48,3 +48,6 @@
 		- Thus, bacterial gene expression could be detected and visual-ized in vitro and in planta from a single-copy reporter gene inserted with the pRC system.
 - **Discussion:**
 	- stable insertion of genes into the chromosome of R. solanacearum was developed by combining in a set of plasmids: i) homology regions for chromosomal integration, ii) resistances to different antibiotics, iii) restriction sites and a GATEWAY cassette for classical or recombinational cloning, and iv) the suicide delivery properties of the colE1 replication origin in R. solanacearum.
+	- high versatility and the fact that all integrations are targeted to the same site in the chromosome
+	- In addition, all constructs delivered by pRCs are flanked by the strong T7 transcriptional terminator and one or two copies of the bidirectionally active terminator Tfd from phage fd (Kokotek and Lotz 1989), which avoids interference with gene expression in the flanking genomic regions.
+	- This is especially useful for cloning long ORF, which often contain numer- ous restriction sites in their coding regions and are not amenable to classical cloning procedures
