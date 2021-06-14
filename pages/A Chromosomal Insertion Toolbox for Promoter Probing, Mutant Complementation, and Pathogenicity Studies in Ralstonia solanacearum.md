@@ -16,3 +16,6 @@
 		- IncQ plasmids (Kawasaki et al. 2007b) or plasmids based on the RSF1010 (M. Valls, unpublished) or the pVS1 replicon (S. Cunnac, personal communication) have both proven unstable in R. solanacearum, even in the presence of antibiotic resistance, strongly limiting the substitutes to the pLAFR series.
 		- An alternative could be the recently described vectors derived from phage phiRSS1 (Kawasaki et al. 2007a,b) or pUFJ10 (Gabriel et al. 2006). These vectors were almost perfectly maintained in R. solanacearum without selective pressure but they are very limited in terms of cloning sites or antibiotic resistance.
 	- These tools are based on a versatile genetic element where any promoter::ORF (open reading frame) combination can be cloned and stably integrated in a permissive site of the bacterial chromosome
+- **Results:**
+	- **Construction of a set of modular vectors for gene integration in the chromosome of R. solanacearum GMI1000.**
+		-
