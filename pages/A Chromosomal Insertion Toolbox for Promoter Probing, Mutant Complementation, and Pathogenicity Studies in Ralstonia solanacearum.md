@@ -12,4 +12,5 @@
 	- Genome sequencing has revealed an enormous number of genes whose role is unknown.
 	- marked the start of genome-wide approaches to unravel its interaction, specificity, and adaptation toward the plant host
 	- However, the study of gene function in R. solanacearum has been somewhat limited by the lack of stable expression systems.
-		- The RP4-derived pLAFR plasmids (Staskawicz et al. 1987) have been very useful for gene overexpression but they have major drawbacks for their use in high-scale postgenomics studies: they lack a versatile polylinker, selection is restricted to tetracycline, and they show low stability under competitive conditions (e.g., plant infection)
+		- The RP4-derived pLAFR plasmids (Staskawicz et al. 1987) have been very useful for gene overexpression but they have major drawbacks for their use in high-scale postgenomics studies: they lack a versatile polylinker, selection is restricted to tetracycline, and they show low stability under competitive conditions (e.g., plant infection).
+		- IncQ plasmids (Kawasaki et al. 2007b) or plasmids based on the RSF1010 (M. Valls, unpublished) or the pVS1 replicon (S. Cunnac, personal communication) have both proven unstable in R. solanacearum, even in the presence of antibiotic resistance, strongly limiting the substitutes to the pLAFR series.
