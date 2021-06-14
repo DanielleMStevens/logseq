@@ -18,11 +18,8 @@ title: Cytosine Deaminase as a Negative Selection Marker for Gene Disruption and
 - **Results**:
 	- **Construction of genes for selection.**
 		- For positive selection, we used the aminoglycoside resistance gene from pFDNeo-S, providing this gene with the promoter from the aacC4 gene
-	- Vector construction.
-		- Both polylinkers will accommodate DNA fragments in insertional gene 
-		  disruption procedures, while only the polylinker XbaI-PvuI will be used 
-		  for cloning the fragments involved in gene replacement, including 
-		  in-frame deletion fragment
+	- **Vector construction.**
+		- Both polylinkers will accommodate DNA fragments in insertional gene disruption procedures, while only the polylinker XbaI-PvuI will be used for cloning the fragments involved in gene replacement, including in-frame deletion fragment
 	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FCDNqcijdUv.png?alt=media&token=672bd9cd-1b96-4f51-9c91-830d56776cee)
 		- FIG. 1. Vector pMP201 and derivatives. (A) Map of the pMP201 vector with
 		   polylinkers XbaI-PvuI and HindIII-EcoRI. neoA, aminoglycoside 
