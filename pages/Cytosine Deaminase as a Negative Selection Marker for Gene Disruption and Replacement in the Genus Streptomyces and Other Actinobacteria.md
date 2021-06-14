@@ -27,13 +27,9 @@ title: Cytosine Deaminase as a Negative Selection Marker for Gene Disruption and
 		- The absence of [[cytosine deaminase]], observed in S. coelicolor and Streptomyces griseus (15), seems to be frequent and is perhaps generalized among actinobacteria
 			- ![2021_06_13_Screen Shot 2021-06-13 at 5.52.22 PM.png](https://cdn.logseq.com/%2Fc8c9845b-a7fd-4de7-86cd-c4be3d715694bc45db20-dd24-4b9b-a66f-a5087399151a2021_06_13_Screen%20Shot%202021-06-13%20at%205.52.22%20PM.png?Expires=4777231962&Signature=Wxwqwwq1Ipwx2zGT-cv22B7mkqOKkGtIKCwA~Q4C7RAhuyqUWJKdQrMn6GVNe~NOuvW434stLSwJfs5Jf6m06vWGL5rs04EpTg6LgLQN0IrmiScFFPyvkRINJzR-8WSgdttzFPAmacNnUYzXR30ER-DmoxbaBJr6O2N2OHgYTKT-~u-FQsHManwoytauecvfnvS0fYESlDqfjQV4Tq7LtgrHskF4zWO4AqVEA2Kaq57t6Z2KgV0xZhd0cHlRWw0U~kX3nIK4TB~Ra~BMh9S0N5xidbdE8G1zo7lylXpmRbBtF2IeSbWM0UUBnn818pmmxjj~Y9Nk2Z-XsvuI0xMI~A__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 408, :width 384}
 			- The CodA based counterselection system could then be applicable to a vast array of species.
-	- codA(s)-based counterselection
-		- Disruption cassettes amplified from the S. lividans genome were cloned 
-		  into pMP302, and E. coli ET12567 (pUZ8002) was then transformed with the
-		   resulting plasmid
-		- In the counters-election step, the plating of 20,000 spores onto MM 
-		  with 200gof 5FC ml1yielded 18 resistant colonies, resulting in a 
-		  second-crossover frequency of103.
+	- **codA(s)-based counterselection**
+		- Disruption cassettes amplified from the S. lividans genome were cloned into pMP302, and E. coli ET12567 (pUZ8002) was then transformed with the resulting plasmid
+		- In the counters-election step, the plating of 20,000 spores onto MM with 200g of [[5-FC]] mlyielded 18 resistant colonies, resulting in a second-crossover frequency of 103.
 		- A  Km r colony  was picked up, and its spores were plated onto MM with Km (250  gml  1 )  and  5FC  (50  gml  1 ).
 		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FdnqZ40nmFh.png?alt=media&token=19a37e63-c329-4301-93b9-996a55076565)
 			- FIG.  2.  Inactivation  of  anS. lividans SCO2657  homolog  gene(2657h)  
