@@ -28,3 +28,4 @@
 		- The pRC vectors stably deliver insertion elements into the chromosome of R. solanacearum GMI1000.
 		- Correct integration of constructs in the target region between ORF RSc0178 and RSc0179 was verified by polymerase chain reaction (PCR) amplification of genomic DNA with pairs of specific primers, one annealing to the inserted element and the other to a genomic region outside the recombination regions
 		- To verify the genetic stability of the insertions in the absence of antibiotic selection,
+		- Almost all bacteria recovered from wilting plants maintained the tetracycline resistance borne in the inte- gration element, which was maintained without selective pres- sure. In contrast, the pLAFR3 pl asmid was readily lost, as de- tected by the high proportion of tetracycline-sensitive bacteria recovered
