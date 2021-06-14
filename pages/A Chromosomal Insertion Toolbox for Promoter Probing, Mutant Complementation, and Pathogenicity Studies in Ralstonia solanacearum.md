@@ -8,3 +8,5 @@
 	- the system can be readily used in GMI1000 and adapted to other R. solanacearum strains using an accessory plasmid.
 	- the system has been used to purify and study secretion type III effectors
 - **Introduction:**
+	- the eps promoter (Pep) driving transcription of the operon for exopolysaccharide synthesis is controlled by a cell-density-dependent regulator
+	- Genome sequencing has revealed an enormous number of genes whose role is unknown.
