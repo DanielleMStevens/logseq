@@ -17,7 +17,7 @@ title: Cytosine Deaminase as a Negative Selection Marker for Gene Disruption and
 	  rpsL gene
 	- most gene disruption procedures include a laborious colony replication 
 	  step to obtain isolates that have lost an antibiotic resistance marker.
-	- A previous study of pyrimidine salvage pathways in Streptomyces (15) noted the absence of cytosine deaminase
+	- A previous study of pyrimidine salvage pathways in Streptomyces (15) noted the absence of [[cytosine deaminase]]
 	- no apparent codA orthologs in genomic sequences of most actinobacteria
 - **Results**:
 	- Construction of genes for selection.
