@@ -26,3 +26,4 @@
 		- pRCG, pRCT, and pRCK, containing a gentamicin, tetracycline, or kanamycin
 	- **The pRC vectors stably deliver insertion elements into the chromosome of R. solanacearum GMI1000.**
 		- The pRC vectors stably deliver insertion elements into the chromosome of R. solanacearum GMI1000.
+		- Correct integration of constructs in the target region between ORF RSc0178 and RSc0179 was verified by polymerase chain reac- tion (PCR) amplification of genomic DNA with pairs of spe- cific primers, one annealing to the inserted element and the other to a genomic region outside the recombination regions
