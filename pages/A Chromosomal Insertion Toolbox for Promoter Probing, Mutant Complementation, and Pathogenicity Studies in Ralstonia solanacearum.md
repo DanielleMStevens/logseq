@@ -25,4 +25,4 @@
 		- To avoid read-through to and from neighboring chromosomal regions, once integrated, transcriptional terminators were also cloned at both sides of the inserted element (Figure 1)
 		- pRCG, pRCT, and pRCK, containing a gentamicin, tetracycline, or kanamycin
 	- **The pRC vectors stably deliver insertion elements into the chromosome of R. solanacearum GMI1000.**
-		-
+		- The pRC vectors stably deliver insertion elements into the chromosome of R. solanacearum GMI1000.
