@@ -31,4 +31,5 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 		- The presence of the codA::upp cassette rendered R. equi sensitive to [[5-FC]], whereas expression of codA alone did not result in 5-FC sensitivity
 		- Growth of the R. equi strain carrying the codA::upp cassette under nonselective conditions was similar to that of wild type
 		- Importantly, no [[5-FC]] selection was observed when complex agar media (LB) was used (Figure 1D). This may be due to repression of the [[pyrimidine salvage pathway]] aﬀecting 5-FC uptake.
+	- **Unmarked in-frame gene deletion of supAB in R. equi**
 - **Discussion**:
