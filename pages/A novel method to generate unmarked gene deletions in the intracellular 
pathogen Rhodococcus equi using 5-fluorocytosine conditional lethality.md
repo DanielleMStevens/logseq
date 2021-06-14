@@ -25,4 +25,6 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 	- A method for the isolation of gene deletion mutants of R. equi by the double homologous recombination strategy was ﬁrst reported by Navas et al
 	- These methods, however, often involve screening and handling of large numbers of colonies to select for the rare second recombination event
 - **Results**:
+	- **CD-UPRT mediated 5-fluorocytosine sensitivity of R. equi strain RE1**
+		-
 - **Discussion**:
