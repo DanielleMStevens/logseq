@@ -42,3 +42,4 @@
 	- **Addition of a single copy of hrpG can complement a deletion mutant for this gene.**
 		- The results (Fig. 3B) indicate that a single copy of the gene integrated in the permissive region was sufficient to fully restore the plant HR response toward the bacterium, proving the utility of the system for gene complementation in competitive conditions such as growth in planta.
 	- **pRCs are a useful tool for bacterial promoter probing in culture or in planta.**
+		- The integration of genetic elements into a position of the R. solanacearum genome can be used to test activity of any promoter::reporter fusion under the natural stoichiometry (i.e., in monocopy) and in the same genomic environment.
