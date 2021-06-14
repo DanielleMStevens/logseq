@@ -30,7 +30,7 @@ title: Cytosine Deaminase as a Negative Selection Marker for Gene Disruption and
 	- **codA(s)-based counterselection**
 		- Disruption cassettes amplified from the S. lividans genome were cloned into pMP302, and E. coli ET12567 (pUZ8002) was then transformed with the resulting plasmid
 		- In the counters-election step, the plating of 20,000 spores onto MM with 200ug/ml of [[5-FC]] yielded 18 resistant colonies, resulting in a second-crossover frequency of 103.
-		- A  Km r colony  was picked up, and its spores were plated onto MM with Km (250  gml  1 )  and  5FC  (50  gml  1 ).
+		- \
 		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FdnqZ40nmFh.png?alt=media&token=19a37e63-c329-4301-93b9-996a55076565)
 			- FIG.  2.  Inactivation  of  anS. lividans SCO2657  homolog  gene(2657h)  
 			  via  replacement  by  an  in-frame  deletion.  (A)  Map  of  the pMP302  
