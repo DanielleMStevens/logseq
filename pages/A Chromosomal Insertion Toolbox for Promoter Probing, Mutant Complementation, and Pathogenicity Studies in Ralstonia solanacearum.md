@@ -47,4 +47,4 @@
 		- For this, we used the noninvasive GFP reporter, better suited for in vivo studies, because it does not require addition of any substrate.
 		- Thus, bacterial gene expression could be detected and visual-ized in vitro and in planta from a single-copy reporter gene inserted with the pRC system.
 - **Discussion:**
-	-
+	- stable insertion of genes into the chromosome of R. solanacearum was developed by combining in a set of plasmids: i) homology re-gions for chromosomal integration, ii) resistances to different antibiotics, iii) restriction sites and a GATEWAY cassette for classical or recombinational cloning, and iv) the suicide deliv-ery properties of the colE1 replication origin in R. solanacearum.
