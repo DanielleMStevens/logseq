@@ -26,5 +26,6 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 	- These methods, however, often involve screening and handling of large numbers of colonies to select for the rare second recombination event
 - **Results**:
 	- **CD-UPRT mediated 5-fluorocytosine sensitivity of R. equi strain RE1**
-		- obvious prerequisite - conditionally lethal positive selection system is natural resistance of R. equi strain RE1 towards 5-FC
+		- obvious prerequisite - conditionally lethal positive selection system is natural resistance of R. equi strain RE1 towards [[5-FC]]
+		- Next, we examined whether expression of the E. coli genes codA and upp in R. equi would confer sensitivity to [[5-FC]] and thus could act as a suicide marker
 - **Discussion**:
