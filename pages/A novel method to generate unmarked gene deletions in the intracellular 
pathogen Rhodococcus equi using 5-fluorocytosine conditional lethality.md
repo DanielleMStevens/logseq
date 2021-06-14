@@ -22,5 +22,7 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 	- cytotoxicity is largely exerted following UPRT mediated conversion of 5-FU into 5-ﬂuoro-dUMP,
 	- Heterologous expression of E. coli codA was shown to confer [[5-FC]] sensitivity to mammalian cells, ordinarily not producing CD
 	- A recent study on pyrimidine salvage in Streptomyces species indicated a lack of CD activity but sensitivity towards 5-FU
+	- A method for the isolation of gene deletion mutants of R. equi by the double homologous recombination strategy was ﬁrst reported by Navas et al
+	- These methods, however, often involve screening and handling of large numbers of colonies to select for the rare second recombination event
 - **Results**:
 - **Discussion**:
