@@ -16,9 +16,8 @@ title: Cytosine Deaminase as a Negative Selection Marker for Gene Disruption and
 	- A previous study of pyrimidine salvage pathways in Streptomyces (15) noted the absence of [[cytosine deaminase]]
 	- no apparent [codA]([[cytosine deaminase]]) orthologs in genomic sequences of most actinobacteria
 - **Results**:
-	- Construction of genes for selection.
-		- For positive selection, we used the aminoglycoside resistance gene from 
-		  pFDNeo-S, providing this gene with the promoter from the aacC4 gene
+	- **Construction of genes for selection.**
+		- For positive selection, we used the aminoglycoside resistance gene from pFDNeo-S, providing this gene with the promoter from the aacC4 gene
 	- Vector construction.
 		- Both polylinkers will accommodate DNA fragments in insertional gene 
 		  disruption procedures, while only the polylinker XbaI-PvuI will be used 
