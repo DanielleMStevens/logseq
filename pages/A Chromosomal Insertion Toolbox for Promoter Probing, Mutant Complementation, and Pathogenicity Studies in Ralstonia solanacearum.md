@@ -33,3 +33,5 @@
 		- Because the sequences surrounding the permissive chromosomal integration site are not conserved in all isolates of R. solanacearum , we devised a system to render our integration toolbox compatible with the whole species
 		- which enabled the introduction of the GMI1000 homology regions targeted pRCs into phylotype IIA strains
 		- A tetracycline resistance marker was cloned between the GMI1000 regions for negative selection of integration events in the recipient strain
+		- First, we identified ORF RSc0178 in UW551 and cloned outside of the GMI1000 target regions two 1-kb-long fragments lying downstream of the gene.
+		- The resulting tetracycline-resistant transformants contained the GMI1000 homology sequences in the permissive site downstream of glmS and could now receive any DNA ele- ment for integration carried by pRC suicide plasmids.
