@@ -9,7 +9,7 @@ title: Cytosine Deaminase as a Negative Selection Marker for Gene Disruption and
 - **Tags**:
 - **Abstract**:
 - **Introduction**:
-	- [[cytosine deaminase]] catalyzes the deamination of cytosine to uracil as a part of the pyrimidine salvage pathway
+	- [[cytosine deaminase]] catalyzes the deamination of cytosine to uracil as a part of the [[pyrimidine salvage pathway]]
 	- Counterselection markers are valuable tools facilitating gene disruption based on homologous recombination
 	- The rpsL gene (encoding the ribosomal protein S12) confers a dominant 
 	  streptomycin-sensitive phenotype in a streptomycin resistance 
