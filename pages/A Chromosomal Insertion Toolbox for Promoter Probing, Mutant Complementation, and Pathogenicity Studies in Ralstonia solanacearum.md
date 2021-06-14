@@ -1,7 +1,7 @@
 - **Authors**:
 - **Journal:**
-- **Readcube:**
+- **Readcube:** https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:9f56114e-bd36-4ec3-8106-deee2d4e9f9e
 - **Tags:**
 - **Abstract:**
-	-
+	- directed insertion of gene constructs in a permissive chromosomal site of the bacterial wilt pathogen Ralstonia solanacearum
 - **Introduction:**
