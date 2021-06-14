@@ -52,3 +52,4 @@
 	- In addition, all constructs delivered by pRCs are flanked by the strong T7 transcriptional terminator and one or two copies of the bidirectionally active terminator Tfd from phage fd (Kokotek and Lotz 1989), which avoids interference with gene expression in the flanking genomic regions.
 	- This is especially useful for cloning long ORF, which often contain numerous restriction sites in their coding regions and are not amenable to classical cloning procedures
 	- Finally, the integration system is better suited for mutant complementation studies than the existing plasmids, which are lost in competitive conditions (e.g., plant pathogenicity tests).
+	- Its main advantages are i) all promoters are analyzed in the same genomic context and under the natural stoichiometry (i.e., in monocopy), ii) the native gene whose promoter is under study is undisrupted, and iii) stable integration avoids the use of constant selection pressure.
