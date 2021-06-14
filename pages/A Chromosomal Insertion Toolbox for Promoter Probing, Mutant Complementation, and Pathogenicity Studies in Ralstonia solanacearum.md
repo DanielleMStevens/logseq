@@ -5,4 +5,5 @@
 - **Abstract:**
 	- directed insertion of gene constructs in a permissive chromosomal site of the bacterial wilt pathogen Ralstonia solanacearum
 	- collection of suicide vectors—the Ralstonia chromosome (pRC) series—that carry an integration element flanked by transcription terminators and two sequences of homology to the chromosome of strain GMI1000, where the integration element is inserted through a double recombination even
+	-
 - **Introduction:**
