@@ -1,6 +1,5 @@
 ---
-title: A novel method to generate unmarked gene deletions in the intracellular 
-pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
+title: A novel method to generate unmarked gene deletions in the intracellular pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 ---
 
 - **Authors**:
