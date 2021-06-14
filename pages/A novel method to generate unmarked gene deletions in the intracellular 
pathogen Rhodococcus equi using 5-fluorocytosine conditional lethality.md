@@ -9,7 +9,7 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 - **Tags**:
 - **Abstract**:
 	- generate unmarked in-frame gene deletions in Rhodococcus equi was developed, exploiting the cytotoxic effect of 5-fluorocytosine (5-FC) by the action of [[cytosine deaminase]] (CD) and uracil phosphoribosyltransferase (UPRT) enzyme
-	- [CD]([[cytosine deaminase]]) and UPRT conferred conditional lethality to R. equi cells incubated with 5-FC
+	- [CD]([[cytosine deaminase]]) and UPRT conferred conditional lethality to R. equi cells incubated with [[5-FC]]
 	- the [CD]([[cytosine deaminase]])-UPRT based 5-FC counter-selection may become a useful asset in the generation of unmarked in-frame gene deletions in other actinobacteria as well, as actinobacteria generally appear to be [[5-FC]] resistant and 5-FU sensitive.
 - **Introduction**:
 	- the [[sacB]] gene of Bacillus subtilis is one of the most widely used suicide genes, conferring sucrose sensitivity mostly in Gram-negative bacteria
@@ -20,6 +20,6 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 	- This method, however, requires a laborious extra round of mutagenesis to remove the resistance marker integrated into the genome to generate unmarked mutant
 	- [[cytosine deaminase]] (CD, EC 3.5.4.5) and uracil phosphoribosyltransferase (UPRT, EC 2.4.2.9) are enzymes involved in the pyrimidine salvage pathway, converting cytosine via uracil into dUMP
 	- cytotoxicity is largely exerted following UPRT mediated conversion of 5-FU into 5-ﬂuoro-dUMP,
-	- Heterologous expression of E. coli codA was shown to confer 5-FC sensitivity to mammalian cells, ordinarily not producing CD
+	- Heterologous expression of E. coli codA was shown to confer [[5-FC]] sensitivity to mammalian cells, ordinarily not producing CD
 - **Results**:
 - **Discussion**:
