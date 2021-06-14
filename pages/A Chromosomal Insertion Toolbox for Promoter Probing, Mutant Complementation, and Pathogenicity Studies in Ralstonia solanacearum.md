@@ -31,3 +31,4 @@
 		- Almost all bacteria recovered from wilting plants maintained the tetracycline resistance borne in the integration element, which was maintained without selective pressure. In contrast, the pLAFR3 plasmid was readily lost, as detected by the high proportion of tetracycline-sensitive bacteria recovered
 	- **The pRC system can be used for gene integration in other R. solanacearum strains.**
 		- Because the sequences surrounding the permissive chromosomal integration site are not conserved in all isolates of R. solanacearum , we devised a system to render our integration toolbox compatible with the whole species
+		- which enabled the introduction of the GMI1000 homology regions targeted
