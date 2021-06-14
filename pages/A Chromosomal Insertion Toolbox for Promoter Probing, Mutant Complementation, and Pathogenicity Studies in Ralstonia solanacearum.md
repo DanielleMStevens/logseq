@@ -45,3 +45,6 @@
 		- The integration of genetic elements into a position of the R. solanacearum genome can be used to test activity of any promoter::reporter fusion under the natural stoichiometry (i.e., in monocopy) and in the same genomic environment.
 		- The low background expression of the double mutant and that of a strain devoid of any promoter up-stream of lacZ (data not shown) proved that the transcriptional terminators flanking the insertion element were actively avoid-ing read-through from neighboring promoters in the genome
 		- For this, we used the noninvasive GFP reporter, better suited for in vivo studies, because it does not require addition of any substrate.
+		- Thus, bacterial gene expression could be detected and visual-ized in vitro and in planta from a single-copy reporter gene inserted with the pRC system.
+- **Discussion:**
+	-
