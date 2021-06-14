@@ -15,5 +15,6 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 	- the [[sacB]] gene of Bacillus subtilis is one of the most widely used suicide genes, conferring sucrose sensitivity mostly in Gram-negative bacteria
 	- we have been unable to apply [[sacB]] as a counter-selectable marker in Rhodococcus equi, due to a lack of sucrose sensitivity. Similar observations have been reported for Streptomyces lividans
 	- [[sacB]] counter-selection system generally is not applicable to other Gram-positive bacteria, like B. subtilis
+	- A major drawback of these markers, however, is that they only function in glkA, pyrF, upp or strA null mutants,
 - **Results**:
 - **Discussion**:
