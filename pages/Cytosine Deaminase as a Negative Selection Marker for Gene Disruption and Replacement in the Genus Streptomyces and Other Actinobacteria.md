@@ -22,21 +22,10 @@ title: Cytosine Deaminase as a Negative Selection Marker for Gene Disruption and
 		- Both polylinkers will accommodate DNA fragments in insertional gene disruption procedures, while only the polylinker XbaI-PvuI will be used for cloning the fragments involved in gene replacement, including in-frame deletion fragment
 		- Replacing codA(s) by the mutated version codA(sm), we obtained pMG201M (see Fig. S1 in the supplemental material).
 	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FCDNqcijdUv.png?alt=media&token=672bd9cd-1b96-4f51-9c91-830d56776cee)
-		- FIG. 1. Vector pMP201 and derivatives. (A) Map of the pMP201 vector with
-		   polylinkers XbaI-PvuI and HindIII-EcoRI. neoA, aminoglycoside 
-		  resistance gene with the promoter from the aacC4 gene; codA(s), 
-		  synthetic version of the cytosine deaminase gene; ori, origin of 
-		  replication for E. coli. The positions of oriT (origin of conjugative 
-		  transfer), present in pMP301 and pMP302, and bla (ampicillin resistance 
-		  gene), present in pMP302, are also shown. Note that the PvuI site in the
-		   polylinker is not unique in derivatives containing the bla gene. (B) 
-		  DNA sequences of polylinkers in pMP201 and derivatives (coordinates in 
-		  both panels are from the pMP201 sequence, and those in panel B 
-		  correspond to the first boldface base pair for each restriction enzyme).
-		   Boldface letters and dashes indicate the restriction sites and the 
-		  respective cleavage sites
-	- Resistance to 5FC is frequent among actinobacteria.
-		- The absence of cytosine deaminase, observed in S. coelicolor and Streptomyces griseus (15), seems to be frequent and is perhaps generalized among actinobacteria
+		- FIG. 1. Vector pMP201 and derivatives. (A) Map of the pMP201 vector with polylinkers XbaI-PvuI and HindIII-EcoRI. neoA, aminoglycoside resistance gene with the promoter from the aacC4 gene; codA(s), synthetic version of the cytosine deaminase gene; ori, origin of replication for E. coli. The positions of oriT (origin of conjugative transfer), present in pMP301 and pMP302, and bla (ampicillin resistance gene), present in pMP302, are also shown. Note that the PvuI site in the polylinker is not unique in derivatives containing the bla gene. (B) DNA sequences of polylinkers in pMP201 and derivatives (coordinates in both panels are from the pMP201 sequence, and those in panel B correspond to the first boldface base pair for each restriction enzyme). Boldface letters and dashes indicate the restriction sites and the respective cleavage sites
+	- **Resistance to 5FC is frequent among actinobacteria**.
+		- The absence of [[cytosine deaminase]], observed in S. coelicolor and Streptomyces griseus (15), seems to be frequent and is perhaps generalized among actinobacteria
+			-
 	- codA(s)-based counterselection
 		- Disruption cassettes amplified from the S. lividans genome were cloned 
 		  into pMP302, and E. coli ET12567 (pUZ8002) was then transformed with the
