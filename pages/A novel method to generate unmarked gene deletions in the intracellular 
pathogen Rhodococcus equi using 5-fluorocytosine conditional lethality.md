@@ -32,4 +32,5 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 		- Growth of the R. equi strain carrying the codA::upp cassette under nonselective conditions was similar to that of wild type
 		- Importantly, no [[5-FC]] selection was observed when complex agar media (LB) was used (Figure 1D). This may be due to repression of the [[pyrimidine salvage pathway]] aﬀecting 5-FC uptake.
 	- **Unmarked in-frame gene deletion of supAB in R. equi**
+		- electing for apramycin resistance, resulted in 29 transformants of which four were selected and grown nonselectively overnight for 20 h in LB medium
 - **Discussion**:
