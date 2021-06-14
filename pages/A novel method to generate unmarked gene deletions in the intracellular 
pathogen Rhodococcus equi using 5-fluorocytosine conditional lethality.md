@@ -18,10 +18,10 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 	- In B. subtilis, mazF, encoding a toxin, has been used as a suicide marker to generate unmarked gene deletion mutant
 	- A major drawback of these markers, however, is that they only function in glkA, pyrF, upp or strA null mutants,
 	- This method, however, requires a laborious extra round of mutagenesis to remove the resistance marker integrated into the genome to generate unmarked mutant
-	- [[cytosine deaminase]] (CD, EC 3.5.4.5) and uracil phosphoribosyltransferase (UPRT, EC 2.4.2.9) are enzymes involved in the pyrimidine salvage pathway, converting cytosine via uracil into dUMP
+	- [[cytosine deaminase]] (CD, EC 3.5.4.5) and [[uracil phosphoribosyltransferase]] (UPRT, EC 2.4.2.9) are enzymes involved in the pyrimidine salvage pathway, converting cytosine via uracil into dUMP
 	- cytotoxicity is largely exerted following [UPRT]([[uracil phosphoribosyltransferase]]) mediated conversion of 5-FU into 5-ﬂuoro-dUMP,
-	- Heterologous expression of E. coli codA was shown to confer [[5-FC]] sensitivity to mammalian cells, ordinarily not producing CD
-	- A recent study on pyrimidine salvage in Streptomyces species indicated a lack of CD activity but sensitivity towards 5-FU
+	- Heterologous expression of E. coli codA was shown to confer [[5-FC]] sensitivity to mammalian cells, ordinarily not producing [CD]([[cytosine deaminase]])
+	- A recent study on pyrimidine salvage in Streptomyces species indicated a lack of [[cytosine deaminase]] activity but sensitivity towards 5-FU
 	- A method for the isolation of gene deletion mutants of R. equi by the double homologous recombination strategy was ﬁrst reported by Navas et al
 	- These methods, however, often involve screening and handling of large numbers of colonies to select for the rare second recombination event
 - **Results & Discussion**:
