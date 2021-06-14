@@ -41,3 +41,4 @@
 		- gene insertion in the tar- get chromosomal region did not alter the viability or fitness of the bacterium in planta
 	- **Addition of a single copy of hrpG can complement a deletion mutant for this gene.**
 		- The results (Fig. 3B) indicate that a single copy of the gene integrated in the permissive region was sufficient to fully restore the plant HR response toward the bacterium, proving the utility of the system for gene complementation in competitive conditions such as growth in planta.
+	- **pRCs are a useful tool for bacterial promoter probing in culture or in planta.**
