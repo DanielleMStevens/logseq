@@ -18,4 +18,4 @@
 	- These tools are based on a versatile genetic element where any promoter::ORF (open reading frame) combination can be cloned and stably integrated in a permissive site of the bacterial chromosome
 - **Results:**
 	- **Construction of a set of modular vectors for gene integration in the chromosome of R. solanacearum GMI1000.**
-		-
+		- In order to stably transform R. solanacearum GMI1000, we selected as a target site nucleotide position 203,337, located in one of the longest intergenic regions in the chromosome (Fig. 1C)
