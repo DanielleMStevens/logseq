@@ -35,5 +35,6 @@ pathogen Rhodococcus equi using 5-fluorocytosine conditional lethality
 		- electing for apramycin resistance, resulted in 29 transformants of which four were selected and grown nonselectively overnight for 20 h in LB medium
 		- For one transformant, eighteen 5-FCR/ApraS colonies were checked by colony PCR for the presence of the mutant supAB genotype using PCR with oligonucleotides 6 and 7 amplifying the supAB genes
 	- **Actinobacteria are generally 5-FC resistant**
-		- the tested strains generally were resistant to high concentrations of 5-FC (100 mg/ml), but highly sensitive to lower concentrations of 5-FU (20–50 mg/ml), indicating the feasibility of developing a 5-FC based positive selection system for other actinobacteria.
+		- the tested strains generally were resistant to high concentrations of [[5-FC]] (100 mg/ml), but highly sensitive to lower concentrations of 5-FU (20–50 mg/ml), indicating the feasibility of developing a 5-FC based positive selection system for other actinobacteria.
+		-
 - **Discussion**:
