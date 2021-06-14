@@ -20,4 +20,4 @@
 	- **Construction of a set of modular vectors for gene integration in the chromosome of R. solanacearum GMI1000.**
 		- In order to stably transform R. solanacearum GMI1000, we selected as a target site nucleotide position 203,337, located in one of the longest intergenic regions in the chromosome (Fig. 1C)
 		- We hypothesized that this was a permissive site because it is devoid of predicted ORF and lies downstream of surrounding genes (one of which is a predicted pseudogene), suggest-ing that it does not contain a promoter region either.
-		-
+		- The vectors contain approximately 1 Kb of the chromosomal DNA sequences immediately upstream and downstream of the target site flanking the element to be integrated.
