@@ -1,1 +1,1 @@
-- **
+- /paperOutline
