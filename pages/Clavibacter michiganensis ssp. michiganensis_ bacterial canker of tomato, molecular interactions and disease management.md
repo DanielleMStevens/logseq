@@ -29,5 +29,6 @@ title:: Clavibacter michiganensis ssp. michiganensis: bacterial canker of tomato
 		- No apparent consensus sequence was found, indicating a random mode of transposition of Tn1409.
 		- Besides integration of the transposon into housekeeping genes, one integration occurred in a protease gene. The other integration sites were located in open reading frames for hypothetical proteins.
 		- one mutant was grown on a TBY plate without antibiotics over a period of 6 months with transfer to a fresh plate every 2 weeks. After 6 months, total DNA was isolated from 10 randomly chosen colonies, digested with BglII, and probed with the tnpA probe. No change in the band pattern compared with the original was observed after continuous growth for 6 months (data not shown), indicating that the transposon mutants obtained with Tn1409C are stable.
-	- Mutagenesis of C.michiganensis subsp. insidiosus, subsp. nebraskensis, and subsp. sepedonicus.
+	- **Mutagenesis of C.michiganensis subsp. insidiosus, subsp. nebraskensis, and subsp. sepedonicus.**
+		- Clavibacter strains against the internal 1-kb SstI fragment of IS1409 did not give a signal (Gartemann and Eichenlaub 2001). This indicates that these strains do not carry an IS1409-like insertion element and reduces the possibility for homologous recombination with endogenous IS elements.
 - **Discussion**:
