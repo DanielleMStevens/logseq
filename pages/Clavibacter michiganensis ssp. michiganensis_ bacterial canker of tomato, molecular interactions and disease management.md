@@ -12,4 +12,5 @@ title:: Clavibacter michiganensis ssp. michiganensis: bacterial canker of tomato
 	- IS (insertion sequence) element IS1409 from the actinomycete Arthrobacter sp. strain TM1 NCIB12013 and the construction of a family of artificial transposons
 	- previously published procedure (Meletzus et al. 2000) yielded only between 0 and 5 transposon mutants per µg of vector DNA, which requires a tremendous effort to obtain a specific mutant
 - **Results**:
+	- **Optimization of the electroporation protocol.**
 - **Discussion**:
