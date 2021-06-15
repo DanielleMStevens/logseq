@@ -1,8 +1,8 @@
 - **Authors**:
 - **Journal**:
-  **Readcube**:
-  **Tags**:
-  **Abstract**:
-  **Introduction**:
-  **Results**:
-  **Discussion**:
+- **Readcube**:
+- **Tags**: #pselact-paper
+- **Abstract**:
+- **Introduction**:
+- **Results**:
+- **Discussion**:
