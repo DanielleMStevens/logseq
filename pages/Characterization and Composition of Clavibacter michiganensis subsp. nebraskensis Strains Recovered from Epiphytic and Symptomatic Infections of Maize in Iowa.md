@@ -5,7 +5,7 @@ title: Characterization and Comparison of Clavibacter michiganensis subsp. nebra
 - **Authors**: [[Azeem Ahmad]], [[Gladys Y. Mbofung]], [[Jyotsna Acharya]], [[Clarice L. Schmidt]], and [[Alison E. Robertson]]
 - **Journal**: [[PLOS One]]
 - **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:683978bf-db39-4fb3-9c2b-824abbb56035
-- **Tags**: #clavibacter #[[Clavibacter nebraskensis]]
+- **Tags**: #clavibacter #[[Clavibacter nebraskensis]] #pselact-paper
 - **Abstract**:
 	- [[Clavibacter nebraskensis]], the causal organism of Goss’s wilt and leaf blight of maize, can be detected in the phyllosphere of its host prior to disease development.
 	- 37 putative isolates of [[Clavibacter nebraskensis]] recovered from asymptomatic and symptomatic maize leaves
