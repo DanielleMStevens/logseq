@@ -19,5 +19,6 @@ title:: Clavibacter michiganensis ssp. michiganensis: bacterial canker of tomato
 		- The highest efficiency was obtained with a parallel resistance of 600 Ω. Treatment of cells with a heat shock (32 to 38°C for 6 min) directly after the pulse reduced survival and consecutively reduced transformation efficiency
 		- A longer regeneration time (2 to 4 h) had no effect on survival or on the amount of transformants
 		- Using unmethylated DNA isolated from E. coli WA337 (dam–/dcm–), the number of transformants was increased fourfold in contrast to DNA from E. coli JM109 (dam+/dcm+) (Fig. 1).
-	- Protocol for transposon mutagenesis with Tn1409C.
+	- **Protocol for transposon mutagenesis with Tn1409C.**
+		- plasmid pKGT452C was used, consisting of vector pUC13 carrying Tn1409C with the chloramphenicol exporter gene cmx from Corynebacterium striatum
 - **Discussion**:
