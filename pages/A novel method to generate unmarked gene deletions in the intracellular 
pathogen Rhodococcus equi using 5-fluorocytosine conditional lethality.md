@@ -5,7 +5,7 @@ title: A novel method to generate unmarked gene deletions in the intracellular p
 - **Authors**: [[Van der Geize, R]]
 - **Journal**: [[Nucleic Acids Research]]
 - **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:098f2da1-5204-4373-af0c-d5a1cbfb323e
-- **Tags**:
+- **Tags**: #pselact-paper
 - **Abstract**:
 	- generate unmarked in-frame gene deletions in Rhodococcus equi was developed, exploiting the cytotoxic effect of 5-fluorocytosine ([[5-FC]]) by the action of [[cytosine deaminase]] (CD) and [[uracil phosphoribosyltransferase]] (UPRT) enzyme
 	- [CD]([[cytosine deaminase]]) and UPRT conferred conditional lethality to R. equi cells incubated with [[5-FC]]
