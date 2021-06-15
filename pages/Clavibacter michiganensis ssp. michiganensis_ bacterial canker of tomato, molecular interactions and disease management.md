@@ -22,5 +22,7 @@ title:: Clavibacter michiganensis ssp. michiganensis: bacterial canker of tomato
 	- **Protocol for transposon mutagenesis with Tn1409C.**
 		- plasmid pKGT452C was used, consisting of vector pUC13 carrying Tn1409C with the chloramphenicol exporter gene cmx from Corynebacterium striatum
 		- 1,000 resistant clones per electroporation were generally obtained when using pKGT452Cβ, whereas yields with pKGT452Cα were approximately 40 times lower
-	- Analysis of transposition sites.
+	- **Analysis of transposition sites.**
+		- Southern hybridization experiments with 75 randomly selected chloramphenicol resistant clones were performed
+		- fragments of different sizes, but larger than the minimal size of 1,988 bp (Fig. 2B I.), indicating a random insertion of Tn1409C
 - **Discussion**:
