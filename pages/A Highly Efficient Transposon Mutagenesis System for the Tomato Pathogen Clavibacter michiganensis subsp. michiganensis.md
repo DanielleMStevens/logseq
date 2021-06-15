@@ -6,5 +6,8 @@
 	- A transposon mutagenesis system for Clavibacter michiganensis subsp. michiganensis was developed based on antibiotic resistance transposons that were derived from the insertion element IS1409 from Arthrobacter sp. strain TM1 NCIB12013
 	- Analysis of Tn1409C insertion sites suggests a random mode of transposition. Transposition of Tn1409C was also demonstrated for other subspecies of C. michiganensis.
 - **Introduction**:
+	- To be able to identify other pathogenicity-related genes that are located on the chromosome, an efficient system for mutagenesis would be beneficial
+	- IS (insertion sequence) element IS1409 from the actinomycete Arthrobacter sp. strain TM1 NCIB12013 and the construction of a family of artificial transposons
+	- previously published procedure (Meletzus et al. 2000) yielded only between 0 and 5 transposon mutants per µg of vector DNA, which requires a tremendous effort to obtain a specific mutant
 - **Results**:
 - **Discussion**:
