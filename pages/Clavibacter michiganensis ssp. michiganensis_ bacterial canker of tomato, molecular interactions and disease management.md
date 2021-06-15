@@ -21,4 +21,5 @@ title:: Clavibacter michiganensis ssp. michiganensis: bacterial canker of tomato
 		- Using unmethylated DNA isolated from E. coli WA337 (dam–/dcm–), the number of transformants was increased fourfold in contrast to DNA from E. coli JM109 (dam+/dcm+) (Fig. 1).
 	- **Protocol for transposon mutagenesis with Tn1409C.**
 		- plasmid pKGT452C was used, consisting of vector pUC13 carrying Tn1409C with the chloramphenicol exporter gene cmx from Corynebacterium striatum
+		- 1,000 resistant clones per electroporation were generally obtained when using pKGT452Cβ, whereas yields with pKGT452Cα were approximately 40 times lower
 - **Discussion**:
