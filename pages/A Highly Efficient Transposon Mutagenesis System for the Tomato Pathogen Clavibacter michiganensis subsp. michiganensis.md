@@ -10,4 +10,14 @@
 	- IS (insertion sequence) element IS1409 from the actinomycete Arthrobacter sp. strain TM1 NCIB12013 and the construction of a family of artificial transposons
 	- previously published procedure (Meletzus et al. 2000) yielded only between 0 and 5 transposon mutants per µg of vector DNA, which requires a tremendous effort to obtain a specific mutant
 - **Results**:
+	- **Optimization of the electroporation protocol.**
+		- growth phase (early, middle, and late log phase, and stationary phase), amount of cells per transformation assay (1 × 108 to 1 × 109), amount of DNA (0.01 to 5 µg), and methylation status of DNA (isolated either from the dam–/ dcm– Escherichia coli strain WA337 or the dam+/dcm+ E. coli strain JM109)
+		- Also, the effect of electrical parameters (parallel resistances 200 to 1,000 Ω) and treatment of competent cells with cell wall-damaging reagents during growth (glycine, lysozyme, and penicillin G) or directly before electroporation (glycine) were tested.
+		- Cells harvested during early log phase (optical density [OD]580 0.5 to 0.7) gave a significantly higher transformation rate than cells harvested during later growth phases.
+		- The highest efficiency was obtained with a parallel resistance of 600 Ω. Treatment of cells with a heat shock (32 to 38°C for 6 min) directly after the pulse reduced survival and consecutively reduced transformation efficiency
+		- A longer regeneration time (2 to 4 h) had no effect on survival or on the amount of transformants
+		- Using unmethylated DNA isolated from E. coli WA337 (dam–/dcm–), the number of transformants was increased fourfold in contrast to DNA from E. coli JM109 (dam+/dcm+) (Fig. 1).
+	- **Protocol for transposon mutagenesis with Tn1409C.**
+		- plasmid pKGT452C was used, consisting of vector pUC13 carrying Tn1409C with the chloramphenicol exporter gene cmx from Corynebacterium striatum
+		- 1,000 resistant clones per electroporation were generally obtained when using pKGT452Cβ, whereas yields with pKGT452Cα were approximately 40 times lower
 - **Discussion**:
