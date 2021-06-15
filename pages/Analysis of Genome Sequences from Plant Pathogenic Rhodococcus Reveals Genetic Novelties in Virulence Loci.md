@@ -1,5 +1,5 @@
 - **Authors**:
-  **Journal**:
+- **Journal**:
   **Readcube**:
   **Tags**:
   **Abstract**:
