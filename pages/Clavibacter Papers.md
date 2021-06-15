@@ -38,7 +38,7 @@ title: Clavibacter Papers
 		- [[Comparative Genomic Analyses of Clavibacter michiganensis subsp. insidiosus and Pathogenicity on Medicago truncatula]]
 	- Clavibacter nebraskensis:
 		- [[Differential Effects of Lithium Chloride on In Vitro Growth of Clavibacter michiganensis subsp. nebraskensis Depending upon Innoculum Source]]
-		- [[Characterization and Composition of Clavibacter michiganensis subsp. nebraskensis Strains Recovered from Epiphytic and Symptomatic Infections of Maize in Iowa]]
+		- [[Characterization and Comparison of Clavibacter michiganensis subsp. nebraskensis Strains Recovered from Epiphytic and Symptomatic Infections of Maize in Iowa]]
 		- [[Genetic diversity and phylogeny of strains of Clavibacter nebraskensis associated with recent and historic Goss's wilt epidemics in the north Central USA]]
 		- [[Four Common Setaria Species are Alternative Hosts for Clavibacter michiganensis subsp. nebraskensis, Causal Agent of Goss’s Bacterial Wilt and Blight of Corn]]
 		-
