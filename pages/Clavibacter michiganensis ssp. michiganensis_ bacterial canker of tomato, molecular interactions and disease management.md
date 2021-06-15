@@ -14,5 +14,6 @@ title:: Clavibacter michiganensis ssp. michiganensis: bacterial canker of tomato
 - **Results**:
 	- **Optimization of the electroporation protocol.**
 		- growth phase (early, middle, and late log phase, and stationary phase), amount of cells per transformation assay (1 × 108 to 1 × 109), amount of DNA (0.01 to 5 µg), and methylation status of DNA (isolated either from the dam–/ dcm– Escherichia coli strain WA337 or the dam+/dcm+ E. coli strain JM109)
-		- Also, the effect of electrical parameters (parallel resistances 200 to 1,000 Ω) and treatment of competent cells with cell wall-damaging reagents during growth (glycine, lysozyme, and penicillin G) or directly before elec
+		- Also, the effect of electrical parameters (parallel resistances 200 to 1,000 Ω) and treatment of competent cells with cell wall-damaging reagents during growth (glycine, lysozyme, and penicillin G) or directly before electroporation (glycine) were tested.
+		- Cells harvested during early log phase (optical density [OD]580 0.5 to 0.7) gave a significantly higher transformation rate than cells harvested during later growth phases.
 - **Discussion**:
