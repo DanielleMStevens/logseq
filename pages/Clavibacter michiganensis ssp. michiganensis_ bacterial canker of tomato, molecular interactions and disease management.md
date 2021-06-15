@@ -3,7 +3,7 @@ title:: Clavibacter michiganensis ssp. michiganensis: bacterial canker of tomato
 - **Authors**:
 - **Journal**:
 - **Readcube**:
-- **Tags**:
+- **Tags**: #pselact-paper
 - **Abstract**:
 - **Introduction**:
 - **Results**:
