@@ -6,7 +6,7 @@ title: Cytosine Deaminase as a Negative Selection Marker for Gene Disruption and
   Jacques,2 Nancy Clermont,1 Carole Beaulieu,1 and Ryszard Brzezinski
 - **Journal**: [[Applied and Environmental Microbiology]]
 - **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:52f4b7fc-d7fa-44fa-a9a1-cc30ef6ec7d0
-- **Tags**:
+- **Tags**: #pselact-paper
 - **Abstract**:
 - **Introduction**:
 	- [[cytosine deaminase]] catalyzes the deamination of cytosine to uracil as a part of the [[pyrimidine salvage pathway]]
