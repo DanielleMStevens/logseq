@@ -33,4 +33,5 @@ title:: Clavibacter michiganensis ssp. michiganensis: bacterial canker of tomato
 	- **Mutagenesis of C.michiganensis subsp. insidiosus, subsp. nebraskensis, and subsp. sepedonicus.**
 		- Clavibacter strains against the internal 1-kb SstI fragment of IS1409 did not give a signal (Gartemann and Eichenlaub 2001). This indicates that these strains do not carry an IS1409-like insertion element and reduces the possibility for homologous recombination with endogenous IS elements.
 		- transposon Tn1409C should also be a valuable tool in other subspecies of C. michiganensis, provided that the transformation rate can be improved
+		-
 - **Discussion**:
