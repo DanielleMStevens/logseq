@@ -20,4 +20,12 @@
 	- **Protocol for transposon mutagenesis with Tn1409C.**
 		- plasmid pKGT452C was used, consisting of vector pUC13 carrying Tn1409C with the chloramphenicol exporter gene cmx from Corynebacterium striatum
 		- 1,000 resistant clones per electroporation were generally obtained when using pKGT452Cβ, whereas yields with pKGT452Cα were approximately 40 times lower
+	- **Analysis of transposition sites.**
+		- Southern hybridization experiments with 75 randomly selected chloramphenicol resistant clones were performed
+		- fragments of different sizes, but larger than the minimal size of 1,988 bp (Fig. 2B I.), indicating a random insertion of Tn1409C
+		- ![2021_06_15_Screen Shot 2021-06-15 at 10.14.57 AM.png](https://cdn.logseq.com/%2Fc8c9845b-a7fd-4de7-86cd-c4be3d7156949dd92c36-1c21-4a50-ac15-167185d3f9d92021_06_15_Screen%20Shot%202021-06-15%20at%2010.14.57%20AM.png?Expires=4777377317&Signature=T5NDWiQUrFKifrhmZ1Pg1KPb2JLprHsoVckIl1wrKvCtb3YS-dBGBs4nF5d6G6tBvkfXtfTXBY89ygH5khOKIKbLMzN6UThqXfJgryJRJ03UbphekpD75AzFbZ8cyC8c3B~V76UstfiNrtRZNH8N-IyW2hHWno5QiwdDHDUG9tHb6Lgd9VtVtge82Xu3XuX7GPn3k-TbryDk5AjiB2oVK3FS-icy63i7aV0lkmFxOszs6YI3se~NTub7f4-RO3m6L4TWYgBpZxyriWwXePxJGRWMqJvGMqqppShKabO2V-7OFGdGEpYKnjyh7t2OxF-P2EJVRvFH~BsVUf~H~z-trQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 352, :width 666}
+		- The duplication of 8 bp as typical for IS1409 was confirmed in the 10 transposition mutants, as shown in Table 1
+		- No apparent consensus sequence was found, indicating a random mode of transposition of Tn1409.
+		- Besides integration of the transposon into housekeeping genes, one integration occurred in a protease gene. The other integration sites were located in open reading frames for hypothetical proteins.
+		- one mutant was grown on a TBY plate without antibiotics over a period of 6 months with transfer to a fresh plate every 2 weeks. After 6 months, total DNA was isolated from 10 randomly chosen colonies, digested with BglII, and probed with the tnpA probe. No change in the band pattern compared with the original was observed after continuous growth for 6 months (data not shown), indicating that the transposon mutants obtained with Tn1409C are stable.
 - **Discussion**:
