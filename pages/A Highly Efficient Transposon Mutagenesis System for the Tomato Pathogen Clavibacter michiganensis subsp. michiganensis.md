@@ -1,1 +1,8 @@
-- /paperOutline
+- **Authors**:
+  **Journal**:
+  **Readcube**:
+  **Tags**:
+  **Abstract**:
+  **Introduction**:
+  **Results**:
+  **Discussion**:
