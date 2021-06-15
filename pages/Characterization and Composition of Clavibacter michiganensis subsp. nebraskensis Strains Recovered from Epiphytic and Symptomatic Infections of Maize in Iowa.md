@@ -1,5 +1,5 @@
 ---
-title: Characterization and Composition of Clavibacter michiganensis subsp. nebraskensis Strains Recovered from Epiphytic and Symptomatic Infections of Maize in Iowa
+title: Characterization and Comparison of Clavibacter michiganensis subsp. nebraskensis Strains Recovered from Epiphytic and Symptomatic Infections of Maize in Iowa
 ---
 
 - **Authors**: [[Azeem Ahmad]], [[Gladys Y. Mbofung]], [[Jyotsna Acharya]], [[Clarice L. Schmidt]], and [[Alison E. Robertson]]
