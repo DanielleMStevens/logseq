@@ -25,6 +25,7 @@ title:: Clavibacter michiganensis ssp. michiganensis: bacterial canker of tomato
 	- **Analysis of transposition sites.**
 		- Southern hybridization experiments with 75 randomly selected chloramphenicol resistant clones were performed
 		- fragments of different sizes, but larger than the minimal size of 1,988 bp (Fig. 2B I.), indicating a random insertion of Tn1409C
+		-
 		- The duplication of 8 bp as typical for IS1409 was confirmed in the 10 transposition mutants, as shown in Table 1
 		- No apparent consensus sequence was found, indicating a random mode of transposition of Tn1409.
 		- Besides integration of the transposon into housekeeping genes, one integration occurred in a protease gene. The other integration sites were located in open reading frames for hypothetical proteins.
