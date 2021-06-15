@@ -17,4 +17,5 @@ title:: Clavibacter michiganensis ssp. michiganensis: bacterial canker of tomato
 		- Also, the effect of electrical parameters (parallel resistances 200 to 1,000 Ω) and treatment of competent cells with cell wall-damaging reagents during growth (glycine, lysozyme, and penicillin G) or directly before electroporation (glycine) were tested.
 		- Cells harvested during early log phase (optical density [OD]580 0.5 to 0.7) gave a significantly higher transformation rate than cells harvested during later growth phases.
 		- The highest efficiency was obtained with a parallel resistance of 600 Ω. Treatment of cells with a heat shock (32 to 38°C for 6 min) directly after the pulse reduced survival and consecutively reduced transformation efficiency
+		- A longer regeneration time (2 to 4 h) had no effect on survival or on the amount of transformants
 - **Discussion**:
