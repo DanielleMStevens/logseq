@@ -12,9 +12,9 @@ title: Plant Immune Response to G+ Plant Pathogens
 	- Measure disease for EFR Transgenics
 	- Measure disease for CORE Transgenics
 	- [[Measure release of immunogenic peptides]]
-	- Pipeline to mine for MAMPs in Cm Genomes
-		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FUoa9MYRQVK.png?alt=media&token=ad06e5f4-17af-4d74-ae1b-84df79140e70)
-		-
+	- Test MAMP antagonism in CM
+		- When looking at previous MAMP antagonizers:
+			- For csp22, antagnoism was showned for
 -
 - **Conserved MAMP Sequence**
   ID:: 73acfde1-dc88-4fa4-8354-962e1ec5a4f8
