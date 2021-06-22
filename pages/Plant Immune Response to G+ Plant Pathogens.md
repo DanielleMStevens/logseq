@@ -14,7 +14,7 @@ title: Plant Immune Response to G+ Plant Pathogens
 	- [[Measure release of immunogenic peptides]]
 	- Test MAMP antagonism in CM
 		- When looking at previous MAMP antagonizers:
-			- For csp22, antagonism was showned for: C and D, alkalinization induced by the harpin-containing preparation messenger (1g/ml,C) and by a crude extract fromA. tumefaciens(1l/ml,D) in cellswithout pretreatment or cells pretreated for 3 min with 3Mcsp15-Ala10 as indicated
+			- For csp22, antagonism was showned for: C and D, alkalinization induced by the harpin-containing preparation messenger (1g/ml,C) and by a crude extract fromA. tumefaciens (1l/ml,D) in cellswithout pretreatment or cells pretreated for 3 min with 3 uM/mL csp15-Ala10 as indicated
 -
 - **Conserved MAMP Sequence**
   ID:: 73acfde1-dc88-4fa4-8354-962e1ec5a4f8
