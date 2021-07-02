@@ -39,15 +39,13 @@ title: Differential contribution of Clavibacter michiganensis ssp. michiganensis
 		- Generally, blisters developed near trichomes that were probably damaged during spray inoculation of the leaves with the pathogen
 		- [[Cmm100]] caused blisters similar to the wild-type [[NCPPB  382]], whereas [[Cmm27]] did not cause any symptoms
 		- The determination of endophytic populations of Cmm mutants in leaves revealed that, 3 days after spray inoculation, [[Cmm100]] colonized the leaves at a titre of $$10^8$$ colony-forming units (CFU)/g, whereas [[Cmm27]] reached a titre of only $$10^4$$ CFU/g
-		- mutants from the leaves to the stem revealed that the [[Cmm100]] population 
-		  in the stem at 7 dpi was similar to that of the wild-type ($$10^5$$ CFU/g), whereas [[Cmm27]] could not be detected in the stems even after 21 dpi (Fig. S1b)
+		- mutants from the leaves to the stem revealed that the [[Cmm100]] population in the stem at 7 dpi was similar to that of the wild-type ($$10^5$$ CFU/g), whereas [[Cmm27]] could not be detected in the stems even after 21 dpi (Fig. S1b)
 		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FIb5VJ6g4JW.png?alt=media&token=8a23c60d-ad19-455f-b14e-0756879820d6)
 		  
 		  **Fig. S1: Endophytic growth of Clavibacter michiganensis ssp. michiganensis (Cmm) at the early stages of blister formation.** Three-week-old tomato plants were spray inoculated with bacterial suspensions ($$10^8$$ cells/mL) of Cmm382, Cmm100, Cmm27, and chpC mutants. Endophytic populations were measured in the first two leaves (a) and stem (b) at different time points after inoculation. The results presented are the average of three plants for each time point. The experiment was repeated three times with similar results.
 	- **Contribution of virulence genes to the development of blister and wilt symptoms**:
 		- These included genes encoding [[serine proteases]] from three different families located on the [[chp/tomA]] PAI (chpC, [[chpG]], chpE, chpF, ppaA, ppaC, sbtA), [[serine proteases]] located on the chromosome (sbtB and sbtC) and genes encoding cell wall-degrading enzymes (xysA and xysB encoding xylanases, celB encoding a cellulase, pgaA encoding a polygalacturonase and endX/Y encoding two endoglucanases)
-		- Additional genes examined included: gmdA and manB (involved in 
-		  exopolysaccharide synthesis), [[vatr2]] (encoding a transcriptional regulator), perF (encoding a protein possibly involved in cytolysis processes, CMM_2382) and srtA (encoding a putative sortase enzyme, CMM_0013, that anchors surface proteins)
+		- Additional genes examined included: gmdA and manB (involved in exopolysaccharide synthesis), [[vatr2]] (encoding a transcriptional regulator), perF (encoding a protein possibly involved in cytolysis processes, CMM_2382) and srtA (encoding a putative sortase enzyme, CMM_0013, that anchors surface proteins)
 		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2F1xLP5fqgqH.png?alt=media&token=7b903fe3-3c4e-4316-b10f-9bfedbc2c8cf)
 		  
 		  **Fig. 3: Disease incidence and severity of Clavibacter michiganensis ssp. michiganensis mutants on tomato plants.**
