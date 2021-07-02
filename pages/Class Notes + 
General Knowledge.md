@@ -4,6 +4,9 @@ title: Class Notes + General Knowledge
 
 - **Core Genetic Topics**:
 	- [[Hardy Weinberg Equilibrium]]
+	- [[Wright-Fisher model]]
+	- [[Understanding Selection]]
+	- [[Understanding Genetic Variation]]
 	-
 - [[Phylogenetics 290]]
 - [[Core Genetic Topics:]]
