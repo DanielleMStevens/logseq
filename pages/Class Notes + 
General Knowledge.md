@@ -31,10 +31,6 @@ title: Class Notes + General Knowledge
 	- [[PLP228 - Huanglongbing - Citrus Greening]]
 	- [[PLP228 - Coconut Lethal Yellowing Diseases]]
 -
-- **Course Work Notes**
-	- [[Understanding Genetic Variation]]
-	- [[History of Genetics Seminar - GGG291]]
-	- [[Genomics - GGG201B]]
-	-
+- **Other Notes**
 - [[Evolution and Ecology of CRISPR]]
 - [[Phylogenetics Seminar]]
