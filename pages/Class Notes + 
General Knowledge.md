@@ -16,7 +16,7 @@ title: Class Notes + General Knowledge
 	- [[Fisher’s exact test]]
 	- [[Benjamini–Hochberg correction]]
 	- [[Multiple Testing Problem]]
-	-
+	- [[Type I error]]
 - **Plant Biology Topics:**
 	- [[plant immunity]]
 - **Microbiology Topics:**

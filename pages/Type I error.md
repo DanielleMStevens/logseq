@@ -2,9 +2,9 @@
 title: Type I error
 ---
 
-- 1. What is a Type I Error?
+## 1. What is a Type I Error?
 - A Type I error (or Type **1**), is the **incorrect [rejection of a true null hypothesis](https://www.statisticshowto.com/support-or-reject-null-hypothesis/)**. The alpha symbol, α, is usually used to denote a Type I error.
-- The Null Hypothesis in Type I and Type II Decision Errors.
+### The Null Hypothesis in Type I and Type II Decision Errors.
 - The [null hypothesis](https://www.statisticshowto.com/probability-and-statistics/null-hypothesis/), H0 is a **commonly accepted hypothesis**; it is the opposite of the [alternate hypothesis](https://www.statisticshowto.com/what-is-an-alternate-hypothesis/). Researchers come up with an alternate hypothesis, one that they think explains a phenomenon, and then work to [reject the null hypothesis](https://www.statisticshowto.com/support-or-reject-null-hypothesis/).
 - If that sounds a little convoluted, an example might help. Back in the day (way back!) scientists thought that the Earth was at the center of the Universe. That mean everything else—the sun, the planets, the Oort cloud&helip;—revolved around the Earth.
 - [![type i error type II error](https://www.statisticshowto.com/wp-content/uploads/2013/07/earth-300x221.jpg)](https://www.statisticshowto.com/what-is-a-type-i-error)
