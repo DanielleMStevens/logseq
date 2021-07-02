@@ -2,7 +2,7 @@
 title: QTL Analysis
 ---
 
-- Quantitative Trait Locus (QTL) Analysis
+### Quantitative Trait Locus (QTL) Analysis
 - By: Cecelia M. Miles, Ph.D. & Marta Wayne, Ph.D. © 2008 Nature Education
 - What statistical method would you use to analyze complex traits? QTL analysis is particularly helpful, bridging the gap between genes and the phenotypic traits that result from them.
 - Quantitative trait locus ([[QTL]]) analysis is a statistical method that links two types of information—phenotypic data (trait measurements) and genotypic data (usually molecular markers)—in an attempt to explain the genetic basis of variation in complex traits (Falconer & Mackay, 1996; Kearsey, 1998; Lynch & Walsh, 1998). QTL analysis allows researchers in fields as diverse as agriculture, evolution, and medicine to link certain complex phenotypes to specific regions of chromosomes. The goal of this process is to identify the action, interaction, number, and precise location of these regions.
