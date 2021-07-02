@@ -17,8 +17,8 @@ title: Tajima's D
 	- A negative Tajima's D signifies an excess of low frequency polymorphisms relative to expectation, indicating population size expansion (e.g., after a bottleneck or a selective sweep) and/or purifying selection. A positive Tajima's D signifies low levels of both low and high frequency polymorphisms, indicating a decrease in population size and/or balancing selection. However, calculating a conventional "p-value" associated with any Tajima's D value that is obtained from a sample is impossible. Briefly, this is because there is no way to describe the distribution of the statistic that is independent of the true, and unknown, theta parameter (no pivot quantity exists). To circumvent this issue, several options have been proposed.
 -
 -
-  |Value of Tajima's D| Tajima's D=0|
-  |:---| :---:|
+  |Value of Tajima's D| Tajima's D=0|Tajima's D<0|
+  |:---| :---: | :---: |
   |Mathematical reason|θ-π equivalent to Theta-k (Observed=Expected). Average Heterozygosity= # of Segregating sites.|
   |Biological interpretation 1|Observed variation similar to expected variation|
   |Biological interpretation 2|Population evolving as per mutation-drift equilibrium. No evidence of selection.|
