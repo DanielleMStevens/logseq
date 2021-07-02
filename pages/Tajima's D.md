@@ -19,7 +19,7 @@ title: Tajima's D
 -
   |Value of Tajima's D| Tajima's D=0|Tajima's D<0|
   |:---| :---: | :---: |
-  |Mathematical reason|θ-π equivalent to Theta-k (Observed=Expected). Average Heterozygosity= # of Segregating sites.|
+  |Mathematical reason|θ-π equivalent to Theta-k (Observed=Expected). Average Heterozygosity= # of Segregating sites.|θ-π less than Theta-k (Observed<Expected). Fewer haplotypes (lower average heterozygosity) than # of segregating sites.|
   |Biological interpretation 1|Observed variation similar to expected variation|
   |Biological interpretation 2|Population evolving as per mutation-drift equilibrium. No evidence of selection.|
 -
