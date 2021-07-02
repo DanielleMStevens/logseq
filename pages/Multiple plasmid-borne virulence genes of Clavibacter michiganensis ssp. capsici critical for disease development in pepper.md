@@ -35,8 +35,7 @@ title: Multiple plasmid-borne virulence genes of Clavibacter michiganensis ssp. 
 		- [[PF008]] had three pelA paralogs, one (pelA1) in the pCM1Cmc and two (pelA2 and pelA3) in pCM2Cmc plasmids, which are orthologous to two pectate lyase genes present in [[chp/tomA]]
 		- tomA subregion was completely missing [[PF008]]
 		- [[vatr1]] and [[vatr2]], encoding virulence-associated transcriptional regulators, are also located near celB in the chromosome of PF008 (Fig. 1a; Table 1)
-		- Overall, among the 28 putative virulence genes listed in Table 1, 11, 
-		  including celA, were missing in PF008, and this might be related to the lack of wilting symptoms caused by [[Clavibacter capsici]] in pepper compared with those caused by [[Clavibacter michiganensis]] in tomato
+		- Overall, among the 28 putative virulence genes listed in Table 1, 11, including celA, were missing in PF008, and this might be related to the lack of wilting symptoms caused by [[Clavibacter capsici]] in pepper compared with those caused by [[Clavibacter michiganensis]] in tomato
 	- **Pathogenicity test of C. michiganensis ssp. capsici strain PF008 in pepper plants**:
 		- we could only successfully generate a pCM1Cmc deletion mutant (PF008ΔpCM1Cmc) by this method.
 		- three PF008DpCM1Cmc strains induced disease symptoms in the pepper plants, but these symptoms were delayed or mild compared with those  produced by the wild-type strain (Fig. 2b,c)
