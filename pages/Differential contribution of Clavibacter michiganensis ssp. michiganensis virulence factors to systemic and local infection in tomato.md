@@ -72,7 +72,8 @@ title: Differential contribution of Clavibacter michiganensis ssp. michiganensis
 		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FRZjPchHLM3.png?alt=media&token=0097a78e-0a08-45e8-b209-f408fc554f14)
 		  
 		  **Fig. 5: Relative expression of plant defence-related genes in response to 
-		  infection by Cmm382 and chpC mutant. ** Total RNA was extracted from infected leaves (a) and stems (b) at 24 h post-inoculation and the expression level was measured by quantitative reverse transcription-polymerase chain reaction (qRT-PCR). Transcripts of the tested genes were normalized using GAPDH (glyceraldehyde-3-phosphate dehydrogenase) as an internal reference and mock-inoculated plants as control. Results represent the mean of three different experiments with three replicates for each time point. Vertical bars represent the standard error. Cmm, Clavibacter michiganensis ssp. michiganensis.
+		  infection by Cmm382 and chpC mutant.**
+			- Total RNA was extracted from infected leaves (a) and stems (b) at 24 h post-inoculation and the expression level was measured by quantitative reverse transcription-polymerase chain reaction (qRT-PCR). Transcripts of the tested genes were normalized using GAPDH (glyceraldehyde-3-phosphate dehydrogenase) as an internal reference and mock-inoculated plants as control. Results represent the mean of three different experiments with three replicates for each time point. Vertical bars represent the standard error. Cmm, Clavibacter michiganensis ssp. michiganensis.
 		-
 - **Discussion**:
 	- Layne (1967) showed that infection occurs primarily on the upper leaf surfaces with younger leaves being more susceptible than older ones
