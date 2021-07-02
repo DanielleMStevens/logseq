@@ -5,8 +5,7 @@ title: A family of serine proteases of Clavibacter michiganensis subsp. michigan
 - **Authors**: [[Ines Stork]], [[K.-H. Gartmann]], [[Annette Burger]], and [[R. Eichenlaub]]
 - **Journal**: [[Molecular Plant Pathology]]
 - **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:4ab23423-628c-4279-81e0-6a24acae3473
-- **Tags**: #clavibacter #[[Clavibacter michiganensis]]
--
+- **Tags**: #clavibacter #[[Clavibacter michiganensis]] #[[serine proteases]]
 - **Abstract**:
 	- Genes for seven putative [[serine proteases]] (ChpA–[[chpG]]) belonging to the 
 	  trypsin subfamily and homologous to the virulence factor [[pat-1]]
