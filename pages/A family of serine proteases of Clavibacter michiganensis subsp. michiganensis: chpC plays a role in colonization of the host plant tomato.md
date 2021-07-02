@@ -49,7 +49,7 @@ title: A family of serine proteases of Clavibacter michiganensis subsp. michigan
 		  medium, respectively
 		- chpG mutant CMM101chpGβ was not affected in virulence and colonization of the host plant
 		- in planta indicated no signiﬁcant difference
-		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FyAiQvGKJiE.png?alt=media&token=9131a337-d1d9-4591-9963-98b8c46292af)
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FyAiQvGKJiE.png?alt=media&token=9131a337-d1d9-4591-9963-98b8c46292af){:height 208, :width 654}
 - **Discussion**:
 	- [[pat-1]] and the homologous proteins may comprise a family of [[serine proteases]] belonging to the chymotrypsin subfamily S1A
 	- chpC, chpE, chpF and chpG may encode functional [[serine proteases]]; however, when Cmm is grown in rich or minimal media the supernatant contains no protease activity when tested with common serine protease substrates, such as casein, azocasein and azocoll
