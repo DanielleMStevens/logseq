@@ -9,7 +9,7 @@ title: Class Notes + General Knowledge
 	- [[Understanding Genetic Variation]]
 	- [[GGG201D Class Notes]]
 	- [[History of Genetics Seminar - GGG291]]
-	-
+	- [[Genomics - GGG201B]]
 - [[Phylogenetics 290]]
 - [[Core Genetic Topics:]]
 	- ((0c3e1aa1-797b-4a9a-8b13-6c7855dd7887))
