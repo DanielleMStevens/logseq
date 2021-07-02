@@ -19,25 +19,30 @@ title: Tajima's D
 -
   |Value of Tajima's D| Tajima's D=0|Tajima's D<0|Tajima's D>0|
   |:---| :---: | :---: |---:|
-  |Mathematical reason|θ-π equivalent to Theta-k (Observed=Expected). Average Heterozygosity= # of Segregating sites.|θ-π less than Theta-k (Observed<Expected). Fewer haplotypes (lower average heterozygosity) than # of segregating sites.|
-  |Biological interpretation 1|Observed variation similar to expected variation|Rare alleles abundant (excess of rare alleles)|
+  |Mathematical reason|θ-π equivalent to Theta-k (Observed=Expected). Average Heterozygosity= # of Segregating sites.|θ-π less than Theta-k (Observed<Expected). Fewer haplotypes (lower average heterozygosity) than # of segregating sites.| θ-π greater than Theta-k (Observed>Expected). More haplotypes (more average heterozygosity) than # of segregating sites.|
+  |Biological interpretation 1|Observed variation similar to expected variation|Rare alleles abundant (excess of rare alleles)|Rare alleles scarce (lack of rare alleles)|
   |Biological interpretation 2|Population evolving as per mutation-drift equilibrium. No evidence of selection.|Recent selective sweep, population expansion after a recent bottleneck, linkage to a swept gene|
 -
 -
 - {{[[table]]}}
+  collapsed:: true
 	- Value of Tajima's D
+	  collapsed:: true
 		- Mathematical reason
 			- Biological interpretation 1
 				- Biological interpretation 2
 	- Tajima's D=0
+	  collapsed:: true
 		- θ-π equivalent to Theta-k (Observed=Expected). Average Heterozygosity= # of Segregating sites.
 			- Observed variation similar to expected variation
 				- Population evolving as per mutation-drift equilibrium. No evidence of selection.
 	- Tajima's D<0
+	  collapsed:: true
 		- θ-π less than Theta-k (Observed<Expected). Fewer haplotypes (lower average heterozygosity) than # of segregating sites.
 			- Rare alleles abundant (excess of rare alleles)
 				- Recent selective sweep, population expansion after a recent bottleneck, linkage to a swept gene
 	- Tajima's D>0
+	  collapsed:: true
 		- θ-π greater than Theta-k (Observed>Expected). More haplotypes (more average heterozygosity) than # of segregating sites.
 			- Rare alleles scarce (lack of rare alleles)
 				- Balancing selection, sudden population contraction
