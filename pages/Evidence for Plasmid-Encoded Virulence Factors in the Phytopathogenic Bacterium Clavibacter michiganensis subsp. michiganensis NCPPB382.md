@@ -1,0 +1,9 @@
+- **Authors:**
+- **Journal:** [[Journal of Bacteriology]]
+- **Readcube:** https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:d3d72340-57ff-4f0d-bcec-022eb4e338e9
+- **Tags:**
+- **Abstract:**
+- **Introduction:**
+- **Results:**
+- **Discussion:**
+- Other Notes
