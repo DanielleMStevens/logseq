@@ -10,7 +10,7 @@ title: Characterization of a Clavibacter michiganensis subsp. michiganensis popu
 	- Cm strains, collected during the last decade from different locations in Israel, were analyzed by macrorestriction pulsed-field gel electrophoresis (PFGE)
 	- The strains from Israel formed four distinct groups among which groups A (16 strains) and B (32 strains) constituted the major clusters
 	- PCR with primers based on three genes – [[ppaA]], [[chpC]] and [[tomA]] – that spanned [[chp/tomA]] produced the expected products with the tested pathogenic strains.
-	- However all the strains, including five non-pathogenic ones, reacted positively in PCR with primers based on celA gene, which resides on the plasmid pCM1 of [[NCPPB  382]]
+	- However all the strains, including five non-pathogenic ones, reacted positively in PCR with primers based on celA gene, which resides on the plasmid pCM1 of [[NCPPB 382]]
 	- Southern hybridization of total DNA with a 3.2-kb BglII fragment of pCM1 containing the celA gene was positive when carried out with 31 strains, but the size of the reacting band was not always the same as that of pCM1, suggesting that the plasmids carrying [[celA]] may differ in size
 	- that the primary inoculum originated each year from residual plants in the soil rather than from infested seeds, in spite of extensive control measures taken by the growers
 - **Introduction**:
