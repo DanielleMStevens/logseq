@@ -7,6 +7,8 @@ title: Class Notes + General Knowledge
 	- [[Wright-Fisher model]]
 	- [[Understanding Selection]]
 	- [[Understanding Genetic Variation]]
+	- [[GGG201D Class Notes]]
+	- [[History of Genetics Seminar - GGG291]]
 	-
 - [[Phylogenetics 290]]
 - [[Core Genetic Topics:]]
