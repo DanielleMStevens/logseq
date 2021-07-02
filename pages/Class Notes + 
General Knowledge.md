@@ -11,7 +11,7 @@ title: Class Notes + General Knowledge
 	- [[History of Genetics Seminar - GGG291]]
 	- [[Genomics - GGG201B]]
 	- [[Phylogenetics 290]]
-	- Taj
+	- [[Tajima's D]]
 - **Statistics**:
 	- [[Fisher’s exact test]]
 	- [[Benjamini–Hochberg correction]]
