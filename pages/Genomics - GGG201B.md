@@ -7,3 +7,10 @@ title: Genomics - GGG201B
 - Lab 7: https://hackmd.io/xmeYJT7cRJWQ4KDGXQT5Rg?view
 - Lab 9: https://hackmd.io/PKst69nuTkqYav1Kv1GlZw?view
 -
+-
+-
+  To calculate ::[[read depth]]
+	- $$D = LN/G$$
+	  L: read length, N: # of reads, G: genome size 
+	  **To calculate** [[N50]]
+	- Minimum contig length required to cover 50% of the genome
