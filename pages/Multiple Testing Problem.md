@@ -2,9 +2,9 @@
 title: Multiple Testing Problem
 ---
 
-- What is the Multiple Testing Problem?
+## What is the Multiple Testing Problem?
 - If you run a hypothesis test, there’s a small chance (usually about 5%) that you’ll get a bogus [significant ](https://www.statisticshowto.com/what-is-statistical-significance/)result. If you run thousands of tests, then the number of false alarms increases dramatically. For example, let’s say you run 10,000 separate hypothesis tests (which is common in fields like genomics). If you use the standard [alpha level ](https://www.statisticshowto.com/what-is-an-alpha-level/)of 5% (which is the probability of getting a false positive), you’re going to get around 500 significant results — **most of which will be false alarms**. This large number of false alarms produced when you run multiple hypothesis tests is called the **multiple testing problem.** (Or multiple comparisons problem).
-- Correcting for Multiple Testing
+## Correcting for Multiple Testing
 - [![multiple testing problem](https://www.statisticshowto.com/wp-content/uploads/2016/09/holm-bonferroni.png)](https://www.statisticshowto.com/wp-content/uploads/2016/09/holm-bonferroni.png)
 - The Holm-Bonferroni procedure controls the [[Type I error]] rate.
 - When you run multiple tests, the [p-values ](https://www.statisticshowto.com/p-value/)have to be adjusted for how many hypothesis tests you are running. In other words, you have to control the [Type I error rate](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/type-i-error-type-ii-error-decision/) (a Type I error is another name for incorrectly [rejecting the null hypothesis](https://www.statisticshowto.com/support-or-reject-null-hypothesis/)). There isn’t a universally-accepted way to control for the problem of multiple testing.
