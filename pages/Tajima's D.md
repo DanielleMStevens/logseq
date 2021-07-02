@@ -45,8 +45,7 @@ title: Tajima's D
 	-
 	- ![\hat{\theta}_T=\frac{2+1+3+1+1+2}{6}=1.67](https://s0.wp.com/latex.php?latex=%5Chat%7B%5Ctheta%7D_T%3D%5Cfrac%7B2%2B1%2B3%2B1%2B1%2B2%7D%7B6%7D%3D1.67&bg=ffffff&fg=111111&s=3)
 	- ![\hat{\theta}_W=\frac{3}{1+\frac{1}{2}+\frac{1}{3}}=1.63](https://s0.wp.com/latex.php?latex=%5Chat%7B%5Ctheta%7D_W%3D%5Cfrac%7B3%7D%7B1%2B%5Cfrac%7B1%7D%7B2%7D%2B%5Cfrac%7B1%7D%7B3%7D%7D%3D1.63&bg=ffffff&fg=111111&s=3)
-- So in this case, π gives us a similar estimate compared to θ. However, this will change once we introduce more rare mutations. 
-  The numerator in π  is the number of differences between each sequence. For example, if you compare the first 2 sequences, there are 2 differences. The first and third have 1 difference, etc.
+- So in this case, π gives us a similar estimate compared to θ. However, this will change once we introduce more rare mutations. The numerator in π  is the number of differences between each sequence. For example, if you compare the first 2 sequences, there are 2 differences. The first and third have 1 difference, etc.
 -
 - **Example 2**
 - -*------------
