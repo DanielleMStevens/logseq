@@ -67,7 +67,6 @@ title: Tajima's D
 - Here, because each mutation is a rare variant, the estimate of ![\theta](https://s0.wp.com/latex.php?latex=%5Ctheta&bg=ffffff&fg=111111&s=3) is lower in ![\hat{\theta}_T](https://s0.wp.com/latex.php?latex=%5Chat%7B%5Ctheta%7D_T&bg=ffffff&fg=111111&s=3) than in θ.
    This effect is not very pronounced in this example because n is so small, but if we increase n to 100 and make every mutation a rare one (i.e. at a frequency of 0.01), we can see the effect more clearly.
 -
-- Tajima’s D
 - Tajima’s D is the ^^comparison between the average number of pairwise differences and the number of segregating sites in a sample^^. We expect positive selection (or selective sweeps) to give us a negative Tajima’s D in a population that doesn’t have any demographic changes going on (population expansion/contraction, migration, etc). This is because θ will be greater than π.
 	- **Why?** Because after a selective sweep, most of the haplotypes in a population will be the same. Therefore, when mutations occur they will be rare. When you have a lot of rare mutations, π underestimates θ compared to θw and you get a negative Tajima’s D.
 - In the case of balancing selection, alleles are kept at intermediate frequencies. This produces a positive Tajima’s D because there will be more pairwise differences than segregating sites.
