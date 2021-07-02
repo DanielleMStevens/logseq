@@ -31,11 +31,10 @@ title: A family of serine proteases of Clavibacter michiganensis subsp. michigan
 		- [[pat-1]] family homologs have 277–286 amino acid residues and molecular weights of between 29.0 and 35.8 kDa. The [[G+C content]] of the genes varies between 51.9 and 65.5 mol%
 		- codon usage deviates from the normal codon usage of Cmm.
 		- A putative sortase motif with homology to (LPXTG) (Mazmanian et al., 2001), which may be important for anchoring of the protein to the cell wall, was identiﬁed only in [[pat-1]] and the [[chpA]] pseudogene
-		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FL7BLH2SE_v.png?alt=media&token=a1716953-9e6c-4c87-9419-3d5341713ec0)
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FL7BLH2SE_v.png?alt=media&token=a1716953-9e6c-4c87-9419-3d5341713ec0){:height 549, :width 572}
 		  **Fig. 2: Multiple alignment of the Pat-1 family members of Clavibacter 
 		  michiganensis subsp. michiganensis (Cmm).**
-			- Pseudogenes are marked with 
-			  asteriks. They contain ‘X’ introduced to restore the reading frame. Conserved cysteines, the conserved aspartate of the catalytic triad, the two [[serine proteases]] motifs and the putative sortase motif (LPGSG) are also indicated. The three amino acid residues (H, D, S) of the catalytic triad are exhibited below the alignment. The arrow marks the hypothetical processing site (AQA↓V) although this motif is not conserved in all putative gene products.
+			- Pseudogenes are marked with asteriks. They contain ‘X’ introduced to restore the reading frame. Conserved cysteines, the conserved aspartate of the catalytic triad, the two [[serine proteases]] motifs and the putative sortase motif (LPGSG) are also indicated. The three amino acid residues (H, D, S) of the catalytic triad are exhibited below the alignment. The arrow marks the hypothetical processing site (AQA↓V) although this motif is not conserved in all putative gene products.
 		-
 	- **Construction of chpC and chpG mutants**:
 		- During electroporation of the wild-type strain [[NCPPB  382]] we frequently 
