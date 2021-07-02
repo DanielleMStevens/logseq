@@ -23,7 +23,7 @@ title: A family of serine proteases of Clavibacter michiganensis subsp. michigan
 	- **Features of the Pat-1 protein family**:
 		- [[chpB]] contains a frame shift 138 nt downstream of the ATG start codon
 		- [[chpD]] has a frame shift at position 114 downstream of the ATG start codon and an in-frame stop codon at position 547–549
-		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FtBWnUh8liS.png?alt=media&token=de8cc65b-9a79-4f91-8c60-aabcaeb8d9b9)
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FtBWnUh8liS.png?alt=media&token=de8cc65b-9a79-4f91-8c60-aabcaeb8d9b9){:height 215, :width 667}
 		- **Fig. 1: Physical map of the 50-kb chromosomal region of Clavibacter michiganensis subsp. michiganensis (Cmm) carrying the chp genes.**
 			- Pseudogenes are underlined. Boxes indicate the fragments used to construct plasmids for gene replacement or complementation. The insertion sites of the cassettes carrying the chloramphenicol exporter gene cmx are indicated.
 		-
@@ -33,8 +33,9 @@ title: A family of serine proteases of Clavibacter michiganensis subsp. michigan
 		- A putative sortase motif with homology to (LPXTG) (Mazmanian et al., 2001), which may be important for anchoring of the protein to the cell wall, was identiﬁed only in [[pat-1]] and the [[chpA]] pseudogene
 		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FL7BLH2SE_v.png?alt=media&token=a1716953-9e6c-4c87-9419-3d5341713ec0)
 		  **Fig. 2: Multiple alignment of the Pat-1 family members of Clavibacter 
-		  michiganensis subsp. michiganensis (Cmm).** Pseudogenes are marked with 
-		  asteriks. They contain ‘X’ introduced to restore the reading frame. Conserved cysteines, the conserved aspartate of the catalytic triad, the two [[serine proteases]] motifs and the putative sortase motif (LPGSG) are also indicated. The three amino acid residues (H, D, S) of the catalytic triad are exhibited below the alignment. The arrow marks the hypothetical processing site (AQA↓V) although this motif is not conserved in all putative gene products.
+		  michiganensis subsp. michiganensis (Cmm).**
+			- Pseudogenes are marked with 
+			  asteriks. They contain ‘X’ introduced to restore the reading frame. Conserved cysteines, the conserved aspartate of the catalytic triad, the two [[serine proteases]] motifs and the putative sortase motif (LPGSG) are also indicated. The three amino acid residues (H, D, S) of the catalytic triad are exhibited below the alignment. The arrow marks the hypothetical processing site (AQA↓V) although this motif is not conserved in all putative gene products.
 		-
 	- **Construction of chpC and chpG mutants**:
 		- During electroporation of the wild-type strain [[NCPPB  382]] we frequently 
