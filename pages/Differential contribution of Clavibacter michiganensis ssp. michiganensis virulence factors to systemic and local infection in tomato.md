@@ -58,11 +58,9 @@ title: Differential contribution of Clavibacter michiganensis ssp. michiganensis
 		- [[celA]] and pat-1, two virulence determinants residing on pCM1 and pCM2, 
 		  respectively, might not be expressed during blister formation.
 		- Inactivation of [[chpC]], [[sbtA]] and [[vatr2]] reduced both blister formation and wilting
-			- chpC, sbtA and vatr2 transcripts could be measured as early as 8–16 h in 
-			  Cmm-treated leaves, whereas, in infected stems, chpC and vatr2 transcripts accumulated later, after 72 h and 24 h, respectively, and that of sbtA remained unchanged
+			- chpC, sbtA and vatr2 transcripts could be measured as early as 8–16 h in Cmm-treated leaves, whereas, in infected stems, chpC and vatr2 transcripts accumulated later, after 72 h and 24 h, respectively, and that of sbtA remained unchanged
 		- Inactivation of pgaA, endX/Y, perF and srtA genes significantly reduced blister formation, but not wilting
-			- The expression levels of these genes in the wild-type following spray  inoculation were highly induced early (at 8–16 h), whereas these genes 
-			  were barely expressed following puncture inoculation
+			- The expression levels of these genes in the wild-type following spray inoculation were highly induced early (at 8–16 h), whereas these genes were barely expressed following puncture inoculation
 	- **Expression of plant defence-related genes in response to infection by Cmm382 and chpC mutant:**
 		- The plant genes were selected based on proteomic analysis of Cmm-inoculated tomato plant
 			- three [ACO1 (1-aminocyclopropane1-carboxylic acid (ACC) oxidase 1), PR4 
@@ -73,7 +71,7 @@ title: Differential contribution of Clavibacter michiganensis ssp. michiganensis
 		  
 		  **Fig. 5: Relative expression of plant defence-related genes in response to 
 		  infection by Cmm382 and chpC mutant.**
-			- Total RNA was extracted from infected leaves (a) and stems (b) at 24 h post-inoculation and the expression level was measured by quantitative reverse transcription-polymerase chain reaction (qRT-PCR). Transcripts of the tested genes were normalized using GAPDH (glyceraldehyde-3-phosphate dehydrogenase) as an internal reference and mock-inoculated plants as control. Results represent the mean of three different experiments with three replicates for each time point. Vertical bars represent the standard error. Cmm, Clavibacter michiganensis ssp. michiganensis.
+			- Total RNA was extracted from infected leaves (a) and stems (b) at 24 h post-inoculation and the expression level was measured by quantitative reverse transcription-polymerase chain reaction (qRT-PCR). Transcripts of the tested genes were normalized using GAPDH (glyceraldehyde-3-phosphate dehydrogenase) as an internal reference and mock-inoculated plants as control. Results represent the mean of three different experiments with three replicates for each time point. Vertical bars represent the standard error.
 		-
 - **Discussion**:
 	- Layne (1967) showed that infection occurs primarily on the upper leaf surfaces with younger leaves being more susceptible than older ones
