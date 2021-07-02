@@ -14,7 +14,7 @@ title: Tajima's D
 - to identify sequences which do not fit the neutral theory model at equilibrium between [mutation](https://en.wikipedia.org/wiki/Mutation) and [genetic drift](https://en.wikipedia.org/wiki/Genetic_drift).
 -
 - Interpreting Tajima's D
-- A negative Tajima's D signifies an excess of low frequency polymorphisms relative to expectation, indicating population size expansion (e.g., after a bottleneck or a selective sweep) and/or purifying selection. A positive Tajima's D signifies low levels of both low and high frequency polymorphisms, indicating a decrease in population size and/or balancing selection. However, calculating a conventional "p-value" associated with any Tajima's D value that is obtained from a sample is impossible. Briefly, this is because there is no way to describe the distribution of the statistic that is independent of the true, and unknown, theta parameter (no pivot quantity exists). To circumvent this issue, several options have been proposed.
+	- A negative Tajima's D signifies an excess of low frequency polymorphisms relative to expectation, indicating population size expansion (e.g., after a bottleneck or a selective sweep) and/or purifying selection. A positive Tajima's D signifies low levels of both low and high frequency polymorphisms, indicating a decrease in population size and/or balancing selection. However, calculating a conventional "p-value" associated with any Tajima's D value that is obtained from a sample is impossible. Briefly, this is because there is no way to describe the distribution of the statistic that is independent of the true, and unknown, theta parameter (no pivot quantity exists). To circumvent this issue, several options have been proposed.
 -
 -
   |Value of Tajima's D| Tajima's D=0|
