@@ -21,7 +21,6 @@ title: Class Notes + General Knowledge
 - **Microbiology Topics:**
 	- [[Secretion in Gram-positive Bacteria]]
 	- [[Secretion Systems]]
--
 - **Molecular/Cell Biology Topics:**
 	- [[Cell Cycle]]
 	- [[Mitosis]]
