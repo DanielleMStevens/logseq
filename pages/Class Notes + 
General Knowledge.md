@@ -32,6 +32,14 @@ title: Class Notes + General Knowledge
 	- [[PLP228 - Huanglongbing - Citrus Greening]]
 	- [[PLP228 - Coconut Lethal Yellowing Diseases]]
 -
+  **Understanding Basic** ::[[Population Genetics]]
+	- [[pi]]: mean pairwise differences
+	- [[theta]]: # of segregating sites
+	- [[Tajima's D]]: is computed as the difference between two measures of genetic diversity: the mean number of pairwise differences and the number of segregating sites, ^^each scaled^^ so that they are expected to ^^be the same in a neutrally evolving population of constant size^^
+	- D=0 neutral
+	- D>0 balancing
+	- D<0 positive
+	- [[Neutral Theory, Microbial Practice: Challenges in Bacterial Population Genetics]]
 - **Other Notes**
 - [[Evolution and Ecology of CRISPR]]
 - [[Phylogenetics Seminar]]
