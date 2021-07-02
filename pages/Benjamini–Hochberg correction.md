@@ -2,7 +2,7 @@
 title: Benjamini–Hochberg correction
 ---
 
-- What is the Benjamini-Hochberg Procedure?
+## What is the Benjamini-Hochberg Procedure?
 - The Benjamini-Hochberg Procedure is a powerful tool that decreases the [false discovery rate](https://www.statisticshowto.com/false-discovery-rate/).
 - Adjusting the rate helps to control for the fact that sometimes small[ p-values ](https://www.statisticshowto.com/p-value/)(less than 5%) happen by chance, which could lead you to incorrectly [reject the true null hypotheses](https://www.statisticshowto.com/support-or-reject-null-hypothesis/). In other words, the B-H Procedure helps you to avoid [Type I errors ](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/type-i-error-type-ii-error-decision/)(false positives).
 - A p-value of 5% means that there’s only a 5% chance that you would get your observed result __if__ the null hypothesis were true. In other words, if you get a p-value of 5%, it’s highly unlikely that your null hypothesis is not true and should be thrown out. But it’s only a probability–many times, true null hypotheses are thrown out just because of the randomness of results.
