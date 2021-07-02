@@ -1,6 +1,5 @@
 ---
-title: Class Notes + 
-General Knowledge
+title: Class Notes + General Knowledge
 ---
 
 - [[Phylogenetics 290]]
