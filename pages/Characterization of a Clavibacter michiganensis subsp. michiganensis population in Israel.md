@@ -5,7 +5,7 @@ title: Characterization of a Clavibacter michiganensis subsp. michiganensis popu
 - **Authors**: [[Frida Kleitman]], [[Isaac Barash]], [[Annette Burger]], [[Naim Iraki]], [[Yunis Falah]], [[Guido Sessa]], [[Dan Weinthal]], [[Laura Chalupowicz]], [[K.-H. Gartmann]], [[R. Eichenlaub]], and [[Shulamit Manulis-Sasson]]
 - **Journal**: [[European Journal of Plant Pathology]]
 - **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:8592d4e5-aa9f-406f-9f70-49b0115a05d1
-- **Tags**:
+- **Tags**: #[[Clavibacter michiganensis]] #[[Population Genetics]]
 - **Abstract**:
 	- Cm strains, collected during the last decade from different locations in Israel, were analyzed by macrorestriction pulsed-field gel electrophoresis (PFGE)
 	- The strains from Israel formed four distinct groups among which groups A (16 strains) and B (32 strains) constituted the major clusters
