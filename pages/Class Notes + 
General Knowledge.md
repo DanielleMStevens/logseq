@@ -10,7 +10,7 @@ title: Class Notes + General Knowledge
 	- [[GGG201D Class Notes]]
 	- [[History of Genetics Seminar - GGG291]]
 	- [[Genomics - GGG201B]]
-- [[Phylogenetics 290]]
+	- [[Phylogenetics 290]]
 - **Statistics**:
 	- [[Fisher’s exact test]]
 	- [[Benjamini–Hochberg correction]]
