@@ -58,7 +58,7 @@ title: Differential contribution of Clavibacter michiganensis ssp. michiganensis
 		- [[celA]] and pat-1, two virulence determinants residing on pCM1 and pCM2, 
 		  respectively, might not be expressed during blister formation.
 		- Inactivation of [[chpC]], [[sbtA]] and [[vatr2]] reduced both blister formation and wilting
-			- chpC, sbtA and vatr2 transcripts could be measured as early as 8–16 h in Cmm-treated leaves, whereas, in infected stems, chpC and vatr2 transcripts accumulated later, after 72 h and 24 h, respectively, and that of sbtA remained unchanged
+			- chpC, sbtA and vatr2 transcripts could be measured as early as 8–16 h in Cmm-treated leaves, whereas, in infected stems, [[chpC]] and vatr2 transcripts accumulated later, after 72 h and 24 h, respectively, and that of sbtA remained unchanged
 		- Inactivation of pgaA, endX/Y, perF and srtA genes significantly reduced blister formation, but not wilting
 			- The expression levels of these genes in the wild-type following spray inoculation were highly induced early (at 8–16 h), whereas these genes were barely expressed following puncture inoculation
 	- **Expression of plant defence-related genes in response to infection by Cmm382 and chpC mutant:**
