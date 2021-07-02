@@ -25,13 +25,11 @@ title: Differential contribution of Clavibacter michiganensis ssp. michiganensis
 	  represent a second group of virulence factors, which were designated as 
 	  the Ppa family [(Gartemann et al., 2008)]([[The Genome Sequence of the Tomato-Pathogenic Actinomycete Clavibacter michiganenesis subsp. michiganensis NCPPB 382 Reveals a Large Island Involved in Pathogenicity]])
 		- With the exception of ppaJ, which is located on the pCM1 plasmid, the other family members are chromosomal.
-		- Six of them (ppaA to ppaE) are located in the chp region of the [[chp/tomA]] PAI and the rest (ppaF to ppaI) in two different chromosomal loci.
+		- Six of them ([[ppaA]] to ppaE) are located in the chp region of the [[chp/tomA]] PAI and the rest (ppaF to ppaI) in two different chromosomal loci.
 	- The third group is the three-member family of subtilase proteases: one gene ([[sbtA]]) is located on the chp region of the PAI, whereas the other two genes (sbtB and sbtC) are present elsewhere on the chromosome.
 	- A gene homologous to the plasmid-borne celA ([[celB]]), but lacking the a-expansin-like domain, is present on the chromosome
 	- some genes encoding cell wall-degrading enzymes have been found to be induced at early stages of the disease
-	- [[Cmm27]] showed a significant increase in the relative expression of two 
-	  genes encoding pathogenesisrelated (PR) proteins (chitinase II and PR5 
-	  isoform), when compared with plants infected with [[NCPPB  382]] or [[Cmm100]] containing the intact [[chp/tomA]] PAI
+	- [[Cmm27]] showed a significant increase in the relative expression of two genes encoding pathogenesisrelated (PR) proteins (chitinase II and PR5 isoform), when compared with plants infected with [[NCPPB  382]] or [[Cmm100]] containing the intact [[chp/tomA]] PAI
 	- [[chpC]], a serine protease residing on the PAI, is involved in the suppression of host defence.
 - **Results**:
 	- **Blister formation on tomato leaves by Cmm**:
