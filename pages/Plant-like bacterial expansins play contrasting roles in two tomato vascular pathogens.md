@@ -27,8 +27,7 @@ title: Plant-like bacterial expansins play contrasting roles in two tomato vascu
 - **Results**:
 	- CmEXLX2 was disrupted in a virulent Cmm New York strain (Cmm0317) that naturally lacked the CmEXLX1 plasmid-borne chimeric expansin (Tancos et al., 2015)
 	- **The Cmm ΔCmEXLX2 mutant causes increased symptoms on tomato seedlings and fruit**:
-		- Tomato seedlings inoculated with ΔCmEXLX2 consistently developed earlier
-		   and more severe wilt symptoms than the wild-type or complemented strains
+		- Tomato seedlings inoculated with ΔCmEXLX2 consistently developed earlier and more severe wilt symptoms than the wild-type or complemented strains
 		- All three Cmm strains produced typical stem cankers at the site of inoculation, but ΔCmEXLX2 also produced multiple atypical cankers in the vascular bundles of distant petioles that appeared at approximately 11–14 DPI (Table 1, Fig. 1).
 		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FEB9Rg4SZ-7.png?alt=media&token=4e2e10c8-7f46-4273-aebf-79f6d86b86c7)
 		- necrosis was confined to the vasculature, with healthy tissue surrounding the lesions until the later stages of disease development (Fig. 1)
