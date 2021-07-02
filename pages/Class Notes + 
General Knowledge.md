@@ -3,7 +3,8 @@ title: Class Notes + General Knowledge
 ---
 
 - **Core Genetic Topics**:
--
+	- [[Hardy Weinberg Equilibrium]]
+	-
 - [[Phylogenetics 290]]
 - [[Core Genetic Topics:]]
 	- ((0c3e1aa1-797b-4a9a-8b13-6c7855dd7887))
