@@ -14,7 +14,7 @@ title: Clavibacter Papers
 		- [[Characterization of a Clavibacter michiganensis subsp. michiganensis population in Israel]]
 		- [[Clavibacter michiganensis subsp. michiganensis: first steps in the understanding of virulence of a Gram-positive phytopathogenic bacterium]]
 		- [[Comparative genomics of Clavibacter michiganensis subspecies, pathogens of important agricultural crops]]
-		-
+		- [[Evidence for Plasmid-Encoded Virulence Factors in the Phytopathogenic Bacterium Clavibacter michiganensis subsp. michiganensis NCPPB382]]
 		-
 		- https://apsjournals.apsnet.org/doi/pdf/10.1094/MPMI.2004.17.9.1019
 		-
