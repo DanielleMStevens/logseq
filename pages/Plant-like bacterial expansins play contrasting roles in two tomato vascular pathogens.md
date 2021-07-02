@@ -45,16 +45,13 @@ title: Plant-like bacterial expansins play contrasting roles in two tomato vascu
 		- The [[expansin]]-hybrid did not restore the Cmm wild-type-level virulence and canker severity when inoculated into tomato, but showed a tendency to induce less severe disease than ΔCmEXLX2
 		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FXEE7wIbt_J.png?alt=media&token=9527f1c9-da04-474a-a247-3e62b1a81fe0)
 		  **Fig. 9S: The mean area under the disease progress curve (AUDPC) for the disease severity of Clavibacter michiganensis ssp. michiganensis.** Cmm017 (wild-type), DCmEXLX2 (Cmm expansin mutant), CDCmEXLX2+ (Cmm complement), and CDCmP:RsEXLX+ (Ralstonia solanacearum expansin-hybrid mutant) on tomato. Differences among strains were determined using he lme4 package in Rv3.3.2 to create a linear mixed effects model (P < 0.05) followed by Tukey-Kramer post-test (P < 0.05). AUDPC values with the same letter are not significantly different. Three independent experiments are presented. Error bars correspond to the standard error.
-		- Although both CmEXLX2 and RsEXLX are nonchimeric [[expansin]]s, they only 
-		  share 27% amino acid identity, which could explain why RsEXLX did not restore wild-type-level virulence (Table 2 and Fig. S10, see Supporting  Information).
+		- Although both CmEXLX2 and RsEXLX are nonchimeric [[expansin]]s, they only share 27% amino acid identity, which could explain why RsEXLX did not restore wild-type-level virulence (Table 2 and Fig. S10, see Supporting  Information).
 		-
 - **Discussion**:
 	- only ΔCmEXLX2 caused atypical necrotic lesions on the vasculature of distant petioles
 	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2F_cTEwt0Hug.png?alt=media&token=3a572529-621a-464c-b3c7-1a9fb3dfb139)
-	- We favour the hypothesis that CmEXLX2 competes with the numerous Cmm 
-	  cell wall-degrading enzymes (CWDEs) for unique binding sites on the plant cell wall, which may have increased efficiency, resulting in major structural changes and the breakdown of the plant cell wall (i.e. necrosis)
-	- increased necrosis caused by ΔCmEXLX2 probably poses a fitness cost at 
-	  another life cycle stage, such as during seed or leaf infection
+	- We favour the hypothesis that CmEXLX2 competes with the numerous Cmm cell wall-degrading enzymes (CWDEs) for unique binding sites on the plant cell wall, which may have increased efficiency, resulting in major structural changes and the breakdown of the plant cell wall (i.e. necrosis)
+	- increased necrosis caused by ΔCmEXLX2 probably poses a fitness cost at another life cycle stage, such as during seed or leaf infection
 	- hypervirulent in grape, but are poorly transmitted by their insect vectors because they attach too strongly to host surfaces (Newman et al., 2004)
 	- Previous studies have shown that disruption of the endoglucanase-expansin chimeras in Cmm and [[Xylella fastidiosa]] reduces disease symptoms (Ingel et al., 2015; Jahr et al., 2000; Laine et al., 2000).
 	- Streptomyces also contains non-vascular phytopathogenic bacteria possessing bacterial expansins; however, some phytopathogenic Streptomyces sp., such as S. acidiscabies, can tolerate acidic soils with pH values ranging between 4 and 5.5, depending on the strain (Lambert and Loria, 1989a,b).
