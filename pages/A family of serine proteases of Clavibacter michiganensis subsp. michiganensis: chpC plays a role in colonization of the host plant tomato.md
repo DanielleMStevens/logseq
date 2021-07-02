@@ -24,7 +24,8 @@ title: A family of serine proteases of Clavibacter michiganensis subsp. michigan
 		- [[chpB]] contains a frame shift 138 nt downstream of the ATG start codon
 		- [[chpD]] has a frame shift at position 114 downstream of the ATG start codon and an in-frame stop codon at position 547–549
 		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FQualifying_Exam%2FtBWnUh8liS.png?alt=media&token=de8cc65b-9a79-4f91-8c60-aabcaeb8d9b9)
-		  **Fig. 1: Physical map of the 50-kb chromosomal region of Clavibacter michiganensis subsp. michiganensis (Cmm) carrying the chp genes. ** Pseudogenes are underlined. Boxes indicate the fragments used to construct plasmids for gene replacement or complementation. The insertion sites of the cassettes carrying the chloramphenicol exporter gene cmx are indicated.
+		- **Fig. 1: Physical map of the 50-kb chromosomal region of Clavibacter michiganensis subsp. michiganensis (Cmm) carrying the chp genes.**
+			- Pseudogenes are underlined. Boxes indicate the fragments used to construct plasmids for gene replacement or complementation. The insertion sites of the cassettes carrying the chloramphenicol exporter gene cmx are indicated.
 		-
 		- All [[pat-1]] homologues have a putative signal peptide indicating that these proteins are secreted. Two motifs characteristic for [[serine proteases]] of the trypsin type ([LIVM][ST]A[STAG]HC and [DNSTAGC][GSTAPIMVQH]x(2)G[DE]SG[GS][SAPHV][LIVMFYWH][LIVMFYSTANQH]-PROSITE, PDOC00124) are highly conserved.
 		- [[pat-1]] family homologs have 277–286 amino acid residues and molecular weights of between 29.0 and 35.8 kDa. The [[G+C content]] of the genes varies between 51.9 and 65.5 mol%
