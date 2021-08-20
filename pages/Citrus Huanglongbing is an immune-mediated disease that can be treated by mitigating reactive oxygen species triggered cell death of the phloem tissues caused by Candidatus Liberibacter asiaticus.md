@@ -1,8 +1,7 @@
 - **Authors**:
 - **Journal**:
-  **Readcube**:
-  **Tags**:
-  **Abstract**:
-  **Introduction**:
+- **Readcube**:
+- **Tags**:
+- **Abstract**:**Introduction**:
   **Results**:
   **Discussion**:
