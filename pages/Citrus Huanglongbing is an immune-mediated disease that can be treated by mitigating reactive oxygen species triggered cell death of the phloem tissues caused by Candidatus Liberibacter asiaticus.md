@@ -10,4 +10,5 @@
 		- Ca. Liberibacter spp. do not contain the type II, III, and IV secretion systems that secrete such pathogenicity factors.
 		- 47 predicated virulence factors including serralysin and hemolysin (substrates of type I secretion system) and proteins containing Sec secretion signals (Table S1) (9) were overexpressed in Arabidopsis thaliana, Nicotiana tabacum or Citrus paradisi. None of the overexpressed CLas proteins caused HLB-like symptoms, consistent with the bioinformatic analyses that CLas does not contain pathogenicity factors that directly cause HLB symptoms.
 	- **CLas infection triggers immune response and cell death in the phloem tissues**
+		- We trimmed HLB positive and healthy two-year-old C. sinensis ‘Valencia’ trees in a greenhouse to trigger young flush and conducted dynamic analyses of the relationship between CLas infection, immune response, cell death, and HLB symptom development.
 - **Discussion**:
