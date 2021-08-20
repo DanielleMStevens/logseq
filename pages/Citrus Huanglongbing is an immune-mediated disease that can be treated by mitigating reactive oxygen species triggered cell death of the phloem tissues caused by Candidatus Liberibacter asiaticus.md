@@ -7,6 +7,5 @@
 - **Introduction**:
 - **Results**:
 	- **CLas does not contain pathogenicity factors that directly cause HLB symptoms**
-		- Ca. Liberibacter spp. do not contain the type II, III, and IV secretion systems that secrete such
-		  68 pathogenicity factors.
+		- Ca. Liberibacter spp. do not contain the type II, III, and IV secretion systems that secrete such pathogenicity factors.
 - **Discussion**:
