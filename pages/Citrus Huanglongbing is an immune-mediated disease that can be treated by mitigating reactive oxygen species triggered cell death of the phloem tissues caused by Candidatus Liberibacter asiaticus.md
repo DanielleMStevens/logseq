@@ -16,6 +16,7 @@
 		- We observed cell death of sieve element and companion cells via transmission electron microscopy (TEM) analysis of asymptomatic young leaves of HLB positive C. sinensis ‘Valencia’ trees (Fig. 2A-D), indicating cell death of phloem tissues occurs prior to the appearance of HLB symptoms. CLas was observed in phloem tissues with intact sieve element and companion cells, but not in sieve element cells undergoing the cell death process (Fig. 2C-E).
 		- ![2021_08_19_Screen Shot 2021-08-19 at 10.16.22 PM.png](https://cdn.logseq.com/%2Fc8c9845b-a7fd-4de7-86cd-c4be3d7156945b4b1459-b337-411b-94ef-6d79838800f72021_08_19_Screen%20Shot%202021-08-19%20at%2010.16.22%20PM.png?Expires=4783036599&Signature=JramAwr9W2Xy56xS0sBoyDBripNLdVVE8eCogKlFF5DkQWpRXQYj41yai34MjjeRaugAOXUZoBmj82JG8b2RkjvM1~8644JWTFLVUjrDKwSF9uLC5VMv9qFpIAAYs6J5~qNNiNVNJxdcOPhdpb7W~6mm4azlVPZceZVXf9CazVMz9n0W1dVXnkKrD0Nl1GAQD04gytl3ACheSMiRxEhFFvjYelmhRQMXVGWyHgpVQCql2T7MEn-ELi-f~EMk9lPvScADc6OtS19K3sLmkLynowmwogR8XI8jr~qNYariFCLl89HW~0lPBw6wmXl5vi0iqL0yJ5OWfHFv52sR5-xgyA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 		- Cell death was observed in CLas positive asymptomatic leaves, and leaves with mild or severe HLB symptoms and correlated positively with symptom development (Fig. 3A).
+		- More cell death was observed
 		-
 -
 - **Discussion**:
