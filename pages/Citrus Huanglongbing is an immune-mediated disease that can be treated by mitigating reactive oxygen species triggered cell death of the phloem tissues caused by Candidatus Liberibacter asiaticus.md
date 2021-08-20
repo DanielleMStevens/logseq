@@ -23,3 +23,4 @@
 - **Discussion**:
 	- In this study, we demonstrate that citrus HLB is an immune-mediated disease. CLas induces a systemic chronic immune response, mimicking systemic chronic inflammation diseases of human
 	- The detailed molecular mechanism of how CLas activates immune response remains unknown. We anticipate that cytoplasmic receptors, such as nucleotide-binding leucine-rich repeat (NLR) proteins are mainly responsible for intracellular detection of CLas through recognition of PAMPs inside companion and sieve element cells.
+	- Moreover, growth hormones and micronutrients promote new growth, which decreases the ratio of dead cells in phloem tissues, further mitigating HLB symptoms.
