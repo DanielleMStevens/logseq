@@ -3,6 +3,7 @@
 - **Readcube**:
 - **Tags**:
 - **Abstract**:
+	- Here we present evidence that citrus HLB is an immune-mediated disease. This hypothesis explains most phenomena observed for HLB, fits the genetic information of Ca. Liberibacter spp., and also provides guidance regarding HLB management.
 - **Introduction**:
 - **Results**:
 - **Discussion**:
