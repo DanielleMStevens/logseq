@@ -21,6 +21,4 @@
 		-
 -
 - **Discussion**:
-	- In this study, we demonstrate that citrus HLB is an immune-mediated disease. CLas induces a
-	  375 systemic chronic immune response, mimicking systemic chronic inflammation diseases of
-	  376 human
+	- In this study, we demonstrate that citrus HLB is an immune-mediated disease. CLas induces a systemic chronic immune response, mimicking systemic chronic inflammation diseases of human
