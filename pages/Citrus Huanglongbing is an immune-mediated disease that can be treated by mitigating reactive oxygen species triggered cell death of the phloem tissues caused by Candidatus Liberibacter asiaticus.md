@@ -18,7 +18,7 @@
 		- Cell death was observed in CLas positive asymptomatic leaves, and leaves with mild or severe HLB symptoms and correlated positively with symptom development (Fig. 3A).
 		- More cell death was observed with increasing CLas titers, suggesting CLas infection is responsible for the cell death of the phloem tissues (figs. 2 and 3).
 		- In addition, significantly higher H2O2 concentrations were detected in the exudates of phloem enriched tissues of CLas positive stems than that of stems of CLas-free trees (Fig. 3C).
-		-
+		- ![2021_08_20_Screen Shot 2021-08-20 at 8.46.16 AM.png](https://cdn.logseq.com/%2Fc8c9845b-a7fd-4de7-86cd-c4be3d71569402f504b5-0e44-41e9-a1bf-c0a9f1ec53722021_08_20_Screen%20Shot%202021-08-20%20at%208.46.16%20AM.png?Expires=4783074389&Signature=hwQYj3bijj2pluPCLu40RjL8eUrXZfADEl9xBiF9WFWrv9QTGLbS1bFaum0XNo0dZv8b8GJ9nqkKmDMc94dKgjUgT8bSNRxOOHjdp7OXT4~5C3Zr9ywDjjZz5YIh7iCcB01R0sCvttC6vYAULL3ry8kmRnkTg8pnDHCF3q4d2BPHvOYkJuBN-SUJCdn4nPaolWWRYmzOjFja0WZH6eCVF4zmHWKTwnHmGCkTLw0xHecL7TccgkQqcG8V1jhH4zKPIOmbcs59x1i1xHVwU1QQRG~bN~FQCOAAMV2ORO2lKheszfEXCBIRY2dmItar3ahtUJOP54u3wQJrP6cCU467iA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 -
 - **Discussion**:
 	- In this study, we demonstrate that citrus HLB is an immune-mediated disease. CLas induces a systemic chronic immune response, mimicking systemic chronic inflammation diseases of human
