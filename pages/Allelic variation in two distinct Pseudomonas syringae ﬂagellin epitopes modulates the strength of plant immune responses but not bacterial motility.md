@@ -3,7 +3,7 @@
 - **Readcube**: https://www.readcube.com/library/95fd6ff6-fca1-4a81-9ddb-c57079c1e1f2:9e987181-a6c9-4fcd-8df7-f514e9c28fa4
 - **Tags**: #MAMPs #[[mamp-paper]]
 - **Abstract**:
-	-
+	- g22 is recognized by many plant species via the pattern recognition receptor FLS2, neither the flgII-28 receptor nor the extent of flgII-28 recognition by different plant families is know
 - **Introduction**:
 - **Results**:
 - **Discussion**:
